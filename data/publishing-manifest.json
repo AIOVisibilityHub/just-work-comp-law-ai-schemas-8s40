@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-06T15:57:18.730Z",
+  "generatedAt": "2026-08-06T15:57:26.171Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw.com",
@@ -161,7 +161,7 @@
   },
   "package": {
     "totalFiles": 253,
-    "totalBytes": 2393415,
+    "totalBytes": 2399009,
     "stats": {
       "qna": 0,
       "faqs": 0,
@@ -1432,7 +1432,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3523,
+        "bytes": 4217,
         "purpose": "LLM hint"
       },
       {
@@ -1452,32 +1452,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 983,
+        "bytes": 1664,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 99671,
+        "bytes": 101114,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 34926,
+        "bytes": 35620,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 34926,
+        "bytes": 35620,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3356,
+        "bytes": 4050,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 26205,
+        "bytes": 26899,
         "purpose": "Repository README"
       },
       {
@@ -1492,5 +1492,11 @@
       }
     ]
   },
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40",
+      "pagesUrl": "https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/",
+      "repo": "AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40"
+    }
+  }
 }

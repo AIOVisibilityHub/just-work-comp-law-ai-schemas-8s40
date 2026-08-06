@@ -1,0 +1,7 @@
+/* TEAM */
+Entity: Just Work Comp Law
+Site: https://justworkcomplaw.com
+
+/* SITE */
+Last update: 2026-08-06
+Standards: HTML5, JSON-LD, Schema.org

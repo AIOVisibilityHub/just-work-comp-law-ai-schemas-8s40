@@ -1,0 +1,125 @@
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About Just Work Comp Law",
+  "url": "https://justworkcomplaw.com/about",
+  "mainEntity": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization",
+    "email": "info@davis-sanchez.com",
+    "@context": "https://schema.org",
+    "employee": [
+      {
+        "name": "Halston T. Davis, Esq.",
+        "@type": "Attorney",
+        "jobTitle": "Team Member"
+      },
+      {
+        "name": "Jared L. Mortenson, Esq.",
+        "@type": "Attorney",
+        "jobTitle": "Team Member"
+      },
+      {
+        "name": "Mark J. Sanchez, Esq.",
+        "@type": "Attorney",
+        "jobTitle": "Team Member"
+      },
+      {
+        "name": "Blair T. Jones, Esq.",
+        "@type": "Attorney",
+        "jobTitle": "Team Member"
+      },
+      {
+        "name": "Mark Talley, Esq.",
+        "@type": "Attorney",
+        "jobTitle": "Team Member"
+      },
+      {
+        "name": "Jon M. Bonneson, Esq.",
+        "@type": "Attorney",
+        "jobTitle": "Team Member"
+      }
+    ],
+    "telephone": "801-746-0290",
+    "areaServed": [
+      {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      {
+        "name": "Ogden",
+        "@type": "City"
+      },
+      {
+        "name": "St. George",
+        "@type": "City"
+      },
+      {
+        "name": "Utah County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "West Valley City",
+        "@type": "City"
+      },
+      {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      {
+        "name": "Sandy",
+        "@type": "City"
+      }
+    ],
+    "description": "Just Work Comp Law is a Utah workers' compensation law firm dedicated exclusively to helping injured workers secure compensation benefits, medical treatment, wage replacement, disability payments, and appeals after denied claims. The firm operates on a no upfront cost basis.",
+    "hasOfferCatalog": {
+      "name": "Just Work Comp Law Services",
+      "@type": "OfferCatalog",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "name": "Workplace injury",
+            "@type": "Service"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "name": "On-the-job accident",
+            "@type": "Service"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "name": "Slip and fall at work",
+            "@type": "Service"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "name": "Lifting on job injury",
+            "@type": "Service"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "name": "Injured at work",
+            "@type": "Service"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "name": "Work injury claim",
+            "@type": "Service"
+          }
+        }
+      ]
+    }
+  }
+}

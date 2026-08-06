@@ -1,0 +1,1608 @@
+{
+  "generatedAt": "2026-08-06T15:57:18.727Z",
+  "files": [
+    {
+      "path": "services/workplace-injury-salt-lake-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1436,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/workplace-injury-ogden-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1400,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/workplace-injury-st-george-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1420,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/workplace-injury-utah-county-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1438,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/workplace-injury-west-valley-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1444,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/workplace-injury-west-jordan-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1424,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/workplace-injury-sandy-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1400,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/on-the-job-accident-salt-lake-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1454,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/on-the-job-accident-ogden-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1418,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/on-the-job-accident-st-george-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1438,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/on-the-job-accident-utah-county-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1456,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/on-the-job-accident-west-valley-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1462,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/on-the-job-accident-west-jordan-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1442,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/on-the-job-accident-sandy-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1418,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-salt-lake-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1430,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-ogden-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1394,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-st-george-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1414,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-utah-county-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1432,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-west-valley-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1438,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-west-jordan-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1418,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-sandy-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1394,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/lifting-on-job-injury-salt-lake-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1479,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/lifting-on-job-injury-ogden-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1443,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/lifting-on-job-injury-st-george-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1463,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/lifting-on-job-injury-utah-county-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1481,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/lifting-on-job-injury-west-valley-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1487,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/lifting-on-job-injury-west-jordan-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1467,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/lifting-on-job-injury-sandy-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1443,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/injured-at-work-salt-lake-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1477,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/injured-at-work-ogden-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1441,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/injured-at-work-st-george-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1461,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/injured-at-work-utah-county-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1479,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/injured-at-work-west-valley-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1485,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/injured-at-work-west-jordan-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1465,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/injured-at-work-sandy-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1441,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/work-injury-claim-salt-lake-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1416,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/work-injury-claim-ogden-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1380,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/work-injury-claim-st-george-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1400,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/work-injury-claim-utah-county-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1418,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/work-injury-claim-west-valley-city-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1424,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/work-injury-claim-west-jordan-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1404,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services/work-injury-claim-sandy-service.json",
+      "category": "services",
+      "purpose": "schema",
+      "bytes": 1380,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-profile.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 933,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-salt-lake-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 665,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-ogden.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 656,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-st-george.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 661,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-utah-county.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 676,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-west-valley-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 667,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-west-jordan.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 662,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-sandy.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 656,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 916,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 880,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 900,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 904,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 924,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-profile.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 888,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-salt-lake-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 620,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-ogden.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 611,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-st-george.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 616,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-utah-county.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 631,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-west-valley-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 622,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-west-jordan.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 617,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-sandy.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 611,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 875,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 839,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 859,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 863,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 883,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-profile.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 928,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-salt-lake-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 660,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-ogden.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 651,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-st-george.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 656,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-utah-county.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 671,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-west-valley-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 662,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-west-jordan.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 657,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-sandy.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 651,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 882,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 846,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 866,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 870,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 890,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-salt-lake-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 878,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-ogden-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 842,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-st-george-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 862,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-utah-county-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 866,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-west-valley-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 886,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-profile.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 898,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-salt-lake-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 630,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-ogden.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 621,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-st-george.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 626,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-utah-county.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 641,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-west-valley-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 632,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-west-jordan.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 627,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-sandy.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 621,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 877,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 841,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 861,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 865,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 885,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-profile.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 882,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-salt-lake-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 614,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-ogden.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 605,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-st-george.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 610,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-utah-county.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 625,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-west-valley-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 616,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-west-jordan.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 611,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-sandy.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 605,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 855,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 819,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 839,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 843,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 863,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-profile.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 933,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-salt-lake-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 665,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-ogden.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 656,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-st-george.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 661,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-utah-county.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 676,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-west-valley-city.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 667,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-west-jordan.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 662,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-sandy.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 656,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 914,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 878,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 898,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 902,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers",
+      "purpose": "schema",
+      "bytes": 922,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "locations/just-work-comp-law-office.json",
+      "category": "locations",
+      "purpose": "schema",
+      "bytes": 325,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "locations/salt-lake-city.json",
+      "category": "locations",
+      "purpose": "schema",
+      "bytes": 314,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "locations/ogden.json",
+      "category": "locations",
+      "purpose": "schema",
+      "bytes": 300,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "locations/st-george.json",
+      "category": "locations",
+      "purpose": "schema",
+      "bytes": 314,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json",
+      "category": "case-studies",
+      "purpose": "schema",
+      "bytes": 615,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json",
+      "category": "case-studies",
+      "purpose": "schema",
+      "bytes": 549,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "case-studies/james-dodges-bankruptcy-with-million-dollar-payout-year-of-lost-wages-and-more.json",
+      "category": "case-studies",
+      "purpose": "schema",
+      "bytes": 558,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "case-studies/employee-fall.json",
+      "category": "case-studies",
+      "purpose": "schema",
+      "bytes": 451,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "case-studies/industrial-accident.json",
+      "category": "case-studies",
+      "purpose": "schema",
+      "bytes": 450,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "case-studies/machine-accident.json",
+      "category": "case-studies",
+      "purpose": "schema",
+      "bytes": 456,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "case-studies/lifting-injury.json",
+      "category": "case-studies",
+      "purpose": "schema",
+      "bytes": 454,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "case-studies/delivery-accident.json",
+      "category": "case-studies",
+      "purpose": "schema",
+      "bytes": 451,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "organization/just-work-comp-law-organization.json",
+      "category": "organization",
+      "purpose": "schema",
+      "bytes": 1817,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-1-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 549,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-2-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 671,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-3-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 669,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/angela-s-4-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 556,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/laura-b-5-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 636,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/ruben-l-6-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 710,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/gary-t-7-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 519,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-8-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 592,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-9-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 456,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-10-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 547,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/anonymous-11-review.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 672,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews/aggregate-rating.json",
+      "category": "reviews",
+      "purpose": "schema",
+      "bytes": 215,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "index.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 2100,
+      "mime": "text/html"
+    },
+    {
+      "path": "about.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 90219,
+      "mime": "text/html"
+    },
+    {
+      "path": "services.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 108782,
+      "mime": "text/html"
+    },
+    {
+      "path": "reviews.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 14087,
+      "mime": "text/html"
+    },
+    {
+      "path": "contact.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 4060,
+      "mime": "text/html"
+    },
+    {
+      "path": "faqs.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 1678,
+      "mime": "text/html"
+    },
+    {
+      "path": "articles.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 1632,
+      "mime": "text/html"
+    },
+    {
+      "path": "team-members.html",
+      "category": "public",
+      "purpose": "LLM-optimized public page",
+      "bytes": 32636,
+      "mime": "text/html"
+    },
+    {
+      "path": "organization.jsonld",
+      "category": "entity",
+      "purpose": "Primary Organization JSON-LD",
+      "bytes": 2678,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "legal-service.jsonld",
+      "category": "entity",
+      "purpose": "LegalService JSON-LD",
+      "bytes": 2678,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "local-business.jsonld",
+      "category": "entity",
+      "purpose": "LocalBusiness JSON-LD",
+      "bytes": 2679,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "entity-profile.json",
+      "category": "entity",
+      "purpose": "Entity profile summary",
+      "bytes": 6494,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "business-overview.json",
+      "category": "entity",
+      "purpose": "Business overview",
+      "bytes": 6494,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "brand-profile.json",
+      "category": "entity",
+      "purpose": "Brand profile",
+      "bytes": 162,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "identifiers.json",
+      "category": "entity",
+      "purpose": "External identifiers & sameAs",
+      "bytes": 142,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "same-as.jsonld",
+      "category": "entity",
+      "purpose": "sameAs graph for entity disambiguation",
+      "bytes": 153,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "about.jsonld",
+      "category": "entity",
+      "purpose": "AboutPage JSON-LD",
+      "bytes": 3078,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "contact.jsonld",
+      "category": "entity",
+      "purpose": "ContactPage JSON-LD",
+      "bytes": 312,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "knowledge-graph.json",
+      "category": "entity",
+      "purpose": "Combined Schema.org @graph",
+      "bytes": 186094,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "full-context.json",
+      "category": "entity",
+      "purpose": "Full entity context (JSON)",
+      "bytes": 6494,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "full-context.yaml",
+      "category": "entity",
+      "purpose": "Full entity context (YAML)",
+      "bytes": 5322,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "attorneys.jsonld",
+      "category": "lawyers",
+      "purpose": "Aggregate attorneys ItemList",
+      "bytes": 94283,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "professionals.jsonld",
+      "category": "lawyers",
+      "purpose": "Professionals ItemList",
+      "bytes": 94287,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "team.json",
+      "category": "lawyers",
+      "purpose": "Team data bundle",
+      "bytes": 83998,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "attorney-bios.md",
+      "category": "lawyers",
+      "purpose": "Attorneys bios (markdown)",
+      "bytes": 10346,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "attorney-bios.json",
+      "category": "lawyers",
+      "purpose": "Attorneys bios (JSON)",
+      "bytes": 25620,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "locations.jsonld",
+      "category": "locations",
+      "purpose": "Locations ItemList",
+      "bytes": 2253,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "service-areas.jsonld",
+      "category": "locations",
+      "purpose": "Service areas ItemList",
+      "bytes": 2257,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "location-pages.json",
+      "category": "locations",
+      "purpose": "Location pages data",
+      "bytes": 1818,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "city-service-areas.json",
+      "category": "locations",
+      "purpose": "City service areas",
+      "bytes": 880,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "geo-coverage.json",
+      "category": "locations",
+      "purpose": "Geographic coverage summary",
+      "bytes": 900,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "services.jsonld",
+      "category": "services",
+      "purpose": "Services ItemList",
+      "bytes": 106773,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "practice-areas.jsonld",
+      "category": "services",
+      "purpose": "Practice areas ItemList",
+      "bytes": 106779,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "specialties.jsonld",
+      "category": "services",
+      "purpose": "Specialties ItemList",
+      "bytes": 106776,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "case-types.json",
+      "category": "services",
+      "purpose": "Case types",
+      "bytes": 2620,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "offer-catalog.jsonld",
+      "category": "services",
+      "purpose": "OfferCatalog JSON-LD",
+      "bytes": 106012,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "service-catalog.json",
+      "category": "services",
+      "purpose": "Service catalog data",
+      "bytes": 97365,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "service-pages.json",
+      "category": "services",
+      "purpose": "Service pages data",
+      "bytes": 97370,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "faqs.jsonld",
+      "category": "faqs",
+      "purpose": "FAQs ItemList",
+      "bytes": 145,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "faq.md",
+      "category": "faqs",
+      "purpose": "FAQs (markdown)",
+      "bytes": 30,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "qnas.jsonld",
+      "category": "qna",
+      "purpose": "Q&A ItemList",
+      "bytes": 144,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "qna.md",
+      "category": "qna",
+      "purpose": "Q&A (markdown)",
+      "bytes": 29,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "help-articles.jsonld",
+      "category": "help",
+      "purpose": "Help articles ItemList",
+      "bytes": 154,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "help-articles.md",
+      "category": "help",
+      "purpose": "Help articles (markdown)",
+      "bytes": 47,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "topical-hubs.jsonld",
+      "category": "hubs",
+      "purpose": "Topical hubs ItemList",
+      "bytes": 153,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "topical-hubs.md",
+      "category": "hubs",
+      "purpose": "Topical hubs (markdown)",
+      "bytes": 47,
+      "mime": "text/markdown"
+    },
+    {
+      "path": "semantic-authority-pages.json",
+      "category": "hubs",
+      "purpose": "Semantic authority pages",
+      "bytes": 108,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "reviews.jsonld",
+      "category": "reviews",
+      "purpose": "Reviews ItemList",
+      "bytes": 11158,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "testimonials.jsonld",
+      "category": "reviews",
+      "purpose": "Testimonials ItemList",
+      "bytes": 11163,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "awards.jsonld",
+      "category": "awards",
+      "purpose": "Awards ItemList",
+      "bytes": 147,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "licenses.jsonld",
+      "category": "awards",
+      "purpose": "Licenses ItemList",
+      "bytes": 149,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "associations.jsonld",
+      "category": "awards",
+      "purpose": "Associations ItemList",
+      "bytes": 153,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "case-results.jsonld",
+      "category": "case-results",
+      "purpose": "Case results ItemList",
+      "bytes": 6083,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "media-mentions.jsonld",
+      "category": "press",
+      "purpose": "Media mentions ItemList",
+      "bytes": 155,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "credentials.json",
+      "category": "awards",
+      "purpose": "Credentials summary",
+      "bytes": 100,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "about.html",
+      "category": "pages",
+      "purpose": "About page",
+      "bytes": 4012,
+      "mime": "text/html"
+    },
+    {
+      "path": "services.html",
+      "category": "pages",
+      "purpose": "Services page",
+      "bytes": 17195,
+      "mime": "text/html"
+    },
+    {
+      "path": "locations.html",
+      "category": "pages",
+      "purpose": "Locations page",
+      "bytes": 2344,
+      "mime": "text/html"
+    },
+    {
+      "path": "attorneys.html",
+      "category": "pages",
+      "purpose": "Attorneys page",
+      "bytes": 13231,
+      "mime": "text/html"
+    },
+    {
+      "path": "faqs.html",
+      "category": "pages",
+      "purpose": "FAQs page",
+      "bytes": 1873,
+      "mime": "text/html"
+    },
+    {
+      "path": "qnas.html",
+      "category": "pages",
+      "purpose": "Q&A page",
+      "bytes": 1885,
+      "mime": "text/html"
+    },
+    {
+      "path": "help.html",
+      "category": "pages",
+      "purpose": "Help page",
+      "bytes": 1873,
+      "mime": "text/html"
+    },
+    {
+      "path": "topical-hubs.html",
+      "category": "pages",
+      "purpose": "Topical hubs page",
+      "bytes": 1905,
+      "mime": "text/html"
+    },
+    {
+      "path": "reviews.html",
+      "category": "pages",
+      "purpose": "Reviews page",
+      "bytes": 2383,
+      "mime": "text/html"
+    },
+    {
+      "path": "case-results.html",
+      "category": "pages",
+      "purpose": "Case results page",
+      "bytes": 2481,
+      "mime": "text/html"
+    },
+    {
+      "path": "contact.html",
+      "category": "pages",
+      "purpose": "Contact page",
+      "bytes": 1976,
+      "mime": "text/html"
+    },
+    {
+      "path": "data/entity.json",
+      "category": "data",
+      "purpose": "Entity data (JSON)",
+      "bytes": 6494,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/entity.yaml",
+      "category": "data",
+      "purpose": "Entity data (YAML)",
+      "bytes": 5322,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "data/entity.jsonl",
+      "category": "data",
+      "purpose": "Entity data (JSONL)",
+      "bytes": 4773,
+      "mime": "application/octet-stream"
+    },
+    {
+      "path": "data/services.json",
+      "category": "data",
+      "purpose": "Services data",
+      "bytes": 97365,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/locations.json",
+      "category": "data",
+      "purpose": "Locations data",
+      "bytes": 1818,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/faqs.json",
+      "category": "data",
+      "purpose": "FAQs data",
+      "bytes": 94,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/qnas.json",
+      "category": "data",
+      "purpose": "Q&A data",
+      "bytes": 94,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/help-articles.json",
+      "category": "data",
+      "purpose": "Help articles data",
+      "bytes": 94,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/attorneys.json",
+      "category": "data",
+      "purpose": "Attorneys data",
+      "bytes": 84003,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/reviews.json",
+      "category": "data",
+      "purpose": "Reviews data",
+      "bytes": 9684,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/case-results.json",
+      "category": "data",
+      "purpose": "Case results data",
+      "bytes": 5216,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/knowledge-graph.json",
+      "category": "data",
+      "purpose": "Knowledge graph @graph",
+      "bytes": 186094,
+      "mime": "application/ld+json"
+    },
+    {
+      "path": "data/internal-links.json",
+      "category": "data",
+      "purpose": "Internal links index",
+      "bytes": 22432,
+      "mime": "application/ld+json"
+    }
+  ]
+}

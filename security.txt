@@ -1,0 +1,4 @@
+Contact: https://justworkcomplaw.com/contact
+Expires: 2027-08-06T15:57:18.727Z
+Preferred-Languages: en
+Canonical: https://justworkcomplaw.com/security.txt

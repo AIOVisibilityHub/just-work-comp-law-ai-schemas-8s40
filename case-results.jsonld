@@ -1,0 +1,176 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Just Work Comp Law Case Results",
+  "numberOfItems": 8,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Article",
+        "genre": "Case Study",
+        "author": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "@context": "https://schema.org",
+        "headline": "Blinded By Workplace Horseplay, Juan Gets Lost Wages, Medical Expenses and More",
+        "publisher": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "articleBody": "Juan worked at a company that assembled tractor trailers.\n\nOutcome: The firm settled Juan’s case, awarding wages for time missed from work, medical expenses, and compensation for the permanent blindness in his eye. justworkcomplaw"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Article",
+        "genre": "Case Study",
+        "author": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "@context": "https://schema.org",
+        "headline": "Jane Lands Full Treatment Coverage and Lost Wages After “Workplace” Soccer Injury",
+        "publisher": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "articleBody": "Jane suffered a workplace soccer injury.\n\nOutcome: The firm settled Jane’s case and got her the lost wages and medical treatment she deserved. justworkcomplaw"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Article",
+        "genre": "Case Study",
+        "author": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "@context": "https://schema.org",
+        "headline": "James Dodges Bankruptcy with Million-Dollar Payout, Year of Lost Wages and More",
+        "publisher": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "articleBody": "James suffered a broken ankle after falling off a ladder at work.\n\nOutcome: The case-result snippet indicates a million-dollar payout and a year of lost wages. justworkcomplaw"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Article",
+        "genre": "Case Study",
+        "author": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "@context": "https://schema.org",
+        "headline": "Employee Fall",
+        "publisher": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "articleBody": "Recent case result category/summary on the case-results page.\n\nOutcome: $1.6 Million result shown in the page snippet. justworkcomplaw"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Article",
+        "genre": "Case Study",
+        "author": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "@context": "https://schema.org",
+        "headline": "Industrial Accident",
+        "publisher": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "articleBody": "Recent case result category/summary on the case-results page.\n\nOutcome: $800K result shown in the page snippet. justworkcomplaw"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Article",
+        "genre": "Case Study",
+        "author": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "@context": "https://schema.org",
+        "headline": "Machine Accident",
+        "publisher": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "articleBody": "Recent case result category/summary on the case-results page.\n\nOutcome: $250K/$248K result shown in the page snippets. justworkcomplaw+1"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Article",
+        "genre": "Case Study",
+        "author": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "@context": "https://schema.org",
+        "headline": "Lifting Injury",
+        "publisher": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "articleBody": "Recent case result category/summary on the case-results page.\n\nOutcome: $220K/$200K result shown in the page snippets. justworkcomplaw+1"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Article",
+        "genre": "Case Study",
+        "author": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "@context": "https://schema.org",
+        "headline": "Delivery Accident",
+        "publisher": {
+          "url": "https://justworkcomplaw.com",
+          "name": "Just Work Comp Law",
+          "@type": "Organization"
+        },
+        "articleBody": "Recent case result category/summary on the case-results page.\n\nOutcome: $200K result shown in the page snippets. justworkcomplaw+1"
+      }
+    }
+  ]
+}

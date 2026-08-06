@@ -1,0 +1,917 @@
+{
+  "generatedAt": "2026-08-06T15:57:18.727Z",
+  "links": [
+    {
+      "path": "services/workplace-injury-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/workplace-injury-ogden-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/workplace-injury-st-george-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/workplace-injury-utah-county-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/workplace-injury-west-valley-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/workplace-injury-west-jordan-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/workplace-injury-sandy-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/on-the-job-accident-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/on-the-job-accident-ogden-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/on-the-job-accident-st-george-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/on-the-job-accident-utah-county-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/on-the-job-accident-west-valley-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/on-the-job-accident-west-jordan-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/on-the-job-accident-sandy-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-ogden-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-st-george-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-utah-county-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-west-valley-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-west-jordan-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/slip-and-fall-at-work-sandy-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/lifting-on-job-injury-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/lifting-on-job-injury-ogden-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/lifting-on-job-injury-st-george-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/lifting-on-job-injury-utah-county-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/lifting-on-job-injury-west-valley-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/lifting-on-job-injury-west-jordan-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/lifting-on-job-injury-sandy-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/injured-at-work-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/injured-at-work-ogden-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/injured-at-work-st-george-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/injured-at-work-utah-county-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/injured-at-work-west-valley-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/injured-at-work-west-jordan-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/injured-at-work-sandy-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/work-injury-claim-salt-lake-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/work-injury-claim-ogden-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/work-injury-claim-st-george-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/work-injury-claim-utah-county-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/work-injury-claim-west-valley-city-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/work-injury-claim-west-jordan-service.json",
+      "category": "services"
+    },
+    {
+      "path": "services/work-injury-claim-sandy-service.json",
+      "category": "services"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-profile.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-salt-lake-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-ogden.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-st-george.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-utah-county.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-west-valley-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-west-jordan.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-sandy.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-profile.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-salt-lake-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-ogden.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-st-george.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-utah-county.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-west-valley-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-west-jordan.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-sandy.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-profile.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-salt-lake-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-ogden.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-st-george.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-utah-county.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-west-valley-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-west-jordan.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-sandy.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-salt-lake-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-ogden-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-st-george-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-utah-county-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-west-valley-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-profile.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-salt-lake-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-ogden.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-st-george.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-utah-county.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-west-valley-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-west-jordan.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-sandy.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-profile.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-salt-lake-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-ogden.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-st-george.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-utah-county.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-west-valley-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-west-jordan.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-sandy.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-profile.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-salt-lake-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-ogden.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-st-george.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-utah-county.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-west-valley-city.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-west-jordan.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-sandy.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-ogden-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-st-george-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-utah-county-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-west-valley-city-faq.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "locations/just-work-comp-law-office.json",
+      "category": "locations"
+    },
+    {
+      "path": "locations/salt-lake-city.json",
+      "category": "locations"
+    },
+    {
+      "path": "locations/ogden.json",
+      "category": "locations"
+    },
+    {
+      "path": "locations/st-george.json",
+      "category": "locations"
+    },
+    {
+      "path": "case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json",
+      "category": "case-studies"
+    },
+    {
+      "path": "case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json",
+      "category": "case-studies"
+    },
+    {
+      "path": "case-studies/james-dodges-bankruptcy-with-million-dollar-payout-year-of-lost-wages-and-more.json",
+      "category": "case-studies"
+    },
+    {
+      "path": "case-studies/employee-fall.json",
+      "category": "case-studies"
+    },
+    {
+      "path": "case-studies/industrial-accident.json",
+      "category": "case-studies"
+    },
+    {
+      "path": "case-studies/machine-accident.json",
+      "category": "case-studies"
+    },
+    {
+      "path": "case-studies/lifting-injury.json",
+      "category": "case-studies"
+    },
+    {
+      "path": "case-studies/delivery-accident.json",
+      "category": "case-studies"
+    },
+    {
+      "path": "organization/just-work-comp-law-organization.json",
+      "category": "organization"
+    },
+    {
+      "path": "reviews/anonymous-1-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-2-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-3-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/angela-s-4-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/laura-b-5-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/ruben-l-6-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/gary-t-7-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-8-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-9-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-10-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/anonymous-11-review.json",
+      "category": "reviews"
+    },
+    {
+      "path": "reviews/aggregate-rating.json",
+      "category": "reviews"
+    },
+    {
+      "path": "index.html",
+      "category": "public"
+    },
+    {
+      "path": "about.html",
+      "category": "public"
+    },
+    {
+      "path": "services.html",
+      "category": "public"
+    },
+    {
+      "path": "reviews.html",
+      "category": "public"
+    },
+    {
+      "path": "contact.html",
+      "category": "public"
+    },
+    {
+      "path": "faqs.html",
+      "category": "public"
+    },
+    {
+      "path": "articles.html",
+      "category": "public"
+    },
+    {
+      "path": "team-members.html",
+      "category": "public"
+    },
+    {
+      "path": "organization.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "legal-service.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "local-business.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "entity-profile.json",
+      "category": "entity"
+    },
+    {
+      "path": "business-overview.json",
+      "category": "entity"
+    },
+    {
+      "path": "brand-profile.json",
+      "category": "entity"
+    },
+    {
+      "path": "identifiers.json",
+      "category": "entity"
+    },
+    {
+      "path": "same-as.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "about.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "contact.jsonld",
+      "category": "entity"
+    },
+    {
+      "path": "knowledge-graph.json",
+      "category": "entity"
+    },
+    {
+      "path": "full-context.json",
+      "category": "entity"
+    },
+    {
+      "path": "full-context.yaml",
+      "category": "entity"
+    },
+    {
+      "path": "attorneys.jsonld",
+      "category": "lawyers"
+    },
+    {
+      "path": "professionals.jsonld",
+      "category": "lawyers"
+    },
+    {
+      "path": "team.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "attorney-bios.md",
+      "category": "lawyers"
+    },
+    {
+      "path": "attorney-bios.json",
+      "category": "lawyers"
+    },
+    {
+      "path": "locations.jsonld",
+      "category": "locations"
+    },
+    {
+      "path": "service-areas.jsonld",
+      "category": "locations"
+    },
+    {
+      "path": "location-pages.json",
+      "category": "locations"
+    },
+    {
+      "path": "city-service-areas.json",
+      "category": "locations"
+    },
+    {
+      "path": "geo-coverage.json",
+      "category": "locations"
+    },
+    {
+      "path": "services.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "practice-areas.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "specialties.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "case-types.json",
+      "category": "services"
+    },
+    {
+      "path": "offer-catalog.jsonld",
+      "category": "services"
+    },
+    {
+      "path": "service-catalog.json",
+      "category": "services"
+    },
+    {
+      "path": "service-pages.json",
+      "category": "services"
+    },
+    {
+      "path": "faqs.jsonld",
+      "category": "faqs"
+    },
+    {
+      "path": "faq.md",
+      "category": "faqs"
+    },
+    {
+      "path": "qnas.jsonld",
+      "category": "qna"
+    },
+    {
+      "path": "qna.md",
+      "category": "qna"
+    },
+    {
+      "path": "help-articles.jsonld",
+      "category": "help"
+    },
+    {
+      "path": "help-articles.md",
+      "category": "help"
+    },
+    {
+      "path": "topical-hubs.jsonld",
+      "category": "hubs"
+    },
+    {
+      "path": "topical-hubs.md",
+      "category": "hubs"
+    },
+    {
+      "path": "semantic-authority-pages.json",
+      "category": "hubs"
+    },
+    {
+      "path": "reviews.jsonld",
+      "category": "reviews"
+    },
+    {
+      "path": "testimonials.jsonld",
+      "category": "reviews"
+    },
+    {
+      "path": "awards.jsonld",
+      "category": "awards"
+    },
+    {
+      "path": "licenses.jsonld",
+      "category": "awards"
+    },
+    {
+      "path": "associations.jsonld",
+      "category": "awards"
+    },
+    {
+      "path": "case-results.jsonld",
+      "category": "case-results"
+    },
+    {
+      "path": "media-mentions.jsonld",
+      "category": "press"
+    },
+    {
+      "path": "credentials.json",
+      "category": "awards"
+    },
+    {
+      "path": "about.html",
+      "category": "pages"
+    },
+    {
+      "path": "services.html",
+      "category": "pages"
+    },
+    {
+      "path": "locations.html",
+      "category": "pages"
+    },
+    {
+      "path": "attorneys.html",
+      "category": "pages"
+    },
+    {
+      "path": "faqs.html",
+      "category": "pages"
+    },
+    {
+      "path": "qnas.html",
+      "category": "pages"
+    },
+    {
+      "path": "help.html",
+      "category": "pages"
+    },
+    {
+      "path": "topical-hubs.html",
+      "category": "pages"
+    },
+    {
+      "path": "reviews.html",
+      "category": "pages"
+    },
+    {
+      "path": "case-results.html",
+      "category": "pages"
+    },
+    {
+      "path": "contact.html",
+      "category": "pages"
+    },
+    {
+      "path": "data/entity.json",
+      "category": "data"
+    },
+    {
+      "path": "data/entity.yaml",
+      "category": "data"
+    },
+    {
+      "path": "data/entity.jsonl",
+      "category": "data"
+    },
+    {
+      "path": "data/services.json",
+      "category": "data"
+    },
+    {
+      "path": "data/locations.json",
+      "category": "data"
+    },
+    {
+      "path": "data/faqs.json",
+      "category": "data"
+    },
+    {
+      "path": "data/qnas.json",
+      "category": "data"
+    },
+    {
+      "path": "data/help-articles.json",
+      "category": "data"
+    },
+    {
+      "path": "data/attorneys.json",
+      "category": "data"
+    },
+    {
+      "path": "data/reviews.json",
+      "category": "data"
+    },
+    {
+      "path": "data/case-results.json",
+      "category": "data"
+    },
+    {
+      "path": "data/knowledge-graph.json",
+      "category": "data"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Just Work Comp Law Service Areas",
+  "numberOfItems": 4,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law - Just Work Comp Law Office",
+        "@type": "LocalBusiness",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "84107",
+          "addressRegion": "UT",
+          "streetAddress": "655 E 4500 S #120",
+          "addressLocality": "Salt Lake City"
+        },
+        "@context": "https://schema.org",
+        "telephone": "801-746-0290"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law - Salt Lake City",
+        "@type": "LocalBusiness",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "84107",
+          "addressRegion": "UT",
+          "streetAddress": "655 E 4500 S #120",
+          "addressLocality": "Salt Lake City"
+        },
+        "@context": "https://schema.org",
+        "telephone": "801-746-0290"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law - Ogden",
+        "@type": "LocalBusiness",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "84401",
+          "addressRegion": "UT",
+          "streetAddress": "205 E 26th St, Ste 22",
+          "addressLocality": "Ogden"
+        },
+        "@context": "https://schema.org",
+        "telephone": "801-746-0290"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law - St. George",
+        "@type": "LocalBusiness",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "84790",
+          "addressRegion": "UT",
+          "streetAddress": "923 S River Rd Suite #202",
+          "addressLocality": "St. George"
+        },
+        "@context": "https://schema.org",
+        "telephone": "801-746-0290"
+      }
+    }
+  ]
+}

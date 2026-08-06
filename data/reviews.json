@@ -1,0 +1,309 @@
+{
+  "generatedAt": "2026-08-06T15:57:18.726Z",
+  "kind": "reviews",
+  "total": 12,
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonymous"
+      },
+      "reviewBody": "I would definitely use Davis & Sanchez again if need they really did a great job with my case. Thank you all so much for the help, I really appreciated it.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation legal services"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonymous"
+      },
+      "reviewBody": "Mark Talley represented me and I couldn't have been more happy with my representation. He won my workers' comp case, the whole thing was a home run, and I got way more back in the settlement than I expected. I would recommend Davis and Sanchez to anyone needing representation.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation representation"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonymous"
+      },
+      "reviewBody": "I can't seem to give 10 stars or I would, so I'm giving five stars for Mark Talley. He has gone above and beyond my expectations in helping me with my workman's comp case. I would highly recommend him and his law firm Davis and Sanchez on any workman's comp case you may have.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation case handling"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Angela S."
+      },
+      "reviewBody": "I can not recommend these guys enough, they will absolutely be the first I call should I ever need a workers comp attorney in the future.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "Nov. 1, 2024",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation attorney"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Laura B."
+      },
+      "reviewBody": "The people at Davis and Sanchez really did well. They did all the negotiations and got a great win for me. I strongly recommend them to anyone needing help with fighting for workers compensation.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "Nov. 1, 2024",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation negotiation and case resolution"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Ruben L."
+      },
+      "reviewBody": "After 22 years of dealing with Workers Comp of Ut, they decided they would try to deny me further treatment. Even though this was a complicated case, Jared and his wonderful staff took them on, and were able to resolve my issue successfully. Thank you!",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "Oct. 17, 2024",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation treatment dispute / denial of further treatment"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Gary T."
+      },
+      "reviewBody": "El abogado Mark Sanchez hizo un excelente trabajo en mi caso, logramos obtener un gran acuerdo.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "May. 15, 2023",
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation legal services"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonymous"
+      },
+      "reviewBody": "Hal is awesome and he made sure all my treatments and wages were taken care of in a timely manner. He definitely went above and beyond to help me and I definitely recommend them.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation medical treatment and wage support"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonymous"
+      },
+      "reviewBody": "With over 200 five-star reviews, feel confident contacting me.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation legal services"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonymous"
+      },
+      "reviewBody": "I would definitely use Davis & Sanchez again. They really did a great job with my case. Thank you all so much for the help, I really appreciated it.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation case representation"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonymous"
+      },
+      "reviewBody": "I can't seem to give 10 stars or I would. I'm giving five stars for Mark Talley. He has gone above and beyond my expectations in helping me with my workman's comp case. I would highly recommend him and his law firm Davis and Sanchez on any workman's comp case you may have.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "itemReviewed": {
+        "@type": "Organization",
+        "name": "Just Work Comp Law",
+        "url": "https://justworkcomplaw.com/",
+        "makesOffer": {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Workers' compensation case representation"
+          }
+        }
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Just Work Comp Law",
+      "url": "https://justworkcomplaw.com/",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "bestRating": 5,
+        "reviewCount": 11
+      }
+    }
+  ]
+}

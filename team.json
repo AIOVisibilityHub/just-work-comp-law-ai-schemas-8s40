@@ -1,0 +1,2261 @@
+{
+  "generatedAt": "2026-08-06T15:57:18.720Z",
+  "kind": "team",
+  "total": 83,
+  "items": [
+    {
+      "name": "Halston T. Davis, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": [
+        {
+          "name": "Salt Lake City",
+          "@type": "City"
+        },
+        {
+          "name": "Ogden",
+          "@type": "City"
+        },
+        {
+          "name": "St. George",
+          "@type": "City"
+        },
+        {
+          "name": "Utah County",
+          "@type": "AdministrativeArea"
+        },
+        {
+          "name": "West Valley City",
+          "@type": "City"
+        },
+        {
+          "name": "West Jordan",
+          "@type": "City"
+        },
+        {
+          "name": "Sandy",
+          "@type": "City"
+        },
+        {
+          "name": "Utah",
+          "@type": "State"
+        }
+      ],
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #8998"
+        }
+      ]
+    },
+    {
+      "name": "Halston T. Davis, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #8998"
+        }
+      ]
+    },
+    {
+      "name": "Halston T. Davis, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Ogden",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #8998"
+        }
+      ]
+    },
+    {
+      "name": "Halston T. Davis, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "St. George",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #8998"
+        }
+      ]
+    },
+    {
+      "name": "Halston T. Davis, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Utah County",
+        "@type": "AdministrativeArea"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #8998"
+        }
+      ]
+    },
+    {
+      "name": "Halston T. Davis, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Valley City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #8998"
+        }
+      ]
+    },
+    {
+      "name": "Halston T. Davis, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #8998"
+        }
+      ]
+    },
+    {
+      "name": "Halston T. Davis, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #8998"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Halston T. Davis, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Salt Lake City. Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Halston T. Davis, Esq. handle Workers' compensation law cases in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Halston T. Davis, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Salt Lake City and surrounding areas. Credentials: License #8998.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Halston T. Davis, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Ogden. Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Halston T. Davis, Esq. handle Workers' compensation law cases in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Halston T. Davis, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Ogden and surrounding areas. Credentials: License #8998.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Halston T. Davis, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving St. George. Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Halston T. Davis, Esq. handle Workers' compensation law cases in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Halston T. Davis, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in St. George and surrounding areas. Credentials: License #8998.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Halston T. Davis, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Utah County. Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Halston T. Davis, Esq. handle Workers' compensation law cases in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Halston T. Davis, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Utah County and surrounding areas. Credentials: License #8998.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Halston T. Davis, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving West Valley City. Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Halston T. Davis, Esq. handle Workers' compensation law cases in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Halston T. Davis, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in West Valley City and surrounding areas. Credentials: License #8998.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jared L. Mortenson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": [
+        {
+          "name": "Salt Lake City",
+          "@type": "City"
+        },
+        {
+          "name": "Ogden",
+          "@type": "City"
+        },
+        {
+          "name": "St. George",
+          "@type": "City"
+        },
+        {
+          "name": "Utah County",
+          "@type": "AdministrativeArea"
+        },
+        {
+          "name": "West Valley City",
+          "@type": "City"
+        },
+        {
+          "name": "West Jordan",
+          "@type": "City"
+        },
+        {
+          "name": "Sandy",
+          "@type": "City"
+        },
+        {
+          "name": "Utah",
+          "@type": "State"
+        }
+      ],
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #12173"
+        }
+      ]
+    },
+    {
+      "name": "Jared L. Mortenson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #12173"
+        }
+      ]
+    },
+    {
+      "name": "Jared L. Mortenson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Ogden",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #12173"
+        }
+      ]
+    },
+    {
+      "name": "Jared L. Mortenson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "St. George",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #12173"
+        }
+      ]
+    },
+    {
+      "name": "Jared L. Mortenson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Utah County",
+        "@type": "AdministrativeArea"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #12173"
+        }
+      ]
+    },
+    {
+      "name": "Jared L. Mortenson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Valley City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #12173"
+        }
+      ]
+    },
+    {
+      "name": "Jared L. Mortenson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #12173"
+        }
+      ]
+    },
+    {
+      "name": "Jared L. Mortenson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #12173"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jared L. Mortenson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Salt Lake City. Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jared L. Mortenson, Esq. handle Workers' compensation law cases in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jared L. Mortenson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Salt Lake City and surrounding areas. Credentials: License #12173.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jared L. Mortenson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Ogden. Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jared L. Mortenson, Esq. handle Workers' compensation law cases in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jared L. Mortenson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Ogden and surrounding areas. Credentials: License #12173.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jared L. Mortenson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving St. George. Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jared L. Mortenson, Esq. handle Workers' compensation law cases in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jared L. Mortenson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in St. George and surrounding areas. Credentials: License #12173.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jared L. Mortenson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Utah County. Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jared L. Mortenson, Esq. handle Workers' compensation law cases in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jared L. Mortenson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Utah County and surrounding areas. Credentials: License #12173.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jared L. Mortenson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving West Valley City. Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jared L. Mortenson, Esq. handle Workers' compensation law cases in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jared L. Mortenson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in West Valley City and surrounding areas. Credentials: License #12173.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark J. Sanchez, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": [
+        {
+          "name": "Salt Lake City",
+          "@type": "City"
+        },
+        {
+          "name": "Ogden",
+          "@type": "City"
+        },
+        {
+          "name": "St. George",
+          "@type": "City"
+        },
+        {
+          "name": "Utah County",
+          "@type": "AdministrativeArea"
+        },
+        {
+          "name": "West Valley City",
+          "@type": "City"
+        },
+        {
+          "name": "West Jordan",
+          "@type": "City"
+        },
+        {
+          "name": "Sandy",
+          "@type": "City"
+        },
+        {
+          "name": "Utah",
+          "@type": "State"
+        }
+      ],
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Spanish-speaking clients",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #11263"
+        }
+      ]
+    },
+    {
+      "name": "Mark J. Sanchez, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Spanish-speaking clients",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #11263"
+        }
+      ]
+    },
+    {
+      "name": "Mark J. Sanchez, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Ogden",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Spanish-speaking clients",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #11263"
+        }
+      ]
+    },
+    {
+      "name": "Mark J. Sanchez, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "St. George",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Spanish-speaking clients",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #11263"
+        }
+      ]
+    },
+    {
+      "name": "Mark J. Sanchez, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Utah County",
+        "@type": "AdministrativeArea"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Spanish-speaking clients",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #11263"
+        }
+      ]
+    },
+    {
+      "name": "Mark J. Sanchez, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Valley City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Spanish-speaking clients",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #11263"
+        }
+      ]
+    },
+    {
+      "name": "Mark J. Sanchez, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Spanish-speaking clients",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #11263"
+        }
+      ]
+    },
+    {
+      "name": "Mark J. Sanchez, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Spanish-speaking clients",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #11263"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Salt Lake City. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Workers' compensation law cases in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Salt Lake City and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Ogden. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Workers' compensation law cases in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Ogden and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving St. George. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Workers' compensation law cases in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in St. George and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Utah County. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Workers' compensation law cases in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Utah County and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving West Valley City. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Workers' compensation law cases in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in West Valley City and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Spanish-speaking clients in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Spanish-speaking clients serving Salt Lake City. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Spanish-speaking clients cases in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Spanish-speaking clients and serves clients in Salt Lake City and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Spanish-speaking clients in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Spanish-speaking clients serving Ogden. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Spanish-speaking clients cases in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Spanish-speaking clients and serves clients in Ogden and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Spanish-speaking clients in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Spanish-speaking clients serving St. George. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Spanish-speaking clients cases in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Spanish-speaking clients and serves clients in St. George and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Spanish-speaking clients in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Spanish-speaking clients serving Utah County. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Spanish-speaking clients cases in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Spanish-speaking clients and serves clients in Utah County and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Spanish-speaking clients in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Spanish-speaking clients serving West Valley City. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark J. Sanchez, Esq. handle Spanish-speaking clients cases in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Spanish-speaking clients and serves clients in West Valley City and surrounding areas. Credentials: License #11263.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Blair T. Jones, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": [
+        {
+          "name": "Salt Lake City",
+          "@type": "City"
+        },
+        {
+          "name": "Ogden",
+          "@type": "City"
+        },
+        {
+          "name": "St. George",
+          "@type": "City"
+        },
+        {
+          "name": "Utah County",
+          "@type": "AdministrativeArea"
+        },
+        {
+          "name": "West Valley City",
+          "@type": "City"
+        },
+        {
+          "name": "West Jordan",
+          "@type": "City"
+        },
+        {
+          "name": "Sandy",
+          "@type": "City"
+        },
+        {
+          "name": "Utah",
+          "@type": "State"
+        }
+      ],
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #16751"
+        }
+      ]
+    },
+    {
+      "name": "Blair T. Jones, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #16751"
+        }
+      ]
+    },
+    {
+      "name": "Blair T. Jones, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Ogden",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #16751"
+        }
+      ]
+    },
+    {
+      "name": "Blair T. Jones, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "St. George",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #16751"
+        }
+      ]
+    },
+    {
+      "name": "Blair T. Jones, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Utah County",
+        "@type": "AdministrativeArea"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #16751"
+        }
+      ]
+    },
+    {
+      "name": "Blair T. Jones, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Valley City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #16751"
+        }
+      ]
+    },
+    {
+      "name": "Blair T. Jones, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #16751"
+        }
+      ]
+    },
+    {
+      "name": "Blair T. Jones, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #16751"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Blair T. Jones, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Salt Lake City. Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Blair T. Jones, Esq. handle Workers' compensation law cases in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Blair T. Jones, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Salt Lake City and surrounding areas. Credentials: License #16751.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Blair T. Jones, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Ogden. Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Blair T. Jones, Esq. handle Workers' compensation law cases in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Blair T. Jones, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Ogden and surrounding areas. Credentials: License #16751.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Blair T. Jones, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving St. George. Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Blair T. Jones, Esq. handle Workers' compensation law cases in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Blair T. Jones, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in St. George and surrounding areas. Credentials: License #16751.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Blair T. Jones, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Utah County. Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Blair T. Jones, Esq. handle Workers' compensation law cases in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Blair T. Jones, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Utah County and surrounding areas. Credentials: License #16751.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Blair T. Jones, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving West Valley City. Blair dedicates 100% of his practice to helping injured workers and is known for achieving strong results against insurance companies and defense counsel. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Blair T. Jones, Esq. handle Workers' compensation law cases in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Blair T. Jones, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in West Valley City and surrounding areas. Credentials: License #16751.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mark Talley, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": [
+        {
+          "name": "Salt Lake City",
+          "@type": "City"
+        },
+        {
+          "name": "Ogden",
+          "@type": "City"
+        },
+        {
+          "name": "St. George",
+          "@type": "City"
+        },
+        {
+          "name": "Utah County",
+          "@type": "AdministrativeArea"
+        },
+        {
+          "name": "West Valley City",
+          "@type": "City"
+        },
+        {
+          "name": "West Jordan",
+          "@type": "City"
+        },
+        {
+          "name": "Sandy",
+          "@type": "City"
+        },
+        {
+          "name": "Utah",
+          "@type": "State"
+        }
+      ],
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #19702"
+        }
+      ]
+    },
+    {
+      "name": "Mark Talley, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #19702"
+        }
+      ]
+    },
+    {
+      "name": "Mark Talley, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Ogden",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #19702"
+        }
+      ]
+    },
+    {
+      "name": "Mark Talley, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "St. George",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #19702"
+        }
+      ]
+    },
+    {
+      "name": "Mark Talley, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Utah County",
+        "@type": "AdministrativeArea"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #19702"
+        }
+      ]
+    },
+    {
+      "name": "Mark Talley, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Valley City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #19702"
+        }
+      ]
+    },
+    {
+      "name": "Mark Talley, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #19702"
+        }
+      ]
+    },
+    {
+      "name": "Mark Talley, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #19702"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark Talley, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Salt Lake City. Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark Talley, Esq. handle Workers' compensation law cases in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark Talley, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Salt Lake City and surrounding areas. Credentials: License #19702.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark Talley, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Ogden. Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark Talley, Esq. handle Workers' compensation law cases in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark Talley, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Ogden and surrounding areas. Credentials: License #19702.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark Talley, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving St. George. Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark Talley, Esq. handle Workers' compensation law cases in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark Talley, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in St. George and surrounding areas. Credentials: License #19702.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark Talley, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Utah County. Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark Talley, Esq. handle Workers' compensation law cases in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark Talley, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Utah County and surrounding areas. Credentials: License #19702.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Mark Talley, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving West Valley City. Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Mark Talley, Esq. handle Workers' compensation law cases in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Mark Talley, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in West Valley City and surrounding areas. Credentials: License #19702.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Jon M. Bonneson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": [
+        {
+          "name": "Salt Lake City",
+          "@type": "City"
+        },
+        {
+          "name": "Ogden",
+          "@type": "City"
+        },
+        {
+          "name": "St. George",
+          "@type": "City"
+        },
+        {
+          "name": "Utah County",
+          "@type": "AdministrativeArea"
+        },
+        {
+          "name": "West Valley City",
+          "@type": "City"
+        },
+        {
+          "name": "West Jordan",
+          "@type": "City"
+        },
+        {
+          "name": "Sandy",
+          "@type": "City"
+        },
+        {
+          "name": "Utah",
+          "@type": "State"
+        }
+      ],
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #17460"
+        }
+      ]
+    },
+    {
+      "name": "Jon M. Bonneson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Salt Lake City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #17460"
+        }
+      ]
+    },
+    {
+      "name": "Jon M. Bonneson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Ogden",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #17460"
+        }
+      ]
+    },
+    {
+      "name": "Jon M. Bonneson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "St. George",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #17460"
+        }
+      ]
+    },
+    {
+      "name": "Jon M. Bonneson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Utah County",
+        "@type": "AdministrativeArea"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #17460"
+        }
+      ]
+    },
+    {
+      "name": "Jon M. Bonneson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Valley City",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #17460"
+        }
+      ]
+    },
+    {
+      "name": "Jon M. Bonneson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "West Jordan",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #17460"
+        }
+      ]
+    },
+    {
+      "name": "Jon M. Bonneson, Esq.",
+      "@type": "Attorney",
+      "@context": "https://schema.org",
+      "jobTitle": "Team Member",
+      "worksFor": {
+        "url": "https://justworkcomplaw.com",
+        "name": "Just Work Comp Law",
+        "@type": "Organization"
+      },
+      "telephone": "801-746-0290",
+      "areaServed": {
+        "name": "Sandy",
+        "@type": "City"
+      },
+      "knowsAbout": [
+        "Workers' compensation law",
+        "Workers’ Compensation"
+      ],
+      "description": "Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations.",
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "License #17460"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jon M. Bonneson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Salt Lake City. Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jon M. Bonneson, Esq. handle Workers' compensation law cases in Salt Lake City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jon M. Bonneson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Salt Lake City and surrounding areas. Credentials: License #17460.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jon M. Bonneson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Ogden. Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jon M. Bonneson, Esq. handle Workers' compensation law cases in Ogden?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jon M. Bonneson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Ogden and surrounding areas. Credentials: License #17460.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jon M. Bonneson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving St. George. Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jon M. Bonneson, Esq. handle Workers' compensation law cases in St. George?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jon M. Bonneson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in St. George and surrounding areas. Credentials: License #17460.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jon M. Bonneson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving Utah County. Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jon M. Bonneson, Esq. handle Workers' compensation law cases in Utah County?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jon M. Bonneson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in Utah County and surrounding areas. Credentials: License #17460.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@context": "https://schema.org",
+      "mainEntity": [
+        {
+          "name": "Who is the best attorney for Workers' compensation law in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Jon M. Bonneson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving West Valley City. Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations. Contact us at 801-746-0290.",
+            "@type": "Answer"
+          }
+        },
+        {
+          "name": "Does Jon M. Bonneson, Esq. handle Workers' compensation law cases in West Valley City?",
+          "@type": "Question",
+          "acceptedAnswer": {
+            "text": "Yes, Jon M. Bonneson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in West Valley City and surrounding areas. Credentials: License #17460.",
+            "@type": "Answer"
+          }
+        }
+      ]
+    }
+  ]
+}

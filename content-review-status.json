@@ -1,0 +1,1653 @@
+{
+  "entity": "Just Work Comp Law",
+  "generatedAt": "2026-08-06T15:57:18.727Z",
+  "workflow": "research → review → approval → public",
+  "notes": "Research and Q&A items require explicit approval before publishing. Non-research entity files (services, locations, attorneys, FAQs) are produced from supplied entity data.",
+  "files": [
+    {
+      "path": "services/workplace-injury-salt-lake-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/workplace-injury-ogden-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/workplace-injury-st-george-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/workplace-injury-utah-county-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/workplace-injury-west-valley-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/workplace-injury-west-jordan-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/workplace-injury-sandy-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/on-the-job-accident-salt-lake-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/on-the-job-accident-ogden-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/on-the-job-accident-st-george-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/on-the-job-accident-utah-county-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/on-the-job-accident-west-valley-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/on-the-job-accident-west-jordan-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/on-the-job-accident-sandy-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/slip-and-fall-at-work-salt-lake-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/slip-and-fall-at-work-ogden-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/slip-and-fall-at-work-st-george-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/slip-and-fall-at-work-utah-county-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/slip-and-fall-at-work-west-valley-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/slip-and-fall-at-work-west-jordan-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/slip-and-fall-at-work-sandy-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/lifting-on-job-injury-salt-lake-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/lifting-on-job-injury-ogden-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/lifting-on-job-injury-st-george-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/lifting-on-job-injury-utah-county-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/lifting-on-job-injury-west-valley-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/lifting-on-job-injury-west-jordan-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/lifting-on-job-injury-sandy-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/injured-at-work-salt-lake-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/injured-at-work-ogden-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/injured-at-work-st-george-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/injured-at-work-utah-county-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/injured-at-work-west-valley-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/injured-at-work-west-jordan-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/injured-at-work-sandy-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/work-injury-claim-salt-lake-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/work-injury-claim-ogden-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/work-injury-claim-st-george-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/work-injury-claim-utah-county-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/work-injury-claim-west-valley-city-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/work-injury-claim-west-jordan-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services/work-injury-claim-sandy-service.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-salt-lake-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-ogden.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-st-george.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-utah-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-west-valley-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-west-jordan.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-sandy.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-ogden-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-st-george-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-utah-county-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/halston-t-davis-esq-workers-compensation-law-west-valley-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-salt-lake-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-ogden.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-st-george.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-utah-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-west-valley-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-west-jordan.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-sandy.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-ogden-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-st-george-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-utah-county-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-west-valley-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-salt-lake-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-ogden.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-st-george.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-utah-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-west-valley-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-west-jordan.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-sandy.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-ogden-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-st-george-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-utah-county-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-west-valley-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-salt-lake-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-ogden-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-st-george-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-utah-county-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-west-valley-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-salt-lake-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-ogden.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-st-george.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-utah-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-west-valley-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-west-jordan.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-sandy.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-ogden-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-st-george-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-utah-county-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/blair-t-jones-esq-workers-compensation-law-west-valley-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-salt-lake-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-ogden.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-st-george.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-utah-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-west-valley-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-west-jordan.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-sandy.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-ogden-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-st-george-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-utah-county-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/mark-talley-esq-workers-compensation-law-west-valley-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-salt-lake-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-ogden.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-st-george.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-utah-county.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-west-valley-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-west-jordan.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-sandy.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-salt-lake-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-ogden-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-st-george-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-utah-county-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-west-valley-city-faq.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations/just-work-comp-law-office.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations/salt-lake-city.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations/ogden.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations/st-george.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-studies/james-dodges-bankruptcy-with-million-dollar-payout-year-of-lost-wages-and-more.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-studies/employee-fall.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-studies/industrial-accident.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-studies/machine-accident.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-studies/lifting-injury.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-studies/delivery-accident.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "organization/just-work-comp-law-organization.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-1-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-2-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-3-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/angela-s-4-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/laura-b-5-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/ruben-l-6-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/gary-t-7-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-8-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-9-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-10-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/anonymous-11-review.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews/aggregate-rating.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "index.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "about.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "contact.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "articles.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team-members.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "organization.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "legal-service.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "local-business.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "entity-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "business-overview.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "brand-profile.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "identifiers.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "same-as.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "about.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "contact.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "knowledge-graph.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "full-context.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "full-context.yaml",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "attorneys.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "professionals.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "team.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "attorney-bios.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "attorney-bios.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "service-areas.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "location-pages.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "city-service-areas.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "geo-coverage.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "practice-areas.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "specialties.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-types.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "offer-catalog.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "service-catalog.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "service-pages.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faq.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qnas.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qna.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help-articles.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help-articles.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "topical-hubs.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "topical-hubs.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "semantic-authority-pages.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "testimonials.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "awards.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "licenses.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "associations.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-results.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "media-mentions.jsonld",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "credentials.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "about.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "services.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "locations.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "attorneys.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "faqs.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "qnas.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "help.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "topical-hubs.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "reviews.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "case-results.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "contact.html",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/entity.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/entity.yaml",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/entity.jsonl",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/services.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/locations.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/faqs.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/qnas.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/help-articles.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/attorneys.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/reviews.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/case-results.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/knowledge-graph.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/internal-links.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/source-map.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/research-sources.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data/source-provenance.json",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "ai-disclaimer.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "legal-disclaimer.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    },
+    {
+      "path": "data-sources.md",
+      "status": "entity-data",
+      "visibility": "published",
+      "reviewedAt": null,
+      "reviewedBy": null
+    }
+  ]
+}

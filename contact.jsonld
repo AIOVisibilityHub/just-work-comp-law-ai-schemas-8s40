@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact Just Work Comp Law",
+  "url": "https://justworkcomplaw.com/contact",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "telephone": "801-746-0290",
+    "url": "https://justworkcomplaw.com"
+  }
+}

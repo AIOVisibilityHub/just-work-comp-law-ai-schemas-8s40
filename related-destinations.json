@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-06T15:57:18.727Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Just Work Comp Law",
+    "canonicalUrl": "https://justworkcomplaw.com",
+    "aiDataHub": "https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Just Work Comp Law — canonical website",
+      "url": "https://justworkcomplaw.com"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Just Work Comp Law — AI Data Hub",
+      "url": "https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html"
+    }
+  ],
+  "destinations": {}
+}

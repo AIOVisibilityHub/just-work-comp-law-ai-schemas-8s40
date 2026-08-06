@@ -13,14 +13,6 @@ Package contents:
 - 8 caseStudies
 - 1 organization
 
-## Cross-Destination Index — Related AI Data Sources
-- [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw.com
-- [ai-data-hub] Just Work Comp Law — AI Data Hub — https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html
-- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40
-- [mirror-pages] GitHub — AI Data Hub mirror — https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html
-
-Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
-
 Services offered:
 - Workplace injury
 - On-the-job accident
@@ -155,31 +147,10 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/related-destinations.json — Cross-Destination Index (Related AI Data Sources)
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/robots.txt — Robots policy
 
-### Entity Profile (13)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/about.jsonld — AboutPage JSON-LD
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/brand-profile.json — Brand profile
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/business-overview.json — Business overview
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/contact.jsonld — ContactPage JSON-LD
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/entity-profile.json — Entity profile summary
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/full-context.json — Full entity context (JSON)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/full-context.yaml — Full entity context (YAML)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/identifiers.json — External identifiers & sameAs
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/knowledge-graph.json — Combined Schema.org @graph
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/legal-service.jsonld — LegalService JSON-LD
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/local-business.jsonld — LocalBusiness JSON-LD
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/organization.jsonld — Primary Organization JSON-LD
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/same-as.jsonld — sameAs graph for entity disambiguation
-
 ### Organization & About (1)
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/organization/just-work-comp-law-organization.json — schema
 
-### Services (49)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-types.json — Case types
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/offer-catalog.jsonld — OfferCatalog JSON-LD
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/practice-areas.jsonld — Practice areas ItemList
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/service-catalog.json — Service catalog data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/service-pages.json — Service pages data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services.jsonld — Services ItemList
+### Services (42)
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-ogden-service.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-salt-lake-city-service.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-sandy-service.json — schema
@@ -222,23 +193,14 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-utah-county-service.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-west-jordan-service.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-west-valley-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/specialties.jsonld — Specialties ItemList
 
-### Locations (9)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/city-service-areas.json — City service areas
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/geo-coverage.json — Geographic coverage summary
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/location-pages.json — Location pages data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations.jsonld — Locations ItemList
+### Locations (4)
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations/just-work-comp-law-office.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations/ogden.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations/salt-lake-city.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations/st-george.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/service-areas.jsonld — Service areas ItemList
 
-### Attorneys (88)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/attorney-bios.json — Attorneys bios (JSON)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/attorney-bios.md — Attorneys bios (markdown)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/attorneys.jsonld — Aggregate attorneys ItemList
+### Attorneys (83)
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-ogden.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-profile.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-salt-lake-city.json — schema
@@ -322,25 +284,6 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-st-george-faq.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-utah-county-faq.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-west-valley-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/professionals.jsonld — Professionals ItemList
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/team.json — Team data bundle
-
-### FAQs (2)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/faq.md — FAQs (markdown)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/faqs.jsonld — FAQs ItemList
-
-### Q&A (2)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/qna.md — Q&A (markdown)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/qnas.jsonld — Q&A ItemList
-
-### Help Articles (2)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/help-articles.jsonld — Help articles ItemList
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/help-articles.md — Help articles (markdown)
-
-### Topical Hubs (3)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/semantic-authority-pages.json — Semantic authority pages
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/topical-hubs.jsonld — Topical hubs ItemList
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/topical-hubs.md — Topical hubs (markdown)
 
 ### Public Pages (8)
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/about.html — LLM-optimized public page
@@ -352,8 +295,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services.html — LLM-optimized public page
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/team-members.html — LLM-optimized public page
 
-### Reviews (14)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews.jsonld — Reviews ItemList
+### Reviews (12)
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/aggregate-rating.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/angela-s-4-review.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-1-review.json — schema
@@ -366,16 +308,6 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/gary-t-7-review.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/laura-b-5-review.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/ruben-l-6-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/testimonials.jsonld — Testimonials ItemList
-
-### Press (1)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/media-mentions.jsonld — Media mentions ItemList
-
-### Awards (4)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/associations.jsonld — Associations ItemList
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/awards.jsonld — Awards ItemList
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/credentials.json — Credentials summary
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/licenses.jsonld — Licenses ItemList
 
 ### Case Studies (8)
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json — schema
@@ -386,49 +318,4 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/lifting-injury.json — schema
 - https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/machine-accident.json — schema
-
-### Case Results (1)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-results.jsonld — Case results ItemList
-
-### Site Pages (11)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/about.html — About page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/attorneys.html — Attorneys page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-results.html — Case results page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/contact.html — Contact page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/faqs.html — FAQs page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/help.html — Help page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations.html — Locations page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/qnas.html — Q&A page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews.html — Reviews page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services.html — Services page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/topical-hubs.html — Topical hubs page
-
-### Data Files (16)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/attorneys.json — Attorneys data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/case-results.json — Case results data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/entity.json — Entity data (JSON)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/entity.jsonl — Entity data (JSONL)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/entity.yaml — Entity data (YAML)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/faqs.json — FAQs data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/help-articles.json — Help articles data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/internal-links.json — Internal links index
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/knowledge-graph.json — Knowledge graph @graph
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/locations.json — Locations data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/qnas.json — Q&A data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/research-sources.json — Approved research items with source attribution
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/reviews.json — Reviews data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/services.json — Services data
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/source-map.json — Source-map of all entity files
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data/source-provenance.json — External source provenance for approved research
-
-### Compliance & Review (5)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/ai-disclaimer.md — AI disclaimer
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/approval-log.json — Content approval log
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/content-review-status.json — Content review status
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/data-sources.md — Data sources
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/legal-disclaimer.md — Legal disclaimer
-
-### Security & Humans (2)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/humans.txt — humans.txt
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/security.txt — Security.txt (RFC 9116)
 

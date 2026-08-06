@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-06T15:57:26.171Z",
+  "generatedAt": "2026-08-06T17:32:11.542Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw.com",
@@ -160,8 +160,8 @@
     ]
   },
   "package": {
-    "totalFiles": 253,
-    "totalBytes": 2399009,
+    "totalFiles": 172,
+    "totalBytes": 574932,
     "stats": {
       "qna": 0,
       "faqs": 0,
@@ -401,41 +401,6 @@
         "path": "services/work-injury-claim-sandy-service.json",
         "bytes": 1380,
         "purpose": "schema"
-      },
-      {
-        "path": "services.jsonld",
-        "bytes": 106773,
-        "purpose": "Services ItemList"
-      },
-      {
-        "path": "practice-areas.jsonld",
-        "bytes": 106779,
-        "purpose": "Practice areas ItemList"
-      },
-      {
-        "path": "specialties.jsonld",
-        "bytes": 106776,
-        "purpose": "Specialties ItemList"
-      },
-      {
-        "path": "case-types.json",
-        "bytes": 2620,
-        "purpose": "Case types"
-      },
-      {
-        "path": "offer-catalog.jsonld",
-        "bytes": 106012,
-        "purpose": "OfferCatalog JSON-LD"
-      },
-      {
-        "path": "service-catalog.json",
-        "bytes": 97365,
-        "purpose": "Service catalog data"
-      },
-      {
-        "path": "service-pages.json",
-        "bytes": 97370,
-        "purpose": "Service pages data"
       }
     ],
     "lawyers": [
@@ -853,31 +818,6 @@
         "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-west-valley-city-faq.json",
         "bytes": 922,
         "purpose": "schema"
-      },
-      {
-        "path": "attorneys.jsonld",
-        "bytes": 94283,
-        "purpose": "Aggregate attorneys ItemList"
-      },
-      {
-        "path": "professionals.jsonld",
-        "bytes": 94287,
-        "purpose": "Professionals ItemList"
-      },
-      {
-        "path": "team.json",
-        "bytes": 83998,
-        "purpose": "Team data bundle"
-      },
-      {
-        "path": "attorney-bios.md",
-        "bytes": 10346,
-        "purpose": "Attorneys bios (markdown)"
-      },
-      {
-        "path": "attorney-bios.json",
-        "bytes": 25620,
-        "purpose": "Attorneys bios (JSON)"
       }
     ],
     "locations": [
@@ -900,31 +840,6 @@
         "path": "locations/st-george.json",
         "bytes": 314,
         "purpose": "schema"
-      },
-      {
-        "path": "locations.jsonld",
-        "bytes": 2253,
-        "purpose": "Locations ItemList"
-      },
-      {
-        "path": "service-areas.jsonld",
-        "bytes": 2257,
-        "purpose": "Service areas ItemList"
-      },
-      {
-        "path": "location-pages.json",
-        "bytes": 1818,
-        "purpose": "Location pages data"
-      },
-      {
-        "path": "city-service-areas.json",
-        "bytes": 880,
-        "purpose": "City service areas"
-      },
-      {
-        "path": "geo-coverage.json",
-        "bytes": 900,
-        "purpose": "Geographic coverage summary"
       }
     ],
     "case-studies": [
@@ -1036,16 +951,6 @@
         "path": "reviews/aggregate-rating.json",
         "bytes": 215,
         "purpose": "schema"
-      },
-      {
-        "path": "reviews.jsonld",
-        "bytes": 11158,
-        "purpose": "Reviews ItemList"
-      },
-      {
-        "path": "testimonials.jsonld",
-        "bytes": 11163,
-        "purpose": "Testimonials ItemList"
       }
     ],
     "public": [
@@ -1090,340 +995,6 @@
         "purpose": "LLM-optimized public page"
       }
     ],
-    "entity": [
-      {
-        "path": "organization.jsonld",
-        "bytes": 2678,
-        "purpose": "Primary Organization JSON-LD"
-      },
-      {
-        "path": "legal-service.jsonld",
-        "bytes": 2678,
-        "purpose": "LegalService JSON-LD"
-      },
-      {
-        "path": "local-business.jsonld",
-        "bytes": 2679,
-        "purpose": "LocalBusiness JSON-LD"
-      },
-      {
-        "path": "entity-profile.json",
-        "bytes": 6494,
-        "purpose": "Entity profile summary"
-      },
-      {
-        "path": "business-overview.json",
-        "bytes": 6494,
-        "purpose": "Business overview"
-      },
-      {
-        "path": "brand-profile.json",
-        "bytes": 162,
-        "purpose": "Brand profile"
-      },
-      {
-        "path": "identifiers.json",
-        "bytes": 142,
-        "purpose": "External identifiers & sameAs"
-      },
-      {
-        "path": "same-as.jsonld",
-        "bytes": 153,
-        "purpose": "sameAs graph for entity disambiguation"
-      },
-      {
-        "path": "about.jsonld",
-        "bytes": 3078,
-        "purpose": "AboutPage JSON-LD"
-      },
-      {
-        "path": "contact.jsonld",
-        "bytes": 312,
-        "purpose": "ContactPage JSON-LD"
-      },
-      {
-        "path": "knowledge-graph.json",
-        "bytes": 186094,
-        "purpose": "Combined Schema.org @graph"
-      },
-      {
-        "path": "full-context.json",
-        "bytes": 6494,
-        "purpose": "Full entity context (JSON)"
-      },
-      {
-        "path": "full-context.yaml",
-        "bytes": 5322,
-        "purpose": "Full entity context (YAML)"
-      }
-    ],
-    "faqs": [
-      {
-        "path": "faqs.jsonld",
-        "bytes": 145,
-        "purpose": "FAQs ItemList"
-      },
-      {
-        "path": "faq.md",
-        "bytes": 30,
-        "purpose": "FAQs (markdown)"
-      }
-    ],
-    "qna": [
-      {
-        "path": "qnas.jsonld",
-        "bytes": 144,
-        "purpose": "Q&A ItemList"
-      },
-      {
-        "path": "qna.md",
-        "bytes": 29,
-        "purpose": "Q&A (markdown)"
-      }
-    ],
-    "help": [
-      {
-        "path": "help-articles.jsonld",
-        "bytes": 154,
-        "purpose": "Help articles ItemList"
-      },
-      {
-        "path": "help-articles.md",
-        "bytes": 47,
-        "purpose": "Help articles (markdown)"
-      }
-    ],
-    "hubs": [
-      {
-        "path": "topical-hubs.jsonld",
-        "bytes": 153,
-        "purpose": "Topical hubs ItemList"
-      },
-      {
-        "path": "topical-hubs.md",
-        "bytes": 47,
-        "purpose": "Topical hubs (markdown)"
-      },
-      {
-        "path": "semantic-authority-pages.json",
-        "bytes": 108,
-        "purpose": "Semantic authority pages"
-      }
-    ],
-    "awards": [
-      {
-        "path": "awards.jsonld",
-        "bytes": 147,
-        "purpose": "Awards ItemList"
-      },
-      {
-        "path": "licenses.jsonld",
-        "bytes": 149,
-        "purpose": "Licenses ItemList"
-      },
-      {
-        "path": "associations.jsonld",
-        "bytes": 153,
-        "purpose": "Associations ItemList"
-      },
-      {
-        "path": "credentials.json",
-        "bytes": 100,
-        "purpose": "Credentials summary"
-      }
-    ],
-    "case-results": [
-      {
-        "path": "case-results.jsonld",
-        "bytes": 6083,
-        "purpose": "Case results ItemList"
-      }
-    ],
-    "press": [
-      {
-        "path": "media-mentions.jsonld",
-        "bytes": 155,
-        "purpose": "Media mentions ItemList"
-      }
-    ],
-    "pages": [
-      {
-        "path": "about.html",
-        "bytes": 4012,
-        "purpose": "About page"
-      },
-      {
-        "path": "services.html",
-        "bytes": 17195,
-        "purpose": "Services page"
-      },
-      {
-        "path": "locations.html",
-        "bytes": 2344,
-        "purpose": "Locations page"
-      },
-      {
-        "path": "attorneys.html",
-        "bytes": 13231,
-        "purpose": "Attorneys page"
-      },
-      {
-        "path": "faqs.html",
-        "bytes": 1873,
-        "purpose": "FAQs page"
-      },
-      {
-        "path": "qnas.html",
-        "bytes": 1885,
-        "purpose": "Q&A page"
-      },
-      {
-        "path": "help.html",
-        "bytes": 1873,
-        "purpose": "Help page"
-      },
-      {
-        "path": "topical-hubs.html",
-        "bytes": 1905,
-        "purpose": "Topical hubs page"
-      },
-      {
-        "path": "reviews.html",
-        "bytes": 2383,
-        "purpose": "Reviews page"
-      },
-      {
-        "path": "case-results.html",
-        "bytes": 2481,
-        "purpose": "Case results page"
-      },
-      {
-        "path": "contact.html",
-        "bytes": 1976,
-        "purpose": "Contact page"
-      }
-    ],
-    "data": [
-      {
-        "path": "data/entity.json",
-        "bytes": 6494,
-        "purpose": "Entity data (JSON)"
-      },
-      {
-        "path": "data/entity.yaml",
-        "bytes": 5322,
-        "purpose": "Entity data (YAML)"
-      },
-      {
-        "path": "data/entity.jsonl",
-        "bytes": 4773,
-        "purpose": "Entity data (JSONL)"
-      },
-      {
-        "path": "data/services.json",
-        "bytes": 97365,
-        "purpose": "Services data"
-      },
-      {
-        "path": "data/locations.json",
-        "bytes": 1818,
-        "purpose": "Locations data"
-      },
-      {
-        "path": "data/faqs.json",
-        "bytes": 94,
-        "purpose": "FAQs data"
-      },
-      {
-        "path": "data/qnas.json",
-        "bytes": 94,
-        "purpose": "Q&A data"
-      },
-      {
-        "path": "data/help-articles.json",
-        "bytes": 94,
-        "purpose": "Help articles data"
-      },
-      {
-        "path": "data/attorneys.json",
-        "bytes": 84003,
-        "purpose": "Attorneys data"
-      },
-      {
-        "path": "data/reviews.json",
-        "bytes": 9684,
-        "purpose": "Reviews data"
-      },
-      {
-        "path": "data/case-results.json",
-        "bytes": 5216,
-        "purpose": "Case results data"
-      },
-      {
-        "path": "data/knowledge-graph.json",
-        "bytes": 186094,
-        "purpose": "Knowledge graph @graph"
-      },
-      {
-        "path": "data/internal-links.json",
-        "bytes": 22432,
-        "purpose": "Internal links index"
-      },
-      {
-        "path": "data/source-map.json",
-        "bytes": 42821,
-        "purpose": "Source-map of all entity files"
-      },
-      {
-        "path": "data/research-sources.json",
-        "bytes": 264,
-        "purpose": "Approved research items with source attribution"
-      },
-      {
-        "path": "data/source-provenance.json",
-        "bytes": 336,
-        "purpose": "External source provenance for approved research"
-      }
-    ],
-    "compliance": [
-      {
-        "path": "ai-disclaimer.md",
-        "bytes": 447,
-        "purpose": "AI disclaimer"
-      },
-      {
-        "path": "legal-disclaimer.md",
-        "bytes": 409,
-        "purpose": "Legal disclaimer"
-      },
-      {
-        "path": "data-sources.md",
-        "bytes": 675,
-        "purpose": "Data sources"
-      },
-      {
-        "path": "content-review-status.json",
-        "bytes": 43716,
-        "purpose": "Content review status"
-      },
-      {
-        "path": "approval-log.json",
-        "bytes": 142,
-        "purpose": "Content approval log"
-      }
-    ],
-    "security": [
-      {
-        "path": "security.txt",
-        "bytes": 155,
-        "purpose": "Security.txt (RFC 9116)"
-      },
-      {
-        "path": "humans.txt",
-        "bytes": 146,
-        "purpose": "humans.txt"
-      }
-    ],
     "root": [
       {
         "path": "robots.txt",
@@ -1432,7 +1003,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4217,
+        "bytes": 3523,
         "purpose": "LLM hint"
       },
       {
@@ -1452,51 +1023,45 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1664,
+        "bytes": 983,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 101114,
+        "bytes": 71760,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 35620,
+        "bytes": 25449,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 35620,
+        "bytes": 25449,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4050,
+        "bytes": 3356,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 26899,
+        "bytes": 20383,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 36596,
+        "bytes": 29134,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 3115,
+        "bytes": 1615,
         "purpose": "Standard sitemap"
       }
     ]
   },
-  "destinations": {
-    "github": {
-      "url": "https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40",
-      "pagesUrl": "https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/",
-      "repo": "AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40"
-    }
-  }
+  "destinations": {}
 }

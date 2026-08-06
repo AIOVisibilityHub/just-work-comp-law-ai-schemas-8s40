@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Angela S."
+  },
+  "reviewBody": "I can not recommend these guys enough, they will absolutely be the first I call should I ever need a workers comp attorney in the future.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "Nov. 1, 2024",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Workers' compensation attorney"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://justworkcomplaw.com",
+  "name": "Just Work Comp Law - Ogden",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "84401",
+    "addressRegion": "UT",
+    "streetAddress": "205 E 26th St, Ste 22",
+    "addressLocality": "Ogden"
+  },
+  "@context": "https://schema.org",
+  "telephone": "801-746-0290"
+}

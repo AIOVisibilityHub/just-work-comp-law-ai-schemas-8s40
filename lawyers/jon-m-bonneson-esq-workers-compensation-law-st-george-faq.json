@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Workers' compensation law in St. George?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Jon M. Bonneson, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving St. George. Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations. Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Jon M. Bonneson, Esq. handle Workers' compensation law cases in St. George?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Jon M. Bonneson, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in St. George and surrounding areas. Credentials: License #17460.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

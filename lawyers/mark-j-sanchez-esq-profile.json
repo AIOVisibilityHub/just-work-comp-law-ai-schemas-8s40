@@ -1,0 +1,58 @@
+{
+  "name": "Mark J. Sanchez, Esq.",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Ogden",
+      "@type": "City"
+    },
+    {
+      "name": "St. George",
+      "@type": "City"
+    },
+    {
+      "name": "Utah County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "West Valley City",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Utah",
+      "@type": "State"
+    }
+  ],
+  "knowsAbout": [
+    "Workers' compensation law",
+    "Spanish-speaking clients",
+    "Workers’ Compensation"
+  ],
+  "description": "Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish.",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #11263"
+    }
+  ]
+}

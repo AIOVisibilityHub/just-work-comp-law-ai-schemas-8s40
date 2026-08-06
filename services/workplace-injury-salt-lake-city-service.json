@@ -1,0 +1,77 @@
+{
+  "url": "https://justworkcomplaw.com",
+  "name": "Workplace injury Attorney in Salt Lake City",
+  "@type": "ProfessionalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Salt Lake City"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "ProfessionalService",
+    "telephone": "801-746-0290"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Utah",
+      "@type": "State"
+    }
+  ],
+  "description": "Just Work Comp Law helps people with Workplace injury matters related to Workers’ Compensation in Salt Lake City, Ogden, St. George. These cases may involve understanding your rights, applicable rules and deadlines, and the legal options available to resolve your situation. Serving Salt Lake City.",
+  "serviceType": "Workers’ Compensation — Workplace injury",
+  "hasOfferCatalog": {
+    "name": "Workers’ Compensation Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workplace injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "On-the-job accident",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Slip and fall at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Lifting on job injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Injured at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Work injury claim",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

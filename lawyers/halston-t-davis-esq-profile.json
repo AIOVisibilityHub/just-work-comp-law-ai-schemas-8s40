@@ -1,0 +1,57 @@
+{
+  "name": "Halston T. Davis, Esq.",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {
+      "name": "Salt Lake City",
+      "@type": "City"
+    },
+    {
+      "name": "Ogden",
+      "@type": "City"
+    },
+    {
+      "name": "St. George",
+      "@type": "City"
+    },
+    {
+      "name": "Utah County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "West Valley City",
+      "@type": "City"
+    },
+    {
+      "name": "West Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Sandy",
+      "@type": "City"
+    },
+    {
+      "name": "Utah",
+      "@type": "State"
+    }
+  ],
+  "knowsAbout": [
+    "Workers' compensation law",
+    "Workers’ Compensation"
+  ],
+  "description": "Since 2004, Hal has helped hundreds of injured workers secure the compensation they need. He dedicates 100% of his practice to workers' compensation, including substantial litigation work.",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #8998"
+    }
+  ]
+}

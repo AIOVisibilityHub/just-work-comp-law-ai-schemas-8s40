@@ -1,0 +1,27 @@
+{
+  "name": "Jared L. Mortenson, Esq.",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "West Jordan",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "Workers' compensation law",
+    "Workers’ Compensation"
+  ],
+  "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #12173"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Mark Talley, Esq.",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "West Valley City",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "Workers' compensation law",
+    "Workers’ Compensation"
+  ],
+  "description": "Mark began working in workers' compensation law in 2018 as a paralegal. In 2024, he earned his law degree and joined the firm as an attorney.",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #19702"
+    }
+  ]
+}

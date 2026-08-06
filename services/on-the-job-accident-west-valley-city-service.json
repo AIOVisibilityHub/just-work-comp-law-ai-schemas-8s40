@@ -1,0 +1,77 @@
+{
+  "url": "https://justworkcomplaw.com",
+  "name": "On-the-job accident Lawyer in West Valley City",
+  "@type": "ProfessionalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "West Valley City"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "ProfessionalService",
+    "telephone": "801-746-0290"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {
+      "name": "West Valley City",
+      "@type": "City"
+    },
+    {
+      "name": "Utah",
+      "@type": "State"
+    }
+  ],
+  "description": "Just Work Comp Law represents clients dealing with On-the-job accident related to Workers’ Compensation in Salt Lake City, Ogden, St. George. Our work typically covers case review, gathering evidence, communicating with opposing parties, and pursuing the right resolution for each client. Serving West Valley City.",
+  "serviceType": "Workers’ Compensation — On-the-job accident",
+  "hasOfferCatalog": {
+    "name": "Workers’ Compensation Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workplace injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "On-the-job accident",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Slip and fall at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Lifting on job injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Injured at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Work injury claim",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

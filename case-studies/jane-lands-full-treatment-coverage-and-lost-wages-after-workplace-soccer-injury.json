@@ -1,0 +1,17 @@
+{
+  "@type": "Article",
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Jane Lands Full Treatment Coverage and Lost Wages After “Workplace” Soccer Injury",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "Jane suffered a workplace soccer injury.\n\nOutcome: The firm settled Jane’s case and got her the lost wages and medical treatment she deserved. justworkcomplaw"
+}

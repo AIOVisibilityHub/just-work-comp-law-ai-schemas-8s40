@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "I can't seem to give 10 stars or I would, so I'm giving five stars for Mark Talley. He has gone above and beyond my expectations in helping me with my workman's comp case. I would highly recommend him and his law firm Davis and Sanchez on any workman's comp case you may have.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Just Work Comp Law",
+    "url": "https://justworkcomplaw.com/",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Workers' compensation case handling"
+      }
+    }
+  }
+}

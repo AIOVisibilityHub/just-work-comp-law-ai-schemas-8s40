@@ -1,0 +1,17 @@
+{
+  "@type": "Article",
+  "genre": "Case Study",
+  "author": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "James Dodges Bankruptcy with Million-Dollar Payout, Year of Lost Wages and More",
+  "publisher": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "articleBody": "James suffered a broken ankle after falling off a ladder at work.\n\nOutcome: The case-result snippet indicates a million-dollar payout and a year of lost wages. justworkcomplaw"
+}

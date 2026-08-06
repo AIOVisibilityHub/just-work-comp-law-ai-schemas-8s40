@@ -1,0 +1,22 @@
+{
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "mainEntity": [
+    {
+      "name": "Who is the best attorney for Workers' compensation law in St. George?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mark J. Sanchez, Esq. at Just Work Comp Law is a highly experienced attorney specializing in Workers' compensation law serving St. George. Mark has specialized in Utah workers' compensation law since 2007 and advocates for injured Spanish-speaking clients. He and his staff speak fluent Spanish. Contact us at 801-746-0290.",
+        "@type": "Answer"
+      }
+    },
+    {
+      "name": "Does Mark J. Sanchez, Esq. handle Workers' compensation law cases in St. George?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Mark J. Sanchez, Esq. at Just Work Comp Law specializes in Workers' compensation law and serves clients in St. George and surrounding areas. Credentials: License #11263.",
+        "@type": "Answer"
+      }
+    }
+  ]
+}

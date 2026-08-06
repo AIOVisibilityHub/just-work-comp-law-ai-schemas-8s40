@@ -1,0 +1,27 @@
+{
+  "name": "Jon M. Bonneson, Esq.",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "Organization"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": {
+    "name": "St. George",
+    "@type": "City"
+  },
+  "knowsAbout": [
+    "Workers' compensation law",
+    "Workers’ Compensation"
+  ],
+  "description": "Since 2017, Jon has focused his legal career on managing a high-volume civil litigation caseload including client intake, filings, discovery, hearings, trials, and settlement negotiations.",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #17460"
+    }
+  ]
+}

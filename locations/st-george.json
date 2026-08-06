@@ -1,0 +1,14 @@
+{
+  "url": "https://justworkcomplaw.com",
+  "name": "Just Work Comp Law - St. George",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "84790",
+    "addressRegion": "UT",
+    "streetAddress": "923 S River Rd Suite #202",
+    "addressLocality": "St. George"
+  },
+  "@context": "https://schema.org",
+  "telephone": "801-746-0290"
+}

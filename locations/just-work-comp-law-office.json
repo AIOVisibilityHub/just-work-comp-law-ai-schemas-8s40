@@ -1,0 +1,14 @@
+{
+  "url": "https://justworkcomplaw.com",
+  "name": "Just Work Comp Law - Just Work Comp Law Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "84107",
+    "addressRegion": "UT",
+    "streetAddress": "655 E 4500 S #120",
+    "addressLocality": "Salt Lake City"
+  },
+  "@context": "https://schema.org",
+  "telephone": "801-746-0290"
+}

@@ -1,0 +1,77 @@
+{
+  "url": "https://justworkcomplaw.com",
+  "name": "Slip and fall at work Legal Help in West Valley City",
+  "@type": "ProfessionalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "West Valley City"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://justworkcomplaw.com",
+    "name": "Just Work Comp Law",
+    "@type": "ProfessionalService",
+    "telephone": "801-746-0290"
+  },
+  "telephone": "801-746-0290",
+  "areaServed": [
+    {
+      "name": "West Valley City",
+      "@type": "City"
+    },
+    {
+      "name": "Utah",
+      "@type": "State"
+    }
+  ],
+  "description": "If you are facing a Slip and fall at work issue in Salt Lake City, Ogden, St. George, Just Work Comp Law can explain how the process works related to Workers’ Compensation, what to expect at each stage, and the options that may apply to your circumstances. Serving West Valley City.",
+  "serviceType": "Workers’ Compensation — Slip and fall at work",
+  "hasOfferCatalog": {
+    "name": "Workers’ Compensation Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workplace injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "On-the-job accident",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Slip and fall at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Lifting on job injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Injured at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Work injury claim",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

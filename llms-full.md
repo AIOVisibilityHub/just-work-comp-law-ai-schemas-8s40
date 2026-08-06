@@ -13,6 +13,14 @@ Package contents:
 - 8 caseStudies
 - 1 organization
 
+## Cross-Destination Index — Related AI Data Sources
+- [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw.com
+- [ai-data-hub] Just Work Comp Law — AI Data Hub — https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html
+- [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html
+
+Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
+
 Services offered:
 - Workplace injury
 - On-the-job accident
@@ -140,182 +148,182 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 ## File Index
 
 ### Root AI Files (6)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/.nojekyll — Disable Jekyll on GitHub Pages
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/index.html — Landing page (redirects to ai-data.html)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/llms.txt — LLM hint
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/manifest.json — Web app manifest
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/related-destinations.json — Cross-Destination Index (Related AI Data Sources)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/robots.txt — Robots policy
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/.nojekyll — Disable Jekyll on GitHub Pages
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/index.html — Landing page (redirects to ai-data.html)
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/llms.txt — LLM hint
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/manifest.json — Web app manifest
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/related-destinations.json — Cross-Destination Index (Related AI Data Sources)
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/robots.txt — Robots policy
 
 ### Organization & About (1)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/organization/just-work-comp-law-organization.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/organization/just-work-comp-law-organization.json — schema
 
 ### Services (42)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-ogden-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-salt-lake-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-sandy-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-st-george-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-utah-county-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-west-jordan-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-west-valley-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-ogden-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-salt-lake-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-sandy-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-st-george-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-utah-county-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-west-jordan-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-west-valley-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-ogden-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-salt-lake-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-sandy-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-st-george-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-utah-county-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-west-jordan-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-west-valley-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-ogden-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-salt-lake-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-sandy-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-st-george-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-utah-county-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-west-jordan-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-west-valley-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-ogden-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-salt-lake-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-sandy-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-st-george-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-utah-county-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-west-jordan-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-west-valley-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-ogden-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-salt-lake-city-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-sandy-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-st-george-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-utah-county-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-west-jordan-service.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-west-valley-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-ogden-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-salt-lake-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-sandy-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-st-george-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-utah-county-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-west-jordan-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/injured-at-work-west-valley-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-ogden-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-salt-lake-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-sandy-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-st-george-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-utah-county-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-west-jordan-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/lifting-on-job-injury-west-valley-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-ogden-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-salt-lake-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-sandy-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-st-george-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-utah-county-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-west-jordan-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/on-the-job-accident-west-valley-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-ogden-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-salt-lake-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-sandy-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-st-george-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-utah-county-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-west-jordan-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/slip-and-fall-at-work-west-valley-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-ogden-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-salt-lake-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-sandy-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-st-george-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-utah-county-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-west-jordan-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/work-injury-claim-west-valley-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-ogden-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-salt-lake-city-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-sandy-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-st-george-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-utah-county-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-west-jordan-service.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services/workplace-injury-west-valley-city-service.json — schema
 
 ### Locations (4)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations/just-work-comp-law-office.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations/ogden.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations/salt-lake-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/locations/st-george.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/locations/just-work-comp-law-office.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/locations/ogden.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/locations/salt-lake-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/locations/st-george.json — schema
 
 ### Attorneys (83)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-ogden.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-profile.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-salt-lake-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-sandy.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-st-george.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-utah-county.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-west-jordan.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-west-valley-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-ogden-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-salt-lake-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-st-george-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-utah-county-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-west-valley-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-ogden.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-profile.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-salt-lake-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-sandy.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-st-george.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-utah-county.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-west-jordan.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-west-valley-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-ogden-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-salt-lake-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-st-george-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-utah-county-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-west-valley-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-ogden.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-profile.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-salt-lake-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-sandy.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-st-george.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-utah-county.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-west-jordan.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-west-valley-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-ogden-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-salt-lake-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-st-george-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-utah-county-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-west-valley-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-ogden.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-profile.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-salt-lake-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-sandy.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-st-george.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-utah-county.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-west-jordan.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-west-valley-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-ogden-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-salt-lake-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-st-george-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-utah-county-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-west-valley-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-ogden.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-profile.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-salt-lake-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-sandy.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-ogden-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-salt-lake-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-st-george-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-utah-county-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-west-valley-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-st-george.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-utah-county.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-west-jordan.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-west-valley-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-ogden-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-salt-lake-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-st-george-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-utah-county-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-west-valley-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-ogden.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-profile.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-salt-lake-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-sandy.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-st-george.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-utah-county.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-west-jordan.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-west-valley-city.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-ogden-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-salt-lake-city-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-st-george-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-utah-county-faq.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-west-valley-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-ogden.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-profile.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-salt-lake-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-sandy.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-st-george.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-utah-county.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-west-jordan.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-west-valley-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-ogden-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-salt-lake-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-st-george-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-utah-county-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/blair-t-jones-esq-workers-compensation-law-west-valley-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-ogden.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-profile.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-salt-lake-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-sandy.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-st-george.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-utah-county.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-west-jordan.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-west-valley-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-ogden-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-salt-lake-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-st-george-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-utah-county-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/halston-t-davis-esq-workers-compensation-law-west-valley-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-ogden.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-profile.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-salt-lake-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-sandy.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-st-george.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-utah-county.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-west-jordan.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-west-valley-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-ogden-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-salt-lake-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-st-george-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-utah-county-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jared-l-mortenson-esq-workers-compensation-law-west-valley-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-ogden.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-profile.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-salt-lake-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-sandy.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-st-george.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-utah-county.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-west-jordan.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-west-valley-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-ogden-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-salt-lake-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-st-george-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-utah-county-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/jon-m-bonneson-esq-workers-compensation-law-west-valley-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-ogden.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-profile.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-salt-lake-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-sandy.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-ogden-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-salt-lake-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-st-george-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-utah-county-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-spanish-speaking-clients-west-valley-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-st-george.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-utah-county.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-west-jordan.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-west-valley-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-ogden-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-salt-lake-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-st-george-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-utah-county-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-j-sanchez-esq-workers-compensation-law-west-valley-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-ogden.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-profile.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-salt-lake-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-sandy.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-st-george.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-utah-county.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-west-jordan.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-west-valley-city.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-ogden-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-salt-lake-city-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-st-george-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-utah-county-faq.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/lawyers/mark-talley-esq-workers-compensation-law-west-valley-city-faq.json — schema
 
 ### Public Pages (8)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/about.html — LLM-optimized public page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/articles.html — LLM-optimized public page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/contact.html — LLM-optimized public page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/faqs.html — LLM-optimized public page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/index.html — LLM-optimized public page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews.html — LLM-optimized public page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/services.html — LLM-optimized public page
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/team-members.html — LLM-optimized public page
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/about.html — LLM-optimized public page
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/articles.html — LLM-optimized public page
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/contact.html — LLM-optimized public page
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/faqs.html — LLM-optimized public page
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/index.html — LLM-optimized public page
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews.html — LLM-optimized public page
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/services.html — LLM-optimized public page
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/team-members.html — LLM-optimized public page
 
 ### Reviews (12)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/aggregate-rating.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/angela-s-4-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-1-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-10-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-11-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-2-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-3-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-8-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-9-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/gary-t-7-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/laura-b-5-review.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/ruben-l-6-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/aggregate-rating.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/angela-s-4-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-1-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-10-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-11-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-2-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-3-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-8-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/anonymous-9-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/gary-t-7-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/laura-b-5-review.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/reviews/ruben-l-6-review.json — schema
 
 ### Case Studies (8)
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/delivery-accident.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/employee-fall.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/industrial-accident.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/james-dodges-bankruptcy-with-million-dollar-payout-year-of-lost-wages-and-more.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/lifting-injury.json — schema
-- https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/machine-accident.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/delivery-accident.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/employee-fall.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/industrial-accident.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/james-dodges-bankruptcy-with-million-dollar-payout-year-of-lost-wages-and-more.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/lifting-injury.json — schema
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/case-studies/machine-accident.json — schema
 

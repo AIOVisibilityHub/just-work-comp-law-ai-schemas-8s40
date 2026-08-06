@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-06T17:32:11.542Z",
+  "generatedAt": "2026-08-06T17:32:21.974Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw.com",
-    "pagesUrl": "https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40",
+    "pagesUrl": "https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40",
     "phone": "801-746-0290",
     "email": "info@davis-sanchez.com",
     "locations": [
@@ -161,7 +161,7 @@
   },
   "package": {
     "totalFiles": 172,
-    "totalBytes": 574932,
+    "totalBytes": 580526,
     "stats": {
       "qna": 0,
       "faqs": 0,
@@ -1003,7 +1003,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3523,
+        "bytes": 4217,
         "purpose": "LLM hint"
       },
       {
@@ -1023,32 +1023,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 983,
+        "bytes": 1664,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 71760,
+        "bytes": 73203,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 25449,
+        "bytes": 26143,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 25449,
+        "bytes": 26143,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3356,
+        "bytes": 4050,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 20383,
+        "bytes": 21077,
         "purpose": "Repository README"
       },
       {
@@ -1063,5 +1063,11 @@
       }
     ]
   },
-  "destinations": {}
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40",
+      "pagesUrl": "https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/",
+      "repo": "AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40"
+    }
+  }
 }

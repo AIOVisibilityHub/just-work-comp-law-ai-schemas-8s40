@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have back problems already, slipped at work—will they pay?",
-  "description": "Yes—covers aggravation of old injuries.",
   "url": "https://justworkcomplaw.com/faq/i-have-back-problems-already-slipped-at-work-will-they-pay",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I have back problems already, slipped at work—will they pay?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—covers aggravation of old injuries."
-      }
-    }
-  ],
+  "name": "I have back problems already, slipped at work—will they pay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I have back problems already, slipped at work—will they pay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—covers aggravation of old injuries.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—covers aggravation of old injuries."
 }

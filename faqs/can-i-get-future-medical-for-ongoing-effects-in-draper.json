@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get future medical for ongoing effects in Draper?",
-  "description": "Yes, workers compensation medical benefits in Utah are life-long.",
   "url": "https://justworkcomplaw.com/faq/can-i-get-future-medical-for-ongoing-effects-in-draper",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I get future medical for ongoing effects in Draper?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, workers compensation medical benefits in Utah are life-long."
-      }
-    }
-  ],
+  "name": "Can I get future medical for ongoing effects in Draper?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get future medical for ongoing effects in Draper?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, workers compensation medical benefits in Utah are life-long.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, workers compensation medical benefits in Utah are life-long."
 }

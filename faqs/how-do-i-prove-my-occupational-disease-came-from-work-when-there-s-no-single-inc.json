@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I prove my occupational disease came from work when there's no single incident?",
-  "description": "Seek medical care and ask doctor to comment on causation in her medical records.",
   "url": "https://justworkcomplaw.com/faq/how-do-i-prove-my-occupational-disease-came-from-work-when-there-s-no-single-inc",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I prove my occupational disease came from work when there's no single incident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Seek medical care and ask doctor to comment on causation in her medical records."
-      }
-    }
-  ],
+  "name": "How do I prove my occupational disease came from work when there's no single incident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prove my occupational disease came from work when there's no single incident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seek medical care and ask doctor to comment on causation in her medical records.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Seek medical care and ask doctor to comment on causation in her medical records."
 }

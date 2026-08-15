@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I missed some work after injury but no doctors note, can I get paid in Bountiful Utah?",
-  "description": "Yes, with proof; get doctor note ASAP.",
   "url": "https://justworkcomplaw.com/faq/i-missed-some-work-after-injury-but-no-doctors-note-can-i-get-paid-in-bountiful",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I missed some work after injury but no doctors note, can I get paid in Bountiful Utah?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with proof; get doctor note ASAP."
-      }
-    }
-  ],
+  "name": "I missed some work after injury but no doctors note, can I get paid in Bountiful Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I missed some work after injury but no doctors note, can I get paid in Bountiful Utah?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with proof; get doctor note ASAP.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with proof; get doctor note ASAP."
 }

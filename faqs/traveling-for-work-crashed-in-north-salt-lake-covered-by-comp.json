@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Traveling for work crashed in North Salt Lake, covered by comp?",
-  "description": "Yes, if job-required travel.",
   "url": "https://justworkcomplaw.com/faq/traveling-for-work-crashed-in-north-salt-lake-covered-by-comp",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Traveling for work crashed in North Salt Lake, covered by comp?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if job-required travel."
-      }
-    }
-  ],
+  "name": "Traveling for work crashed in North Salt Lake, covered by comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Traveling for work crashed in North Salt Lake, covered by comp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if job-required travel.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, if job-required travel."
 }

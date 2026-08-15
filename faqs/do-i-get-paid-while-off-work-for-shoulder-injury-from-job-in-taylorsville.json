@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I get paid while off work for shoulder injury from job in Taylorsville?",
-  "description": "Yes, ~67% wages for time off per doctor orders.",
   "url": "https://justworkcomplaw.com/faq/do-i-get-paid-while-off-work-for-shoulder-injury-from-job-in-taylorsville",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I get paid while off work for shoulder injury from job in Taylorsville?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, ~67% wages for time off per doctor orders."
-      }
-    }
-  ],
+  "name": "Do I get paid while off work for shoulder injury from job in Taylorsville?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I get paid while off work for shoulder injury from job in Taylorsville?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, ~67% wages for time off per doctor orders.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, ~67% wages for time off per doctor orders."
 }

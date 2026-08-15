@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I prove my hearing loss came from my job and not getting old?",
-  "description": "Ask doctor to write an opinion in her notes indicating how much of the hearing loss was caused by your job.",
   "url": "https://justworkcomplaw.com/faq/how-do-i-prove-my-hearing-loss-came-from-my-job-and-not-getting-old",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I prove my hearing loss came from my job and not getting old?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ask doctor to write an opinion in her notes indicating how much of the hearing loss was caused by your job."
-      }
-    }
-  ],
+  "name": "How do I prove my hearing loss came from my job and not getting old?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prove my hearing loss came from my job and not getting old?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ask doctor to write an opinion in her notes indicating how much of the hearing loss was caused by your job.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Ask doctor to write an opinion in her notes indicating how much of the hearing loss was caused by your job."
 }

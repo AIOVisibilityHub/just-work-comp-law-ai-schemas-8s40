@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if no witnesses to my slip at work in Midvale?",
-  "description": "Report to your supervisor as soon as possible. Your testimony is enough to make a claim possible.",
   "url": "https://justworkcomplaw.com/faq/what-if-no-witnesses-to-my-slip-at-work-in-midvale",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if no witnesses to my slip at work in Midvale?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Report to your supervisor as soon as possible. Your testimony is enough to make a claim possible."
-      }
-    }
-  ],
+  "name": "What if no witnesses to my slip at work in Midvale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if no witnesses to my slip at work in Midvale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Report to your supervisor as soon as possible. Your testimony is enough to make a claim possible.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Report to your supervisor as soon as possible. Your testimony is enough to make a claim possible."
 }

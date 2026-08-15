@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue my employer if I got injured at work in Salt Lake City?",
-  "description": "Usually no, unless your employer didn't carry a workers compensation policy.",
   "url": "https://justworkcomplaw.com/faq/can-i-sue-my-employer-if-i-got-injured-at-work-in-salt-lake-city",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue my employer if I got injured at work in Salt Lake City?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Usually no, unless your employer didn't carry a workers compensation policy."
-      }
-    }
-  ],
+  "name": "Can I sue my employer if I got injured at work in Salt Lake City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue my employer if I got injured at work in Salt Lake City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Usually no, unless your employer didn't carry a workers compensation policy.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Usually no, unless your employer didn't carry a workers compensation policy."
 }

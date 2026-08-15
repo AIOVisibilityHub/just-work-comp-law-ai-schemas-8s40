@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long until I get paid benefits after work injury?",
-  "description": "Workers' comp has between 21 days to decide whether it will accept a claim.",
   "url": "https://justworkcomplaw.com/faq/how-long-until-i-get-paid-benefits-after-work-injury",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long until I get paid benefits after work injury?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workers' comp has between 21 days to decide whether it will accept a claim."
-      }
-    }
-  ],
+  "name": "How long until I get paid benefits after work injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long until I get paid benefits after work injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workers' comp has between 21 days to decide whether it will accept a claim.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Workers' comp has between 21 days to decide whether it will accept a claim."
 }

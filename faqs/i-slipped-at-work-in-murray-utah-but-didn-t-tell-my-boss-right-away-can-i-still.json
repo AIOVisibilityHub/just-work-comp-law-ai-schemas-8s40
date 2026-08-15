@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I slipped at work in Murray Utah but didn't tell my boss right away, can I still file a workers comp claim?",
-  "description": "Yes, but report to employer within 180 days. The sooner the better.",
   "url": "https://justworkcomplaw.com/faq/i-slipped-at-work-in-murray-utah-but-didn-t-tell-my-boss-right-away-can-i-still",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I slipped at work in Murray Utah but didn't tell my boss right away, can I still file a workers comp claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but report to employer within 180 days. The sooner the better."
-      }
-    }
-  ],
+  "name": "I slipped at work in Murray Utah but didn't tell my boss right away, can I still file a workers comp claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I slipped at work in Murray Utah but didn't tell my boss right away, can I still file a workers comp claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but report to employer within 180 days. The sooner the better.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, but report to employer within 180 days. The sooner the better."
 }

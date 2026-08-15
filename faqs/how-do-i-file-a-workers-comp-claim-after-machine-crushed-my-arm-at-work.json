@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I file a workers comp claim after machine crushed my arm at work?",
-  "description": "Tell employer ASAP, get treated, they file claim. Lawyer helps.",
   "url": "https://justworkcomplaw.com/faq/how-do-i-file-a-workers-comp-claim-after-machine-crushed-my-arm-at-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I file a workers comp claim after machine crushed my arm at work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tell employer ASAP, get treated, they file claim. Lawyer helps."
-      }
-    }
-  ],
+  "name": "How do I file a workers comp claim after machine crushed my arm at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I file a workers comp claim after machine crushed my arm at work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tell employer ASAP, get treated, they file claim. Lawyer helps.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Tell employer ASAP, get treated, they file claim. Lawyer helps."
 }

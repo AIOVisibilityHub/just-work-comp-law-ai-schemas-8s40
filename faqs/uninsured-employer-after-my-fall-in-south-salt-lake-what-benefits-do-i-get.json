@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Uninsured employer after my fall in South Salt Lake, what benefits do I get?",
-  "description": "Contact attorney immediately. Particularly one with workers compensation experience related to uninsured employers.",
   "url": "https://justworkcomplaw.com/faq/uninsured-employer-after-my-fall-in-south-salt-lake-what-benefits-do-i-get",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Uninsured employer after my fall in South Salt Lake, what benefits do I get?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Contact attorney immediately. Particularly one with workers compensation experience related to uninsured employers."
-      }
-    }
-  ],
+  "name": "Uninsured employer after my fall in South Salt Lake, what benefits do I get?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Uninsured employer after my fall in South Salt Lake, what benefits do I get?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Contact attorney immediately. Particularly one with workers compensation experience related to uninsured employers.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Contact attorney immediately. Particularly one with workers compensation experience related to uninsured employers."
 }

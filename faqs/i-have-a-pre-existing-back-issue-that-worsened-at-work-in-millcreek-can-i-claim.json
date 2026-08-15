@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have a pre-existing back issue that worsened at work in Millcreek, can I claim?",
-  "description": "Yes, if work aggravated—prove with medical evidence.",
   "url": "https://justworkcomplaw.com/faq/i-have-a-pre-existing-back-issue-that-worsened-at-work-in-millcreek-can-i-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I have a pre-existing back issue that worsened at work in Millcreek, can I claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if work aggravated—prove with medical evidence."
-      }
-    }
-  ],
+  "name": "I have a pre-existing back issue that worsened at work in Millcreek, can I claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I have a pre-existing back issue that worsened at work in Millcreek, can I claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if work aggravated—prove with medical evidence.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, if work aggravated—prove with medical evidence."
 }

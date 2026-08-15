@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Third party equipment maker caused my injury in Centerville, can sue?",
-  "description": "Yes, but you will have to reimburse workers comp insurance from proceeds.",
   "url": "https://justworkcomplaw.com/faq/third-party-equipment-maker-caused-my-injury-in-centerville-can-sue",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Third party equipment maker caused my injury in Centerville, can sue?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but you will have to reimburse workers comp insurance from proceeds."
-      }
-    }
-  ],
+  "name": "Third party equipment maker caused my injury in Centerville, can sue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Third party equipment maker caused my injury in Centerville, can sue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but you will have to reimburse workers comp insurance from proceeds.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, but you will have to reimburse workers comp insurance from proceeds."
 }

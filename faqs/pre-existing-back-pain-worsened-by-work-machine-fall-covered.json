@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Pre-existing back pain worsened by work machine fall, covered?",
-  "description": "Yes, if work aggravated it.",
   "url": "https://justworkcomplaw.com/faq/pre-existing-back-pain-worsened-by-work-machine-fall-covered",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Pre-existing back pain worsened by work machine fall, covered?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if work aggravated it."
-      }
-    }
-  ],
+  "name": "Pre-existing back pain worsened by work machine fall, covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Pre-existing back pain worsened by work machine fall, covered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if work aggravated it.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, if work aggravated it."
 }

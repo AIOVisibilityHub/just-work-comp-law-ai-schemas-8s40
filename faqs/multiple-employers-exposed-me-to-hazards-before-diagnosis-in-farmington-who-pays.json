@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple employers exposed me to hazards before diagnosis in Farmington, who pays?",
-  "description": "Typically last employer under injurious exposure doctrine.",
   "url": "https://justworkcomplaw.com/faq/multiple-employers-exposed-me-to-hazards-before-diagnosis-in-farmington-who-pays",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Multiple employers exposed me to hazards before diagnosis in Farmington, who pays?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Typically last employer under injurious exposure doctrine."
-      }
-    }
-  ],
+  "name": "Multiple employers exposed me to hazards before diagnosis in Farmington, who pays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Multiple employers exposed me to hazards before diagnosis in Farmington, who pays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically last employer under injurious exposure doctrine.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Typically last employer under injurious exposure doctrine."
 }

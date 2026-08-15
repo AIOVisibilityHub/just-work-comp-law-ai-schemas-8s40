@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I handle medical care after work injury in Taylorsville?",
-  "description": "Use authorized docs; follow treatment; get switch approval.",
   "url": "https://justworkcomplaw.com/faq/how-do-i-handle-medical-care-after-work-injury-in-taylorsville",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I handle medical care after work injury in Taylorsville?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Use authorized docs; follow treatment; get switch approval."
-      }
-    }
-  ],
+  "name": "How do I handle medical care after work injury in Taylorsville?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I handle medical care after work injury in Taylorsville?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Use authorized docs; follow treatment; get switch approval.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Use authorized docs; follow treatment; get switch approval."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if ladder was defective in my work fall in Utah?",
-  "description": "Sue maker for defect—reimburse workers compensation.",
   "url": "https://justworkcomplaw.com/faq/what-if-ladder-was-defective-in-my-work-fall-in-utah",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if ladder was defective in my work fall in Utah?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sue maker for defect—reimburse workers compensation."
-      }
-    }
-  ],
+  "name": "What if ladder was defective in my work fall in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if ladder was defective in my work fall in Utah?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sue maker for defect—reimburse workers compensation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sue maker for defect—reimburse workers compensation."
 }

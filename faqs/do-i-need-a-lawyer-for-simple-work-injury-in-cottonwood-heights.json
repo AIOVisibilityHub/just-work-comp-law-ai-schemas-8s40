@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a lawyer for simple work injury in Cottonwood Heights?",
-  "description": "Yes, if workers comp denies any part of your claim, or if you wish to settle out.",
   "url": "https://justworkcomplaw.com/faq/do-i-need-a-lawyer-for-simple-work-injury-in-cottonwood-heights",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a lawyer for simple work injury in Cottonwood Heights?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if workers comp denies any part of your claim, or if you wish to settle out."
-      }
-    }
-  ],
+  "name": "Do I need a lawyer for simple work injury in Cottonwood Heights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a lawyer for simple work injury in Cottonwood Heights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if workers comp denies any part of your claim, or if you wish to settle out.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, if workers comp denies any part of your claim, or if you wish to settle out."
 }

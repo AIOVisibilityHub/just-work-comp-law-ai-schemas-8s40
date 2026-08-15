@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Symptoms started late after work slip, still claimable?",
-  "description": "Yes—med link proves delayed onset. Must report to employer within 180 days of diagnosis.",
   "url": "https://justworkcomplaw.com/faq/symptoms-started-late-after-work-slip-still-claimable",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Symptoms started late after work slip, still claimable?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes—med link proves delayed onset. Must report to employer within 180 days of diagnosis."
-      }
-    }
-  ],
+  "name": "Symptoms started late after work slip, still claimable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Symptoms started late after work slip, still claimable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes—med link proves delayed onset. Must report to employer within 180 days of diagnosis.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes—med link proves delayed onset. Must report to employer within 180 days of diagnosis."
 }

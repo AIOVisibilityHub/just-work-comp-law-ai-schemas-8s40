@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue my boss if I got hurt on the job in Woodscross?",
-  "description": "Workers' comp's has an exclusive remedy. The employer or its workers comp carrier can only be sue for 5 things.",
   "url": "https://justworkcomplaw.com/faq/can-i-sue-my-boss-if-i-got-hurt-on-the-job-in-woodscross",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue my boss if I got hurt on the job in Woodscross?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Workers' comp's has an exclusive remedy. The employer or its workers comp carrier can only be sue for 5 things."
-      }
-    }
-  ],
+  "name": "Can I sue my boss if I got hurt on the job in Woodscross?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue my boss if I got hurt on the job in Woodscross?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Workers' comp's has an exclusive remedy. The employer or its workers comp carrier can only be sue for 5 things.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Workers' comp's has an exclusive remedy. The employer or its workers comp carrier can only be sue for 5 things."
 }

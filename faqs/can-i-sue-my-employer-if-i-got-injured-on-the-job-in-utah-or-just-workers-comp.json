@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I sue my employer if I got injured on the job in Utah or just workers comp?",
-  "description": "Usually workers' comp only unless the employer didn't have workers comp insurance.",
   "url": "https://justworkcomplaw.com/faq/can-i-sue-my-employer-if-i-got-injured-on-the-job-in-utah-or-just-workers-comp",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I sue my employer if I got injured on the job in Utah or just workers comp?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Usually workers' comp only unless the employer didn't have workers comp insurance."
-      }
-    }
-  ],
+  "name": "Can I sue my employer if I got injured on the job in Utah or just workers comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sue my employer if I got injured on the job in Utah or just workers comp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Usually workers' comp only unless the employer didn't have workers comp insurance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Usually workers' comp only unless the employer didn't have workers comp insurance."
 }

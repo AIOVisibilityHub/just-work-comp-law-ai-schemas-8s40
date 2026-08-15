@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I really need a lawyer for machine finger amputation at work?",
+  "description": "Yes, boosts payout, handles complexity free upfront.",
+  "url": "https://justworkcomplaw.com/faq/do-i-really-need-a-lawyer-for-machine-finger-amputation-at-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I really need a lawyer for machine finger amputation at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, boosts payout, handles complexity free upfront."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

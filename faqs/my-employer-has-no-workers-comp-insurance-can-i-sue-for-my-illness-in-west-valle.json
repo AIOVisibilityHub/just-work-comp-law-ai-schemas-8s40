@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My employer has no workers comp insurance, can I sue for my illness in West Valley?",
+  "description": "Yes, you have two options; sue for full damages if uninsured; sue uninsured employers fund.",
+  "url": "https://justworkcomplaw.com/faq/my-employer-has-no-workers-comp-insurance-can-i-sue-for-my-illness-in-west-valle",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My employer has no workers comp insurance, can I sue for my illness in West Valley?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you have two options; sue for full damages if uninsured; sue uninsured employers fund."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

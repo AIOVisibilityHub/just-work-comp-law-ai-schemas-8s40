@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Partially my fault falling off ladder on job, still get money?",
+  "description": "Yes, comp ignores your fault.",
+  "url": "https://justworkcomplaw.com/faq/partially-my-fault-falling-off-ladder-on-job-still-get-money",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Partially my fault falling off ladder on job, still get money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, comp ignores your fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

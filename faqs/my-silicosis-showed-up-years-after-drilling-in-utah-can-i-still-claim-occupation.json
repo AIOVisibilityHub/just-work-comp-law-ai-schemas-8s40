@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My silicosis showed up years after drilling in Utah, can I still claim occupational illness?",
+  "description": "Yes, but you must report the silicosis to your employer within 180 days of learning your job caused it.",
+  "url": "https://justworkcomplaw.com/faq/my-silicosis-showed-up-years-after-drilling-in-utah-can-i-still-claim-occupation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My silicosis showed up years after drilling in Utah, can I still claim occupational illness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but you must report the silicosis to your employer within 180 days of learning your job caused it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

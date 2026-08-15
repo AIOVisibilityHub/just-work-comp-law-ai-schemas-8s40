@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have back problems before, can I still claim ladder fall at work?",
+  "description": "Yes, a ladder fall usually meets Allen requirements.",
+  "url": "https://justworkcomplaw.com/faq/i-have-back-problems-before-can-i-still-claim-ladder-fall-at-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have back problems before, can I still claim ladder fall at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a ladder fall usually meets Allen requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

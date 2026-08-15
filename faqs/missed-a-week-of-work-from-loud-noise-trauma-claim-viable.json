@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed a week of work from loud noise trauma, claim viable?",
+  "description": "Yes, report and seek medical care. First three days no wages.",
+  "url": "https://justworkcomplaw.com/faq/missed-a-week-of-work-from-loud-noise-trauma-claim-viable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed a week of work from loud noise trauma, claim viable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, report and seek medical care. First three days no wages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

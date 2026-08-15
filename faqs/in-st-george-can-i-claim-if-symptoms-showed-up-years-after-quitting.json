@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In St. George, can I claim if symptoms showed up years after quitting?",
+  "description": "Yes, but you must report the hearing problem to your former employer within 180 days of learning your job caused it.",
+  "url": "https://justworkcomplaw.com/faq/in-st-george-can-i-claim-if-symptoms-showed-up-years-after-quitting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In St. George, can I claim if symptoms showed up years after quitting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but you must report the hearing problem to your former employer within 180 days of learning your job caused it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

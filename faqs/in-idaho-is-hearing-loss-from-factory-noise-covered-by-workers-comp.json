@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Idaho, is hearing loss from factory noise covered by workers comp?",
+  "description": "Yes, prove work causation.",
+  "url": "https://justworkcomplaw.com/faq/in-idaho-is-hearing-loss-from-factory-noise-covered-by-workers-comp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Idaho, is hearing loss from factory noise covered by workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, prove work causation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

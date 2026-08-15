@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Ladders were provided by GC on my job site, can I sue them after fall?",
+  "description": "Yes, possible depending on relationship between your employer and the general contractor.",
+  "url": "https://justworkcomplaw.com/faq/ladders-were-provided-by-gc-on-my-job-site-can-i-sue-them-after-fall",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ladders were provided by GC on my job site, can I sue them after fall?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, possible depending on relationship between your employer and the general contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Missed a week of work after forklift hit me does comp pay?",
+  "description": "Yes, 67% wages post-waiting period.",
+  "url": "https://justworkcomplaw.com/faq/missed-a-week-of-work-after-forklift-hit-me-does-comp-pay",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Missed a week of work after forklift hit me does comp pay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 67% wages post-waiting period."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

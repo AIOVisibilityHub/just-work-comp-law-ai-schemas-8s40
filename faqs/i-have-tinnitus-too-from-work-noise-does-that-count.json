@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have tinnitus too from work noise, does that count?",
+  "description": "Yes, possibly based on hearing test results.",
+  "url": "https://justworkcomplaw.com/faq/i-have-tinnitus-too-from-work-noise-does-that-count",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have tinnitus too from work noise, does that count?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, possibly based on hearing test results."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

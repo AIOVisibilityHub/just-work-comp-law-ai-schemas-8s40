@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I have a work injury claim if it was kinda my fault, like I was rushing?",
+  "description": "Yes, workers' comp is no-fault—you get benefits if injured on the job, even it it was entirely your fault.",
+  "url": "https://justworkcomplaw.com/faq/do-i-have-a-work-injury-claim-if-it-was-kinda-my-fault-like-i-was-rushing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I have a work injury claim if it was kinda my fault, like I was rushing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workers' comp is no-fault—you get benefits if injured on the job, even it it was entirely your fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

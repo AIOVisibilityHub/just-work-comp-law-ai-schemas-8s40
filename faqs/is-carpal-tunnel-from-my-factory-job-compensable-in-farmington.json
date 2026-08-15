@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is carpal tunnel from my factory job compensable in Farmington?",
+  "description": "Yes, repetitive injuries qualify with medical opinion stating cause was work.",
+  "url": "https://justworkcomplaw.com/faq/is-carpal-tunnel-from-my-factory-job-compensable-in-farmington",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is carpal tunnel from my factory job compensable in Farmington?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, repetitive injuries qualify with medical opinion stating cause was work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

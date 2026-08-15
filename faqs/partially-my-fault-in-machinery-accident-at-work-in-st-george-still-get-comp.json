@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Partially my fault in machinery accident at work in St. George, still get comp?",
+  "description": "Yes, no-fault system covers you.",
+  "url": "https://justworkcomplaw.com/faq/partially-my-fault-in-machinery-accident-at-work-in-st-george-still-get-comp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Partially my fault in machinery accident at work in St. George, still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault system covers you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Part time job slip in Millcreek, full benefits?",
+  "description": "Yes, benefits based on your actual part-time wages and second job wages.",
+  "url": "https://justworkcomplaw.com/faq/part-time-job-slip-in-millcreek-full-benefits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Part time job slip in Millcreek, full benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, benefits based on your actual part-time wages and second job wages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

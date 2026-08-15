@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I had asthma before, can I still claim new lung damage from work solvents?",
+  "description": "Yes, covers aggravation; prove worsening via doctor.",
+  "url": "https://justworkcomplaw.com/faq/i-had-asthma-before-can-i-still-claim-new-lung-damage-from-work-solvents",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I had asthma before, can I still claim new lung damage from work solvents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, covers aggravation; prove worsening via doctor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

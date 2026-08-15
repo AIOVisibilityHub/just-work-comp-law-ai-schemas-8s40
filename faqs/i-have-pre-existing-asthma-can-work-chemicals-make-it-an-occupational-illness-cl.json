@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have pre-existing asthma, can work chemicals make it an occupational illness claim in Millcreek?",
+  "description": "Yes, if work substantially aggravated it—prove with medical evidence. May be apportioned.",
+  "url": "https://justworkcomplaw.com/faq/i-have-pre-existing-asthma-can-work-chemicals-make-it-an-occupational-illness-cl",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have pre-existing asthma, can work chemicals make it an occupational illness claim in Millcreek?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if work substantially aggravated it—prove with medical evidence. May be apportioned."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

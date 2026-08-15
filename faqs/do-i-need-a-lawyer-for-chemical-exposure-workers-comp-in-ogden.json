@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a lawyer for chemical exposure workers comp in Ogden?",
+  "description": "Yes, especially if disputed.",
+  "url": "https://justworkcomplaw.com/faq/do-i-need-a-lawyer-for-chemical-exposure-workers-comp-in-ogden",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a lawyer for chemical exposure workers comp in Ogden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, especially if disputed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

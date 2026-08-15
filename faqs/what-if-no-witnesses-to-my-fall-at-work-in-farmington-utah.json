@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if no witnesses to my fall at work in Farmington Utah?",
+  "description": "You can still file a claim as long as you reported the accident to your supervisor and medical care note indicate work accident.",
+  "url": "https://justworkcomplaw.com/faq/what-if-no-witnesses-to-my-fall-at-work-in-farmington-utah",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if no witnesses to my fall at work in Farmington Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can still file a claim as long as you reported the accident to your supervisor and medical care note indicate work accident."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

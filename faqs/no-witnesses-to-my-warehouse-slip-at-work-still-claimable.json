@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my warehouse slip at work, still claimable?",
+  "description": "Yes, as long as you reported the accident to supervisor or manager at the employer.",
+  "url": "https://justworkcomplaw.com/faq/no-witnesses-to-my-warehouse-slip-at-work-still-claimable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my warehouse slip at work, still claimable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as long as you reported the accident to supervisor or manager at the employer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

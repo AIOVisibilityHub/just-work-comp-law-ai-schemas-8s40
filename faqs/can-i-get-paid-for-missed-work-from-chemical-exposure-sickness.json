@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get paid for missed work from chemical exposure sickness?",
+  "description": "Yes, 2/3 wages via TTD benefits.",
+  "url": "https://justworkcomplaw.com/faq/can-i-get-paid-for-missed-work-from-chemical-exposure-sickness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get paid for missed work from chemical exposure sickness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 2/3 wages via TTD benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

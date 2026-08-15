@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms showed up weeks after work accident in Midvale, still eligible?",
+  "description": "Yes, report to employer within 180 days of diagnosis as work related.",
+  "url": "https://justworkcomplaw.com/faq/symptoms-showed-up-weeks-after-work-accident-in-midvale-still-eligible",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms showed up weeks after work accident in Midvale, still eligible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, report to employer within 180 days of diagnosis as work related."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

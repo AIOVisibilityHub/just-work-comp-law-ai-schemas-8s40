@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My back hurts from lifting boxes at my Provo, Utah job but symptoms started days later, is this still a work injury claim?",
+  "description": "Yes, delayed back pain from work lifting qualifies in Utah as cumulative trauma claim if reported promptly and medically linked.",
+  "url": "https://justworkcomplaw.com/faq/my-back-hurts-from-lifting-boxes-at-my-provo-utah-job-but-symptoms-started-days",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My back hurts from lifting boxes at my Provo, Utah job but symptoms started days later, is this still a work injury claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, delayed back pain from work lifting qualifies in Utah as cumulative trauma claim if reported promptly and medically linked."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

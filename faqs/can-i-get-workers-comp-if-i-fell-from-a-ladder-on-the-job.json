@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp if I fell from a ladder on the job?",
+  "description": "Yes, workers' comp covers ladder falls at work on a no-fault basis for medical, wages and disability.",
+  "url": "https://justworkcomplaw.com/faq/can-i-get-workers-comp-if-i-fell-from-a-ladder-on-the-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp if I fell from a ladder on the job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workers' comp covers ladder falls at work on a no-fault basis for medical, wages and disability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

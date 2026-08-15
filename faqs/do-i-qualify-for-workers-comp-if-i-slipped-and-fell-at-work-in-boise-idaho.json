@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I qualify for workers comp if I slipped and fell at work in Boise Idaho?",
+  "description": "Yes, slips at work qualify if reported timely; no fault required.",
+  "url": "https://justworkcomplaw.com/faq/do-i-qualify-for-workers-comp-if-i-slipped-and-fell-at-work-in-boise-idaho",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I qualify for workers comp if I slipped and fell at work in Boise Idaho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, slips at work qualify if reported timely; no fault required."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Partially my fault in work injury Midvale Utah, still get comp?",
+  "description": "Yes, no-fault system covers you.",
+  "url": "https://justworkcomplaw.com/faq/partially-my-fault-in-work-injury-midvale-utah-still-get-comp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Partially my fault in work injury Midvale Utah, still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault system covers you."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

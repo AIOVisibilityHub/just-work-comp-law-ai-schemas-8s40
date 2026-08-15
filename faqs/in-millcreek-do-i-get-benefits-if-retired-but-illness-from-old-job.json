@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "In Millcreek, do I get benefits if retired but illness from old job?",
+  "description": "Yes, must report to former employer within 180 days of medical diagnosis as work caused illness.",
+  "url": "https://justworkcomplaw.com/faq/in-millcreek-do-i-get-benefits-if-retired-but-illness-from-old-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "In Millcreek, do I get benefits if retired but illness from old job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, must report to former employer within 180 days of medical diagnosis as work caused illness."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

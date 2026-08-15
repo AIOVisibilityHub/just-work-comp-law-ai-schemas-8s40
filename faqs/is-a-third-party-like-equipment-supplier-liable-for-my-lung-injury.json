@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is a third party like equipment supplier liable for my lung injury?",
+  "description": "Yes, but you will have to reimburse workers comp for anything they paid out on your claim.",
+  "url": "https://justworkcomplaw.com/faq/is-a-third-party-like-equipment-supplier-liable-for-my-lung-injury",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is a third party like equipment supplier liable for my lung injury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but you will have to reimburse workers comp for anything they paid out on your claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

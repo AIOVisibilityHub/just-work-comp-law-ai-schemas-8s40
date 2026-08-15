@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue someone else besides my boss for work injury in Draper Utah?",
+  "description": "Yes, if someone who doesn't work for your employer was the cause.",
+  "url": "https://justworkcomplaw.com/faq/can-i-sue-someone-else-besides-my-boss-for-work-injury-in-draper-utah",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue someone else besides my boss for work injury in Draper Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if someone who doesn't work for your employer was the cause."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

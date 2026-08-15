@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my forklift injury in Riverton, can I claim?",
+  "description": "Yes, medical proof and your account work.",
+  "url": "https://justworkcomplaw.com/faq/no-witnesses-to-my-forklift-injury-in-riverton-can-i-claim",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my forklift injury in Riverton, can I claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medical proof and your account work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

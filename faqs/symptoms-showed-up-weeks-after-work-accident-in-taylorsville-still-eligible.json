@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms showed up weeks after work accident in Taylorsville, still eligible?",
+  "description": "Yes, with medical proof of connection.",
+  "url": "https://justworkcomplaw.com/faq/symptoms-showed-up-weeks-after-work-accident-in-taylorsville-still-eligible",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms showed up weeks after work accident in Taylorsville, still eligible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with medical proof of connection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

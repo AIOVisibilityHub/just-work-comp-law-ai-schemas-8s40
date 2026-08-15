@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Nurse in Midvale with back issues from lifting patients—occupational illness?",
+  "description": "Yes, only if you lifting was over 12 months and no specific lifting event occured.",
+  "url": "https://justworkcomplaw.com/faq/nurse-in-midvale-with-back-issues-from-lifting-patients-occupational-illness",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Nurse in Midvale with back issues from lifting patients—occupational illness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, only if you lifting was over 12 months and no specific lifting event occured."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

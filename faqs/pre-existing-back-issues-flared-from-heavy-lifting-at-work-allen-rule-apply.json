@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing back issues flared from heavy lifting at work. Allen Rule apply?",
+  "description": "Yes, show unusual exertion or excessive weight aggravated it.",
+  "url": "https://justworkcomplaw.com/faq/pre-existing-back-issues-flared-from-heavy-lifting-at-work-allen-rule-apply",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing back issues flared from heavy lifting at work. Allen Rule apply?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, show unusual exertion or excessive weight aggravated it."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

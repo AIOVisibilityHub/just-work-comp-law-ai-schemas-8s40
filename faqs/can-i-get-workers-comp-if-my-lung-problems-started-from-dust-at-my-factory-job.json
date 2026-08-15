@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp if my lung problems started from dust at my factory job?",
+  "description": "Yes, if doctor links it to work exposure. Stringent reporting requirements.",
+  "url": "https://justworkcomplaw.com/faq/can-i-get-workers-comp-if-my-lung-problems-started-from-dust-at-my-factory-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp if my lung problems started from dust at my factory job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if doctor links it to work exposure. Stringent reporting requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I claim if exposed via coworker not wearing mask?",
+  "description": "Yes, with doctor records indicating illness caused by exposure to coworker.",
+  "url": "https://justworkcomplaw.com/faq/can-i-claim-if-exposed-via-coworker-not-wearing-mask",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I claim if exposed via coworker not wearing mask?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with doctor records indicating illness caused by exposure to coworker."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

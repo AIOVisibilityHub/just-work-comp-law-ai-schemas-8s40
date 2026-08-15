@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Symptoms delayed years, still eligible?",
+  "description": "Yes, file within 180 days of diagnosis as work caused.",
+  "url": "https://justworkcomplaw.com/faq/symptoms-delayed-years-still-eligible",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Symptoms delayed years, still eligible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, file within 180 days of diagnosis as work caused."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

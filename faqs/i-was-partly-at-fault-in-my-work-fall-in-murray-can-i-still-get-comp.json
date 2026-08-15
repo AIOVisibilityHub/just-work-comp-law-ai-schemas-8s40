@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I was partly at fault in my work fall in Murray, can I still get comp?",
+  "description": "Yes, workers' comp ignores who was at fault. You still get benefits.",
+  "url": "https://justworkcomplaw.com/faq/i-was-partly-at-fault-in-my-work-fall-in-murray-can-i-still-get-comp",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I was partly at fault in my work fall in Murray, can I still get comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, workers' comp ignores who was at fault. You still get benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

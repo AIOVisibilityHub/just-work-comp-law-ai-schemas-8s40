@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "No witnesses to my chemical spill exposure, still claimable?",
+  "description": "Yes, medical + exposure docs enough.",
+  "url": "https://justworkcomplaw.com/faq/no-witnesses-to-my-chemical-spill-exposure-still-claimable",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "No witnesses to my chemical spill exposure, still claimable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, medical + exposure docs enough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

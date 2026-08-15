@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Pre-existing knee issue worsened by work slip, covered?",
+  "description": "Yes, but depends on circumstances of the slip. Allen test may be applicable.",
+  "url": "https://justworkcomplaw.com/faq/pre-existing-knee-issue-worsened-by-work-slip-covered",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Pre-existing knee issue worsened by work slip, covered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but depends on circumstances of the slip. Allen test may be applicable."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

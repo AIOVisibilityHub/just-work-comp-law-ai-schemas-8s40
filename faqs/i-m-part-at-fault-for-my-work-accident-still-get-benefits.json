@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I'm part at fault for my work accident, still get benefits?",
+  "description": "Yes, no-fault ignores your partial fault.",
+  "url": "https://justworkcomplaw.com/faq/i-m-part-at-fault-for-my-work-accident-still-get-benefits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I'm part at fault for my work accident, still get benefits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, no-fault ignores your partial fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

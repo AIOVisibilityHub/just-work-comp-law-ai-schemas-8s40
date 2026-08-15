@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Third party truck hit me at work in South Salt Lake, sue them?",
+  "description": "Yes, comp + PI lawsuit.",
+  "url": "https://justworkcomplaw.com/faq/third-party-truck-hit-me-at-work-in-south-salt-lake-sue-them",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Third party truck hit me at work in South Salt Lake, sue them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, comp + PI lawsuit."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I have asthma already—can I still claim new chemical exposure worsened it?",
+  "description": "Yes, with doctors written explanation as a permanent aggravation of your pre-existing condition.",
+  "url": "https://justworkcomplaw.com/faq/i-have-asthma-already-can-i-still-claim-new-chemical-exposure-worsened-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I have asthma already—can I still claim new chemical exposure worsened it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with doctors written explanation as a permanent aggravation of your pre-existing condition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

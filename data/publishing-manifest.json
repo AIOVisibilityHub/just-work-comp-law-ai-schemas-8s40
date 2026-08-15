@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-06T17:32:21.974Z",
+  "generatedAt": "2026-08-15T23:22:54.804Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw.com",
@@ -160,24 +160,24 @@
     ]
   },
   "package": {
-    "totalFiles": 172,
-    "totalBytes": 580526,
+    "totalFiles": 332,
+    "totalBytes": 931785,
     "stats": {
-      "qna": 0,
-      "faqs": 0,
-      "press": 0,
-      "total": 150,
-      "awards": 0,
-      "reviews": 11,
-      "products": 0,
-      "research": 0,
+      "faqs": 160,
+      "helpArticles": 0,
       "services": 42,
       "webpages": 0,
-      "locations": 4,
       "personnel": 83,
+      "products": 0,
+      "locations": 4,
+      "awards": 0,
       "caseStudies": 8,
-      "helpArticles": 0,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 11,
+      "qna": 0,
+      "research": 0,
+      "total": 310
     }
   },
   "entrypoints": {
@@ -891,6 +891,808 @@
         "purpose": "schema"
       }
     ],
+    "faqs": [
+      {
+        "path": "faqs/i-was-partly-at-fault-for-my-warehouse-fall-in-west-jordan-can-i-get-workers-com.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-have-a-work-injury-claim-if-it-was-kinda-my-fault-like-i-was-rushing.json",
+        "bytes": 780,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-was-partly-at-fault-in-my-work-fall-in-murray-can-i-still-get-comp.json",
+        "bytes": 685,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-workers-comp-if-i-fell-from-a-ladder-on-the-job.json",
+        "bytes": 716,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-back-went-out-lifting-boxes-at-work-but-i-had-issues-before-will-workers-comp.json",
+        "bytes": 819,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-quit-my-noisy-job-2-years-ago-and-just-noticed-hearing-problems-can-i-still-cl.json",
+        "bytes": 823,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-tinnitus-too-from-work-noise-does-that-count.json",
+        "bytes": 586,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/symptoms-showed-up-weeks-after-work-accident-in-taylorsville-still-eligible.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/fell-from-ladder-at-work-but-symptoms-started-late-can-i-still-claim.json",
+        "bytes": 741,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/symptoms-showed-up-days-after-strain-at-work-in-south-salt-lake-still-covered.json",
+        "bytes": 758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-pain-and-suffering-money-for-ladder-fall-at-work.json",
+        "bytes": 653,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/no-witnesses-to-my-noise-exposure-can-i-still-win.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/claim-denied-for-no-witnesses-to-noise-can-i-still-win.json",
+        "bytes": 661,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/in-st-george-can-i-claim-if-symptoms-showed-up-years-after-quitting.json",
+        "bytes": 780,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-workers-comp-if-i-fell-from-a-ladder-on-the-job-in-utah.json",
+        "bytes": 690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-silicosis-showed-up-years-after-drilling-in-utah-can-i-still-claim-occupation.json",
+        "bytes": 811,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/no-documentation-of-work-accident-in-west-valley-city-still-eligible.json",
+        "bytes": 771,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/no-witnesses-to-my-ladder-fall-at-work-do-i-have-a-case.json",
+        "bytes": 732,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/no-witnesses-to-my-machine-injury-at-work-can-i-still-claim.json",
+        "bytes": 606,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/symptoms-worse-months-after-ladder-fall-at-work-still-claimable.json",
+        "bytes": 674,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-sue-someone-else-besides-my-boss-for-work-injury-in-draper-utah.json",
+        "bytes": 680,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-lawyer-for-my-workplace-chemical-inhalation-claim.json",
+        "bytes": 664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/third-party-truck-hit-me-at-work-in-draper-sue-them-too.json",
+        "bytes": 738,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/third-party-equipment-caused-my-occupational-illness-in-draper-can-i-sue-them.json",
+        "bytes": 804,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-make-a-claim-against-chemical-maker-if-not-my-employer-after-work-exposure.json",
+        "bytes": 763,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-a-third-party-like-equipment-supplier-liable-for-my-lung-injury.json",
+        "bytes": 721,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-employer-has-no-workers-comp-insurance-can-i-sue-them-in-north-salt-lake.json",
+        "bytes": 752,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-employer-has-no-workers-comp-insurance-can-i-sue-for-my-illness-in-west-valle.json",
+        "bytes": 769,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/employer-has-no-workers-comp-insurance-can-i-sue-them-in-west-valley-city.json",
+        "bytes": 746,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/uninsured-employer-after-my-injury-still-get-benefits.json",
+        "bytes": 590,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-qualify-for-workers-comp-if-i-slipped-and-fell-at-work-in-boise-idaho.json",
+        "bytes": 695,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/pre-existing-back-issues-flared-from-heavy-lifting-at-work-allen-rule-apply.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-fell-from-ladder-at-work-but-feel-fine-now-should-i-still-see-doctor.json",
+        "bytes": 763,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/osha-involved-in-my-faulty-machine-work-accident.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/missed-a-week-of-work-from-loud-noise-trauma-claim-viable.json",
+        "bytes": 638,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-carpal-tunnel-from-repetitive-factory-work-is-that-considered-an-occupati.json",
+        "bytes": 803,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-carpal-tunnel-from-my-factory-job-compensable-in-farmington.json",
+        "bytes": 683,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/covid-at-my-healthcare-job-in-sandy-can-i-claim-occupational-disease-in-utah.json",
+        "bytes": 697,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/in-idaho-is-hearing-loss-from-factory-noise-covered-by-workers-comp.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/repetitive-strain-from-job-in-sandy-file-claim.json",
+        "bytes": 535,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/symptoms-showed-up-weeks-after-work-accident-in-midvale-still-eligible.json",
+        "bytes": 693,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-workers-comp-if-exposure-was-just-one-day-at-work.json",
+        "bytes": 608,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-had-bad-asthma-before-but-work-chemicals-made-it-worse-can-i-get-comp-in-salt.json",
+        "bytes": 848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/carpal-tunnel-from-repetitive-work-in-st-george-utah-covered.json",
+        "bytes": 619,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/ladder-broke-during-work-fall-can-i-sue-the-maker.json",
+        "bytes": 664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-workers-comp-cover-prosthetics-for-hand-loss-from-work-chemicals-in-draper.json",
+        "bytes": 674,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/no-witnesses-to-my-warehouse-slip-at-work-still-claimable.json",
+        "bytes": 682,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/insurer-wants-an-exam-for-my-chemical-illness-claim-do-i-have-to-go-in-utah.json",
+        "bytes": 646,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/partially-my-fault-in-work-injury-midvale-utah-still-get-comp.json",
+        "bytes": 592,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/partially-my-fault-in-machinery-accident-at-work-in-st-george-still-get-comp.json",
+        "bytes": 639,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/partially-my-fault-for-ignoring-safety-in-ogden-get-comp.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-m-part-at-fault-for-my-work-accident-still-get-benefits.json",
+        "bytes": 598,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/partially-my-fault-chemical-spill-at-work-still-eligible.json",
+        "bytes": 565,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/noisy-plant-ignored-safety-tests-strong-case.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/reported-fumes-but-no-air-test-can-i-still-sue-or-claim.json",
+        "bytes": 650,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/no-witnesses-to-my-repetitive-strain-onset-still-claim-in-bountiful.json",
+        "bytes": 790,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/no-witnesses-to-my-trip-at-construction-site-in-draper-utah-still-file-comp.json",
+        "bytes": 722,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/no-witnesses-to-my-forklift-injury-in-riverton-can-i-claim.json",
+        "bytes": 601,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-no-witnesses-to-my-fall-at-work-in-farmington-utah.json",
+        "bytes": 773,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/no-witnesses-to-my-chemical-spill-exposure-still-claimable.json",
+        "bytes": 591,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-workers-comp-cover-long-term-meds-for-copd-from-factory-dust.json",
+        "bytes": 640,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-pre-existing-asthma-can-work-chemicals-make-it-an-occupational-illness-cl.json",
+        "bytes": 799,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/in-millcreek-do-i-get-benefits-if-retired-but-illness-from-old-job.json",
+        "bytes": 735,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-workers-comp-if-my-hearing-loss-is-from-noisy-construction-work.json",
+        "bytes": 686,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-workers-comp-for-carpal-tunnel-from-my-repetitive-assembly-line-job-in.json",
+        "bytes": 765,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-lungs-are-messed-up-from-years-of-chemical-exposure-at-work-in-murray-can-i-s.json",
+        "bytes": 777,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-workers-comp-if-my-lung-problems-started-from-dust-at-my-factory-job.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/nurse-in-midvale-with-back-issues-from-lifting-patients-occupational-illness.json",
+        "bytes": 739,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/deposition-coming-for-comp-in-west-jordan-watch-prior-injuries.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/multiple-injuries-from-one-machine-malfunction-at-work-all-covered.json",
+        "bytes": 741,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-old-hearing-issues-can-i-claim-new-loss-from-current-job.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/pre-existing-hearing-issues-still-claim-new-work-damage.json",
+        "bytes": 664,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/ladders-were-provided-by-gc-on-my-job-site-can-i-sue-them-after-fall.json",
+        "bytes": 727,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/utah-ladder-fall-at-work-can-i-sue-the-property-owner.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-lawyer-for-my-work-ladder-fall-injury.json",
+        "bytes": 650,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-lawyer-for-noise-hearing-loss-at-work.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-back-problems-before-can-i-still-claim-ladder-fall-at-work.json",
+        "bytes": 644,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-asthma-already-can-i-still-claim-new-chemical-exposure-worsened-it.json",
+        "bytes": 758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-had-asthma-before-starting-this-dusty-job.json",
+        "bytes": 688,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-missed-some-doctor-appointments-for-my-comp-illness-claim-will-they-cut-my-ben.json",
+        "bytes": 735,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-ears-are-ringing-after-years-at-the-factory-can-i-file-a-workers-comp-claim-f.json",
+        "bytes": 839,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-got-hurt-at-work-in-murray-utah-but-didn-t-go-to-the-doctor-right-away-can-i-s.json",
+        "bytes": 931,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-cancer-showed-up-years-after-work-chemicals-can-i-still-claim.json",
+        "bytes": 623,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-slipped-at-work-in-murray-but-didn-t-tell-anyone-right-away-can-i-still-file-w.json",
+        "bytes": 887,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/symptoms-delayed-years-still-eligible.json",
+        "bytes": 564,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-lawyer-for-chemical-exposure-workers-comp-in-ogden.json",
+        "bytes": 585,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-claim-if-exposed-via-coworker-not-wearing-mask.json",
+        "bytes": 649,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-back-hurts-from-lifting-boxes-at-my-provo-utah-job-but-symptoms-started-days.json",
+        "bytes": 920,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-pre-existing-back-pain-and-hurt-it-worse-at-work-in-sandy-utah-will-insur.json",
+        "bytes": 731,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/pre-existing-back-pain-flared-up-at-work-in-utah-can-i-claim-it.json",
+        "bytes": 672,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-had-asthma-before-can-i-still-claim-new-lung-damage-from-work-solvents.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/pre-existing-knee-issue-worsened-by-work-slip-covered.json",
+        "bytes": 656,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-hurt-my-shoulder-at-work-but-have-old-arthritis-will-they-pay.json",
+        "bytes": 630,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/slipped-on-ice-at-my-salt-lake-city-job-site-is-this-covered-by-workers-comp-or.json",
+        "bytes": 804,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-back-hurts-from-lifting-at-work-but-i-had-back-problems-before-will-workers-c.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/partially-my-fault-falling-off-ladder-on-job-still-get-money.json",
+        "bytes": 583,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/third-party-truck-hit-me-at-work-in-south-salt-lake-sue-them.json",
+        "bytes": 571,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/symptoms-started-weeks-after-work-slip-can-i-still-claim.json",
+        "bytes": 691,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-really-need-a-lawyer-for-machine-finger-amputation-at-work.json",
+        "bytes": 636,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/part-time-job-slip-in-millcreek-full-benefits.json",
+        "bytes": 624,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-refused-light-duty-after-my-knee-injury-will-they-cut-my-benefits-in-west-jord.json",
+        "bytes": 717,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-they-make-me-see-their-doctor-for-my-wrist-injury-in-murray-ut.json",
+        "bytes": 731,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/in-utah-is-silicosis-from-construction-work-compensable.json",
+        "bytes": 610,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-work-comp-claim-got-denied-can-i-still-get-paid.json",
+        "bytes": 621,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-workers-comp-for-hearing-loss-got-denied-can-i-appeal.json",
+        "bytes": 611,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/multiple-injuries-from-one-accident-in-taylorsville-all-covered.json",
+        "bytes": 690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/multiple-injuries-from-one-work-slip-all-covered.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/pre-existing-knee-issue-hurt-worse-at-work-in-draper-covered.json",
+        "bytes": 577,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-a-pre-existing-back-issue-and-hurt-it-worse-at-work-can-i-still-get-comp.json",
+        "bytes": 812,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/missed-a-week-of-work-after-forklift-hit-me-does-comp-pay.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-get-paid-for-missed-work-from-injury-in-riverton-utah.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-paid-for-missed-work-from-chemical-exposure-sickness.json",
+        "bytes": 593,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-get-paid-while-off-work-from-injury-in-west-jordan.json",
+        "bytes": 570,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-have-to-give-10-years-medical-history-for-comp-in-west-valley.json",
+        "bytes": 645,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-get-paid-while-off-work-for-shoulder-injury-from-job-in-taylorsville.json",
+        "bytes": 656,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-workers-comp-if-i-missed-no-work-after-slip.json",
+        "bytes": 630,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/symptoms-started-late-after-work-slip-still-claimable.json",
+        "bytes": 684,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-back-problems-already-slipped-at-work-will-they-pay.json",
+        "bytes": 605,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-missed-some-work-after-injury-but-no-doctors-note-can-i-get-paid-in-bountiful.json",
+        "bytes": 668,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-get-future-medical-for-ongoing-effects-in-draper.json",
+        "bytes": 635,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-slipped-at-work-in-murray-utah-but-didn-t-tell-my-boss-right-away-can-i-still.json",
+        "bytes": 768,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-have-a-pre-existing-back-issue-that-worsened-at-work-in-millcreek-can-i-claim.json",
+        "bytes": 690,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/pre-existing-back-pain-worsened-by-work-machine-fall-covered.json",
+        "bytes": 579,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/traveling-for-work-crashed-in-north-salt-lake-covered-by-comp.json",
+        "bytes": 584,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-qualify-for-comp-if-my-injury-happened-during-lunch-break-in-west-valley-ci.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/is-idiopathic-fall-illness-at-work-compensable-per-recent-utah-case.json",
+        "bytes": 648,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-back-started-hurting-after-lifting-boxes-at-work-in-cedar-city-utah-is-this-a.json",
+        "bytes": 783,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-lawyer-for-my-occupational-illness-claim-after-talking-to-the-adjust.json",
+        "bytes": 693,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-got-hurt-on-a-machine-at-my-factory-job-in-murray-do-i-qualify-for-workers-com.json",
+        "bytes": 735,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/third-party-equipment-maker-caused-my-injury-in-centerville-can-sue.json",
+        "bytes": 692,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-lawyer-for-simple-work-injury-in-cottonwood-heights.json",
+        "bytes": 694,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-lawyer-for-chemical-exposure-workers-comp-in-west-valley-city.json",
+        "bytes": 724,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-a-lawyer-for-work-forklift-injury-in-sandy-utah.json",
+        "bytes": 700,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-i-need-lawyer-for-ladder-fall-workers-comp-in-sandy-ut.json",
+        "bytes": 600,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/i-was-partly-at-fault-in-warehouse-forklift-crash-on-job-can-i-still-get-paid.json",
+        "bytes": 652,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-sue-my-boss-if-i-got-hurt-on-the-job-in-woodscross.json",
+        "bytes": 733,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-sue-my-employer-if-forklift-crushed-my-leg-on-the-job.json",
+        "bytes": 742,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/employer-didn-t-give-ear-plugs-and-now-i-m-deaf-in-one-ear-sue-them.json",
+        "bytes": 728,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-til-i-hear-back-on-comp-claim-after-reporting-in-bountiful.json",
+        "bytes": 748,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-until-i-get-paid-benefits-after-work-injury.json",
+        "bytes": 649,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/uninsured-employer-after-my-fall-in-south-salt-lake-what-benefits-do-i-get.json",
+        "bytes": 797,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/my-work-accident-happened-6-months-ago-in-west-valley-city-is-it-too-late-to-fil.json",
+        "bytes": 749,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/uninsured-employer-chemical-exposure-still-get-paid-in-utah.json",
+        "bytes": 754,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-sue-my-employer-if-i-got-injured-on-the-job-in-utah-or-just-workers-comp.json",
+        "bytes": 741,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-sue-my-employer-if-i-got-injured-at-work-in-salt-lake-city.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-do-i-have-to-file-for-hearing-loss-from-my-factory-job.json",
+        "bytes": 726,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json",
+        "bytes": 814,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/employer-uninsured-for-workers-comp-in-draper-utah-options.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/uninsured-employer-after-my-injury-in-midvale-options.json",
+        "bytes": 616,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-no-witnesses-to-my-slip-at-work-in-midvale.json",
+        "bytes": 687,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-prove-my-occupational-disease-came-from-work-when-there-s-no-single-inc.json",
+        "bytes": 753,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-handle-medical-care-after-work-injury-in-taylorsville.json",
+        "bytes": 647,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-prove-my-hearing-loss-came-from-my-job-and-not-getting-old.json",
+        "bytes": 758,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/multiple-employers-exposed-me-to-hazards-before-diagnosis-in-farmington-who-pays.json",
+        "bytes": 701,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-file-a-workers-comp-claim-after-machine-crushed-my-arm-at-work.json",
+        "bytes": 682,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-ladder-was-defective-in-my-work-fall-in-utah.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/uninsured-employer-hurt-me-in-north-salt-lake-what-now.json",
+        "bytes": 665,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/claim-denied-after-ladder-fall-what-are-my-chances-on-appeal.json",
+        "bytes": 607,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/insurance-denied-my-claim-after-i-talked-to-the-adjuster-can-i-fix-it.json",
+        "bytes": 696,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json",
+        "bytes": 646,
+        "purpose": "schema"
+      }
+    ],
     "reviews": [
       {
         "path": "reviews/anonymous-1-review.json",
@@ -956,7 +1758,7 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 2100,
+        "bytes": 2118,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -981,7 +1783,7 @@
       },
       {
         "path": "faqs.html",
-        "bytes": 1678,
+        "bytes": 50116,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -1028,32 +1830,32 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 73203,
+        "bytes": 155246,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 26143,
+        "bytes": 51664,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 26143,
+        "bytes": 51664,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4050,
+        "bytes": 4065,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 21077,
+        "bytes": 48732,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 29134,
+        "bytes": 61028,
         "purpose": "AI sitemap"
       },
       {

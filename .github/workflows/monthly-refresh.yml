@@ -24,5 +24,5 @@ jobs:
           git diff --staged --quiet || (git commit -m '📅 Monthly refresh - Just Work Comp Law' && git push)
       - name: Ping Google & Bing
         run: |
-          curl -s "https://www.google.com/ping?sitemap=https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/ai-sitemap.xml" || true
-          curl -s "https://www.bing.com/ping?sitemap=https://AIOVisibilityHub.github.io/just-work-comp-law-ai-schemas-8s40/ai-sitemap.xml" || true
+          curl -s "https://www.google.com/ping?sitemap=https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-sitemap.xml" || true
+          curl -s "https://www.bing.com/ping?sitemap=https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-sitemap.xml" || true

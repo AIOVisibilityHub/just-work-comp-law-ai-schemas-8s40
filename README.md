@@ -9,13 +9,14 @@ Canonical AI Data Package for Just Work Comp Law.
 - LLM hint: [llms.txt](./llms.txt)
 
 ## Stats
-- 11 reviews
+- 160 faqs
 - 42 services
-- 4 locations
 - 83 personnel
+- 4 locations
 - 8 caseStudies
 - 1 organization
-- **150** total
+- 11 reviews
+- **310** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw.com
@@ -175,6 +176,168 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`lawyers/mark-talley-esq-workers-compensation-law-st-george-faq.json`](./lawyers/mark-talley-esq-workers-compensation-law-st-george-faq.json) — schema
 - [`lawyers/mark-talley-esq-workers-compensation-law-utah-county-faq.json`](./lawyers/mark-talley-esq-workers-compensation-law-utah-county-faq.json) — schema
 - [`lawyers/mark-talley-esq-workers-compensation-law-west-valley-city-faq.json`](./lawyers/mark-talley-esq-workers-compensation-law-west-valley-city-faq.json) — schema
+
+### FAQs (160)
+- [`faqs/can-i-claim-if-exposed-via-coworker-not-wearing-mask.json`](./faqs/can-i-claim-if-exposed-via-coworker-not-wearing-mask.json) — schema
+- [`faqs/can-i-get-future-medical-for-ongoing-effects-in-draper.json`](./faqs/can-i-get-future-medical-for-ongoing-effects-in-draper.json) — schema
+- [`faqs/can-i-get-paid-for-missed-work-from-chemical-exposure-sickness.json`](./faqs/can-i-get-paid-for-missed-work-from-chemical-exposure-sickness.json) — schema
+- [`faqs/can-i-get-pain-and-suffering-money-for-ladder-fall-at-work.json`](./faqs/can-i-get-pain-and-suffering-money-for-ladder-fall-at-work.json) — schema
+- [`faqs/can-i-get-workers-comp-for-carpal-tunnel-from-my-repetitive-assembly-line-job-in.json`](./faqs/can-i-get-workers-comp-for-carpal-tunnel-from-my-repetitive-assembly-line-job-in.json) — schema
+- [`faqs/can-i-get-workers-comp-if-exposure-was-just-one-day-at-work.json`](./faqs/can-i-get-workers-comp-if-exposure-was-just-one-day-at-work.json) — schema
+- [`faqs/can-i-get-workers-comp-if-i-fell-from-a-ladder-on-the-job-in-utah.json`](./faqs/can-i-get-workers-comp-if-i-fell-from-a-ladder-on-the-job-in-utah.json) — schema
+- [`faqs/can-i-get-workers-comp-if-i-fell-from-a-ladder-on-the-job.json`](./faqs/can-i-get-workers-comp-if-i-fell-from-a-ladder-on-the-job.json) — schema
+- [`faqs/can-i-get-workers-comp-if-i-missed-no-work-after-slip.json`](./faqs/can-i-get-workers-comp-if-i-missed-no-work-after-slip.json) — schema
+- [`faqs/can-i-get-workers-comp-if-my-hearing-loss-is-from-noisy-construction-work.json`](./faqs/can-i-get-workers-comp-if-my-hearing-loss-is-from-noisy-construction-work.json) — schema
+- [`faqs/can-i-get-workers-comp-if-my-lung-problems-started-from-dust-at-my-factory-job.json`](./faqs/can-i-get-workers-comp-if-my-lung-problems-started-from-dust-at-my-factory-job.json) — schema
+- [`faqs/can-i-make-a-claim-against-chemical-maker-if-not-my-employer-after-work-exposure.json`](./faqs/can-i-make-a-claim-against-chemical-maker-if-not-my-employer-after-work-exposure.json) — schema
+- [`faqs/can-i-sue-my-boss-if-i-got-hurt-on-the-job-in-woodscross.json`](./faqs/can-i-sue-my-boss-if-i-got-hurt-on-the-job-in-woodscross.json) — schema
+- [`faqs/can-i-sue-my-employer-if-forklift-crushed-my-leg-on-the-job.json`](./faqs/can-i-sue-my-employer-if-forklift-crushed-my-leg-on-the-job.json) — schema
+- [`faqs/can-i-sue-my-employer-if-i-got-injured-at-work-in-salt-lake-city.json`](./faqs/can-i-sue-my-employer-if-i-got-injured-at-work-in-salt-lake-city.json) — schema
+- [`faqs/can-i-sue-my-employer-if-i-got-injured-on-the-job-in-utah-or-just-workers-comp.json`](./faqs/can-i-sue-my-employer-if-i-got-injured-on-the-job-in-utah-or-just-workers-comp.json) — schema
+- [`faqs/can-i-sue-someone-else-besides-my-boss-for-work-injury-in-draper-utah.json`](./faqs/can-i-sue-someone-else-besides-my-boss-for-work-injury-in-draper-utah.json) — schema
+- [`faqs/can-they-make-me-see-their-doctor-for-my-wrist-injury-in-murray-ut.json`](./faqs/can-they-make-me-see-their-doctor-for-my-wrist-injury-in-murray-ut.json) — schema
+- [`faqs/carpal-tunnel-from-repetitive-work-in-st-george-utah-covered.json`](./faqs/carpal-tunnel-from-repetitive-work-in-st-george-utah-covered.json) — schema
+- [`faqs/claim-denied-after-ladder-fall-what-are-my-chances-on-appeal.json`](./faqs/claim-denied-after-ladder-fall-what-are-my-chances-on-appeal.json) — schema
+- [`faqs/claim-denied-for-no-witnesses-to-noise-can-i-still-win.json`](./faqs/claim-denied-for-no-witnesses-to-noise-can-i-still-win.json) — schema
+- [`faqs/covid-at-my-healthcare-job-in-sandy-can-i-claim-occupational-disease-in-utah.json`](./faqs/covid-at-my-healthcare-job-in-sandy-can-i-claim-occupational-disease-in-utah.json) — schema
+- [`faqs/deposition-coming-for-comp-in-west-jordan-watch-prior-injuries.json`](./faqs/deposition-coming-for-comp-in-west-jordan-watch-prior-injuries.json) — schema
+- [`faqs/do-i-get-paid-for-missed-work-from-injury-in-riverton-utah.json`](./faqs/do-i-get-paid-for-missed-work-from-injury-in-riverton-utah.json) — schema
+- [`faqs/do-i-get-paid-while-off-work-for-shoulder-injury-from-job-in-taylorsville.json`](./faqs/do-i-get-paid-while-off-work-for-shoulder-injury-from-job-in-taylorsville.json) — schema
+- [`faqs/do-i-get-paid-while-off-work-from-injury-in-west-jordan.json`](./faqs/do-i-get-paid-while-off-work-from-injury-in-west-jordan.json) — schema
+- [`faqs/do-i-have-a-work-injury-claim-if-it-was-kinda-my-fault-like-i-was-rushing.json`](./faqs/do-i-have-a-work-injury-claim-if-it-was-kinda-my-fault-like-i-was-rushing.json) — schema
+- [`faqs/do-i-have-to-give-10-years-medical-history-for-comp-in-west-valley.json`](./faqs/do-i-have-to-give-10-years-medical-history-for-comp-in-west-valley.json) — schema
+- [`faqs/do-i-need-a-lawyer-for-chemical-exposure-workers-comp-in-ogden.json`](./faqs/do-i-need-a-lawyer-for-chemical-exposure-workers-comp-in-ogden.json) — schema
+- [`faqs/do-i-need-a-lawyer-for-chemical-exposure-workers-comp-in-west-valley-city.json`](./faqs/do-i-need-a-lawyer-for-chemical-exposure-workers-comp-in-west-valley-city.json) — schema
+- [`faqs/do-i-need-a-lawyer-for-my-occupational-illness-claim-after-talking-to-the-adjust.json`](./faqs/do-i-need-a-lawyer-for-my-occupational-illness-claim-after-talking-to-the-adjust.json) — schema
+- [`faqs/do-i-need-a-lawyer-for-my-work-ladder-fall-injury.json`](./faqs/do-i-need-a-lawyer-for-my-work-ladder-fall-injury.json) — schema
+- [`faqs/do-i-need-a-lawyer-for-my-workplace-chemical-inhalation-claim.json`](./faqs/do-i-need-a-lawyer-for-my-workplace-chemical-inhalation-claim.json) — schema
+- [`faqs/do-i-need-a-lawyer-for-noise-hearing-loss-at-work.json`](./faqs/do-i-need-a-lawyer-for-noise-hearing-loss-at-work.json) — schema
+- [`faqs/do-i-need-a-lawyer-for-simple-work-injury-in-cottonwood-heights.json`](./faqs/do-i-need-a-lawyer-for-simple-work-injury-in-cottonwood-heights.json) — schema
+- [`faqs/do-i-need-a-lawyer-for-work-forklift-injury-in-sandy-utah.json`](./faqs/do-i-need-a-lawyer-for-work-forklift-injury-in-sandy-utah.json) — schema
+- [`faqs/do-i-need-lawyer-for-ladder-fall-workers-comp-in-sandy-ut.json`](./faqs/do-i-need-lawyer-for-ladder-fall-workers-comp-in-sandy-ut.json) — schema
+- [`faqs/do-i-qualify-for-comp-if-my-injury-happened-during-lunch-break-in-west-valley-ci.json`](./faqs/do-i-qualify-for-comp-if-my-injury-happened-during-lunch-break-in-west-valley-ci.json) — schema
+- [`faqs/do-i-qualify-for-workers-comp-if-i-slipped-and-fell-at-work-in-boise-idaho.json`](./faqs/do-i-qualify-for-workers-comp-if-i-slipped-and-fell-at-work-in-boise-idaho.json) — schema
+- [`faqs/do-i-really-need-a-lawyer-for-machine-finger-amputation-at-work.json`](./faqs/do-i-really-need-a-lawyer-for-machine-finger-amputation-at-work.json) — schema
+- [`faqs/does-workers-comp-cover-long-term-meds-for-copd-from-factory-dust.json`](./faqs/does-workers-comp-cover-long-term-meds-for-copd-from-factory-dust.json) — schema
+- [`faqs/does-workers-comp-cover-prosthetics-for-hand-loss-from-work-chemicals-in-draper.json`](./faqs/does-workers-comp-cover-prosthetics-for-hand-loss-from-work-chemicals-in-draper.json) — schema
+- [`faqs/employer-didn-t-give-ear-plugs-and-now-i-m-deaf-in-one-ear-sue-them.json`](./faqs/employer-didn-t-give-ear-plugs-and-now-i-m-deaf-in-one-ear-sue-them.json) — schema
+- [`faqs/employer-has-no-workers-comp-insurance-can-i-sue-them-in-west-valley-city.json`](./faqs/employer-has-no-workers-comp-insurance-can-i-sue-them-in-west-valley-city.json) — schema
+- [`faqs/employer-uninsured-for-workers-comp-in-draper-utah-options.json`](./faqs/employer-uninsured-for-workers-comp-in-draper-utah-options.json) — schema
+- [`faqs/fell-from-ladder-at-work-but-symptoms-started-late-can-i-still-claim.json`](./faqs/fell-from-ladder-at-work-but-symptoms-started-late-can-i-still-claim.json) — schema
+- [`faqs/how-do-i-file-a-workers-comp-claim-after-machine-crushed-my-arm-at-work.json`](./faqs/how-do-i-file-a-workers-comp-claim-after-machine-crushed-my-arm-at-work.json) — schema
+- [`faqs/how-do-i-handle-medical-care-after-work-injury-in-taylorsville.json`](./faqs/how-do-i-handle-medical-care-after-work-injury-in-taylorsville.json) — schema
+- [`faqs/how-do-i-prove-my-hearing-loss-came-from-my-job-and-not-getting-old.json`](./faqs/how-do-i-prove-my-hearing-loss-came-from-my-job-and-not-getting-old.json) — schema
+- [`faqs/how-do-i-prove-my-occupational-disease-came-from-work-when-there-s-no-single-inc.json`](./faqs/how-do-i-prove-my-occupational-disease-came-from-work-when-there-s-no-single-inc.json) — schema
+- [`faqs/how-long-do-i-have-to-file-for-hearing-loss-from-my-factory-job.json`](./faqs/how-long-do-i-have-to-file-for-hearing-loss-from-my-factory-job.json) — schema
+- [`faqs/how-long-til-i-hear-back-on-comp-claim-after-reporting-in-bountiful.json`](./faqs/how-long-til-i-hear-back-on-comp-claim-after-reporting-in-bountiful.json) — schema
+- [`faqs/how-long-until-i-get-paid-benefits-after-work-injury.json`](./faqs/how-long-until-i-get-paid-benefits-after-work-injury.json) — schema
+- [`faqs/i-fell-from-ladder-at-work-but-feel-fine-now-should-i-still-see-doctor.json`](./faqs/i-fell-from-ladder-at-work-but-feel-fine-now-should-i-still-see-doctor.json) — schema
+- [`faqs/i-got-hurt-at-work-in-murray-utah-but-didn-t-go-to-the-doctor-right-away-can-i-s.json`](./faqs/i-got-hurt-at-work-in-murray-utah-but-didn-t-go-to-the-doctor-right-away-can-i-s.json) — schema
+- [`faqs/i-got-hurt-on-a-machine-at-my-factory-job-in-murray-do-i-qualify-for-workers-com.json`](./faqs/i-got-hurt-on-a-machine-at-my-factory-job-in-murray-do-i-qualify-for-workers-com.json) — schema
+- [`faqs/i-had-asthma-before-can-i-still-claim-new-lung-damage-from-work-solvents.json`](./faqs/i-had-asthma-before-can-i-still-claim-new-lung-damage-from-work-solvents.json) — schema
+- [`faqs/i-had-bad-asthma-before-but-work-chemicals-made-it-worse-can-i-get-comp-in-salt.json`](./faqs/i-had-bad-asthma-before-but-work-chemicals-made-it-worse-can-i-get-comp-in-salt.json) — schema
+- [`faqs/i-have-a-pre-existing-back-issue-and-hurt-it-worse-at-work-can-i-still-get-comp.json`](./faqs/i-have-a-pre-existing-back-issue-and-hurt-it-worse-at-work-can-i-still-get-comp.json) — schema
+- [`faqs/i-have-a-pre-existing-back-issue-that-worsened-at-work-in-millcreek-can-i-claim.json`](./faqs/i-have-a-pre-existing-back-issue-that-worsened-at-work-in-millcreek-can-i-claim.json) — schema
+- [`faqs/i-have-asthma-already-can-i-still-claim-new-chemical-exposure-worsened-it.json`](./faqs/i-have-asthma-already-can-i-still-claim-new-chemical-exposure-worsened-it.json) — schema
+- [`faqs/i-have-back-problems-already-slipped-at-work-will-they-pay.json`](./faqs/i-have-back-problems-already-slipped-at-work-will-they-pay.json) — schema
+- [`faqs/i-have-back-problems-before-can-i-still-claim-ladder-fall-at-work.json`](./faqs/i-have-back-problems-before-can-i-still-claim-ladder-fall-at-work.json) — schema
+- [`faqs/i-have-carpal-tunnel-from-repetitive-factory-work-is-that-considered-an-occupati.json`](./faqs/i-have-carpal-tunnel-from-repetitive-factory-work-is-that-considered-an-occupati.json) — schema
+- [`faqs/i-have-old-hearing-issues-can-i-claim-new-loss-from-current-job.json`](./faqs/i-have-old-hearing-issues-can-i-claim-new-loss-from-current-job.json) — schema
+- [`faqs/i-have-pre-existing-asthma-can-work-chemicals-make-it-an-occupational-illness-cl.json`](./faqs/i-have-pre-existing-asthma-can-work-chemicals-make-it-an-occupational-illness-cl.json) — schema
+- [`faqs/i-have-pre-existing-back-pain-and-hurt-it-worse-at-work-in-sandy-utah-will-insur.json`](./faqs/i-have-pre-existing-back-pain-and-hurt-it-worse-at-work-in-sandy-utah-will-insur.json) — schema
+- [`faqs/i-have-tinnitus-too-from-work-noise-does-that-count.json`](./faqs/i-have-tinnitus-too-from-work-noise-does-that-count.json) — schema
+- [`faqs/i-hurt-my-shoulder-at-work-but-have-old-arthritis-will-they-pay.json`](./faqs/i-hurt-my-shoulder-at-work-but-have-old-arthritis-will-they-pay.json) — schema
+- [`faqs/i-m-part-at-fault-for-my-work-accident-still-get-benefits.json`](./faqs/i-m-part-at-fault-for-my-work-accident-still-get-benefits.json) — schema
+- [`faqs/i-missed-some-doctor-appointments-for-my-comp-illness-claim-will-they-cut-my-ben.json`](./faqs/i-missed-some-doctor-appointments-for-my-comp-illness-claim-will-they-cut-my-ben.json) — schema
+- [`faqs/i-missed-some-work-after-injury-but-no-doctors-note-can-i-get-paid-in-bountiful.json`](./faqs/i-missed-some-work-after-injury-but-no-doctors-note-can-i-get-paid-in-bountiful.json) — schema
+- [`faqs/i-quit-my-noisy-job-2-years-ago-and-just-noticed-hearing-problems-can-i-still-cl.json`](./faqs/i-quit-my-noisy-job-2-years-ago-and-just-noticed-hearing-problems-can-i-still-cl.json) — schema
+- [`faqs/i-refused-light-duty-after-my-knee-injury-will-they-cut-my-benefits-in-west-jord.json`](./faqs/i-refused-light-duty-after-my-knee-injury-will-they-cut-my-benefits-in-west-jord.json) — schema
+- [`faqs/i-slipped-at-work-in-murray-but-didn-t-tell-anyone-right-away-can-i-still-file-w.json`](./faqs/i-slipped-at-work-in-murray-but-didn-t-tell-anyone-right-away-can-i-still-file-w.json) — schema
+- [`faqs/i-slipped-at-work-in-murray-utah-but-didn-t-tell-my-boss-right-away-can-i-still.json`](./faqs/i-slipped-at-work-in-murray-utah-but-didn-t-tell-my-boss-right-away-can-i-still.json) — schema
+- [`faqs/i-was-partly-at-fault-for-my-warehouse-fall-in-west-jordan-can-i-get-workers-com.json`](./faqs/i-was-partly-at-fault-for-my-warehouse-fall-in-west-jordan-can-i-get-workers-com.json) — schema
+- [`faqs/i-was-partly-at-fault-in-my-work-fall-in-murray-can-i-still-get-comp.json`](./faqs/i-was-partly-at-fault-in-my-work-fall-in-murray-can-i-still-get-comp.json) — schema
+- [`faqs/i-was-partly-at-fault-in-warehouse-forklift-crash-on-job-can-i-still-get-paid.json`](./faqs/i-was-partly-at-fault-in-warehouse-forklift-crash-on-job-can-i-still-get-paid.json) — schema
+- [`faqs/in-idaho-is-hearing-loss-from-factory-noise-covered-by-workers-comp.json`](./faqs/in-idaho-is-hearing-loss-from-factory-noise-covered-by-workers-comp.json) — schema
+- [`faqs/in-millcreek-do-i-get-benefits-if-retired-but-illness-from-old-job.json`](./faqs/in-millcreek-do-i-get-benefits-if-retired-but-illness-from-old-job.json) — schema
+- [`faqs/in-st-george-can-i-claim-if-symptoms-showed-up-years-after-quitting.json`](./faqs/in-st-george-can-i-claim-if-symptoms-showed-up-years-after-quitting.json) — schema
+- [`faqs/in-utah-is-silicosis-from-construction-work-compensable.json`](./faqs/in-utah-is-silicosis-from-construction-work-compensable.json) — schema
+- [`faqs/insurance-denied-my-claim-after-i-talked-to-the-adjuster-can-i-fix-it.json`](./faqs/insurance-denied-my-claim-after-i-talked-to-the-adjuster-can-i-fix-it.json) — schema
+- [`faqs/insurer-wants-an-exam-for-my-chemical-illness-claim-do-i-have-to-go-in-utah.json`](./faqs/insurer-wants-an-exam-for-my-chemical-illness-claim-do-i-have-to-go-in-utah.json) — schema
+- [`faqs/is-a-third-party-like-equipment-supplier-liable-for-my-lung-injury.json`](./faqs/is-a-third-party-like-equipment-supplier-liable-for-my-lung-injury.json) — schema
+- [`faqs/is-carpal-tunnel-from-my-factory-job-compensable-in-farmington.json`](./faqs/is-carpal-tunnel-from-my-factory-job-compensable-in-farmington.json) — schema
+- [`faqs/is-idiopathic-fall-illness-at-work-compensable-per-recent-utah-case.json`](./faqs/is-idiopathic-fall-illness-at-work-compensable-per-recent-utah-case.json) — schema
+- [`faqs/ladder-broke-during-work-fall-can-i-sue-the-maker.json`](./faqs/ladder-broke-during-work-fall-can-i-sue-the-maker.json) — schema
+- [`faqs/ladders-were-provided-by-gc-on-my-job-site-can-i-sue-them-after-fall.json`](./faqs/ladders-were-provided-by-gc-on-my-job-site-can-i-sue-them-after-fall.json) — schema
+- [`faqs/missed-a-week-of-work-after-forklift-hit-me-does-comp-pay.json`](./faqs/missed-a-week-of-work-after-forklift-hit-me-does-comp-pay.json) — schema
+- [`faqs/missed-a-week-of-work-from-loud-noise-trauma-claim-viable.json`](./faqs/missed-a-week-of-work-from-loud-noise-trauma-claim-viable.json) — schema
+- [`faqs/multiple-employers-exposed-me-to-hazards-before-diagnosis-in-farmington-who-pays.json`](./faqs/multiple-employers-exposed-me-to-hazards-before-diagnosis-in-farmington-who-pays.json) — schema
+- [`faqs/multiple-injuries-from-one-accident-in-taylorsville-all-covered.json`](./faqs/multiple-injuries-from-one-accident-in-taylorsville-all-covered.json) — schema
+- [`faqs/multiple-injuries-from-one-machine-malfunction-at-work-all-covered.json`](./faqs/multiple-injuries-from-one-machine-malfunction-at-work-all-covered.json) — schema
+- [`faqs/multiple-injuries-from-one-work-slip-all-covered.json`](./faqs/multiple-injuries-from-one-work-slip-all-covered.json) — schema
+- [`faqs/my-back-hurts-from-lifting-at-work-but-i-had-back-problems-before-will-workers-c.json`](./faqs/my-back-hurts-from-lifting-at-work-but-i-had-back-problems-before-will-workers-c.json) — schema
+- [`faqs/my-back-hurts-from-lifting-boxes-at-my-provo-utah-job-but-symptoms-started-days.json`](./faqs/my-back-hurts-from-lifting-boxes-at-my-provo-utah-job-but-symptoms-started-days.json) — schema
+- [`faqs/my-back-started-hurting-after-lifting-boxes-at-work-in-cedar-city-utah-is-this-a.json`](./faqs/my-back-started-hurting-after-lifting-boxes-at-work-in-cedar-city-utah-is-this-a.json) — schema
+- [`faqs/my-back-went-out-lifting-boxes-at-work-but-i-had-issues-before-will-workers-comp.json`](./faqs/my-back-went-out-lifting-boxes-at-work-but-i-had-issues-before-will-workers-comp.json) — schema
+- [`faqs/my-cancer-showed-up-years-after-work-chemicals-can-i-still-claim.json`](./faqs/my-cancer-showed-up-years-after-work-chemicals-can-i-still-claim.json) — schema
+- [`faqs/my-ears-are-ringing-after-years-at-the-factory-can-i-file-a-workers-comp-claim-f.json`](./faqs/my-ears-are-ringing-after-years-at-the-factory-can-i-file-a-workers-comp-claim-f.json) — schema
+- [`faqs/my-employer-has-no-workers-comp-insurance-can-i-sue-for-my-illness-in-west-valle.json`](./faqs/my-employer-has-no-workers-comp-insurance-can-i-sue-for-my-illness-in-west-valle.json) — schema
+- [`faqs/my-employer-has-no-workers-comp-insurance-can-i-sue-them-in-north-salt-lake.json`](./faqs/my-employer-has-no-workers-comp-insurance-can-i-sue-them-in-north-salt-lake.json) — schema
+- [`faqs/my-lungs-are-messed-up-from-years-of-chemical-exposure-at-work-in-murray-can-i-s.json`](./faqs/my-lungs-are-messed-up-from-years-of-chemical-exposure-at-work-in-murray-can-i-s.json) — schema
+- [`faqs/my-silicosis-showed-up-years-after-drilling-in-utah-can-i-still-claim-occupation.json`](./faqs/my-silicosis-showed-up-years-after-drilling-in-utah-can-i-still-claim-occupation.json) — schema
+- [`faqs/my-work-accident-happened-6-months-ago-in-west-valley-city-is-it-too-late-to-fil.json`](./faqs/my-work-accident-happened-6-months-ago-in-west-valley-city-is-it-too-late-to-fil.json) — schema
+- [`faqs/my-work-comp-claim-got-denied-can-i-still-get-paid.json`](./faqs/my-work-comp-claim-got-denied-can-i-still-get-paid.json) — schema
+- [`faqs/my-workers-comp-for-hearing-loss-got-denied-can-i-appeal.json`](./faqs/my-workers-comp-for-hearing-loss-got-denied-can-i-appeal.json) — schema
+- [`faqs/no-documentation-of-work-accident-in-west-valley-city-still-eligible.json`](./faqs/no-documentation-of-work-accident-in-west-valley-city-still-eligible.json) — schema
+- [`faqs/no-witnesses-to-my-chemical-spill-exposure-still-claimable.json`](./faqs/no-witnesses-to-my-chemical-spill-exposure-still-claimable.json) — schema
+- [`faqs/no-witnesses-to-my-forklift-injury-in-riverton-can-i-claim.json`](./faqs/no-witnesses-to-my-forklift-injury-in-riverton-can-i-claim.json) — schema
+- [`faqs/no-witnesses-to-my-ladder-fall-at-work-do-i-have-a-case.json`](./faqs/no-witnesses-to-my-ladder-fall-at-work-do-i-have-a-case.json) — schema
+- [`faqs/no-witnesses-to-my-machine-injury-at-work-can-i-still-claim.json`](./faqs/no-witnesses-to-my-machine-injury-at-work-can-i-still-claim.json) — schema
+- [`faqs/no-witnesses-to-my-noise-exposure-can-i-still-win.json`](./faqs/no-witnesses-to-my-noise-exposure-can-i-still-win.json) — schema
+- [`faqs/no-witnesses-to-my-repetitive-strain-onset-still-claim-in-bountiful.json`](./faqs/no-witnesses-to-my-repetitive-strain-onset-still-claim-in-bountiful.json) — schema
+- [`faqs/no-witnesses-to-my-trip-at-construction-site-in-draper-utah-still-file-comp.json`](./faqs/no-witnesses-to-my-trip-at-construction-site-in-draper-utah-still-file-comp.json) — schema
+- [`faqs/no-witnesses-to-my-warehouse-slip-at-work-still-claimable.json`](./faqs/no-witnesses-to-my-warehouse-slip-at-work-still-claimable.json) — schema
+- [`faqs/noisy-plant-ignored-safety-tests-strong-case.json`](./faqs/noisy-plant-ignored-safety-tests-strong-case.json) — schema
+- [`faqs/nurse-in-midvale-with-back-issues-from-lifting-patients-occupational-illness.json`](./faqs/nurse-in-midvale-with-back-issues-from-lifting-patients-occupational-illness.json) — schema
+- [`faqs/osha-involved-in-my-faulty-machine-work-accident.json`](./faqs/osha-involved-in-my-faulty-machine-work-accident.json) — schema
+- [`faqs/part-time-job-slip-in-millcreek-full-benefits.json`](./faqs/part-time-job-slip-in-millcreek-full-benefits.json) — schema
+- [`faqs/partially-my-fault-chemical-spill-at-work-still-eligible.json`](./faqs/partially-my-fault-chemical-spill-at-work-still-eligible.json) — schema
+- [`faqs/partially-my-fault-falling-off-ladder-on-job-still-get-money.json`](./faqs/partially-my-fault-falling-off-ladder-on-job-still-get-money.json) — schema
+- [`faqs/partially-my-fault-for-ignoring-safety-in-ogden-get-comp.json`](./faqs/partially-my-fault-for-ignoring-safety-in-ogden-get-comp.json) — schema
+- [`faqs/partially-my-fault-in-machinery-accident-at-work-in-st-george-still-get-comp.json`](./faqs/partially-my-fault-in-machinery-accident-at-work-in-st-george-still-get-comp.json) — schema
+- [`faqs/partially-my-fault-in-work-injury-midvale-utah-still-get-comp.json`](./faqs/partially-my-fault-in-work-injury-midvale-utah-still-get-comp.json) — schema
+- [`faqs/pre-existing-back-issues-flared-from-heavy-lifting-at-work-allen-rule-apply.json`](./faqs/pre-existing-back-issues-flared-from-heavy-lifting-at-work-allen-rule-apply.json) — schema
+- [`faqs/pre-existing-back-pain-flared-up-at-work-in-utah-can-i-claim-it.json`](./faqs/pre-existing-back-pain-flared-up-at-work-in-utah-can-i-claim-it.json) — schema
+- [`faqs/pre-existing-back-pain-worsened-by-work-machine-fall-covered.json`](./faqs/pre-existing-back-pain-worsened-by-work-machine-fall-covered.json) — schema
+- [`faqs/pre-existing-hearing-issues-still-claim-new-work-damage.json`](./faqs/pre-existing-hearing-issues-still-claim-new-work-damage.json) — schema
+- [`faqs/pre-existing-knee-issue-hurt-worse-at-work-in-draper-covered.json`](./faqs/pre-existing-knee-issue-hurt-worse-at-work-in-draper-covered.json) — schema
+- [`faqs/pre-existing-knee-issue-worsened-by-work-slip-covered.json`](./faqs/pre-existing-knee-issue-worsened-by-work-slip-covered.json) — schema
+- [`faqs/repetitive-strain-from-job-in-sandy-file-claim.json`](./faqs/repetitive-strain-from-job-in-sandy-file-claim.json) — schema
+- [`faqs/reported-fumes-but-no-air-test-can-i-still-sue-or-claim.json`](./faqs/reported-fumes-but-no-air-test-can-i-still-sue-or-claim.json) — schema
+- [`faqs/slipped-on-ice-at-my-salt-lake-city-job-site-is-this-covered-by-workers-comp-or.json`](./faqs/slipped-on-ice-at-my-salt-lake-city-job-site-is-this-covered-by-workers-comp-or.json) — schema
+- [`faqs/symptoms-delayed-years-still-eligible.json`](./faqs/symptoms-delayed-years-still-eligible.json) — schema
+- [`faqs/symptoms-showed-up-days-after-strain-at-work-in-south-salt-lake-still-covered.json`](./faqs/symptoms-showed-up-days-after-strain-at-work-in-south-salt-lake-still-covered.json) — schema
+- [`faqs/symptoms-showed-up-weeks-after-work-accident-in-midvale-still-eligible.json`](./faqs/symptoms-showed-up-weeks-after-work-accident-in-midvale-still-eligible.json) — schema
+- [`faqs/symptoms-showed-up-weeks-after-work-accident-in-taylorsville-still-eligible.json`](./faqs/symptoms-showed-up-weeks-after-work-accident-in-taylorsville-still-eligible.json) — schema
+- [`faqs/symptoms-started-late-after-work-slip-still-claimable.json`](./faqs/symptoms-started-late-after-work-slip-still-claimable.json) — schema
+- [`faqs/symptoms-started-weeks-after-work-slip-can-i-still-claim.json`](./faqs/symptoms-started-weeks-after-work-slip-can-i-still-claim.json) — schema
+- [`faqs/symptoms-worse-months-after-ladder-fall-at-work-still-claimable.json`](./faqs/symptoms-worse-months-after-ladder-fall-at-work-still-claimable.json) — schema
+- [`faqs/third-party-equipment-caused-my-occupational-illness-in-draper-can-i-sue-them.json`](./faqs/third-party-equipment-caused-my-occupational-illness-in-draper-can-i-sue-them.json) — schema
+- [`faqs/third-party-equipment-maker-caused-my-injury-in-centerville-can-sue.json`](./faqs/third-party-equipment-maker-caused-my-injury-in-centerville-can-sue.json) — schema
+- [`faqs/third-party-truck-hit-me-at-work-in-draper-sue-them-too.json`](./faqs/third-party-truck-hit-me-at-work-in-draper-sue-them-too.json) — schema
+- [`faqs/third-party-truck-hit-me-at-work-in-south-salt-lake-sue-them.json`](./faqs/third-party-truck-hit-me-at-work-in-south-salt-lake-sue-them.json) — schema
+- [`faqs/traveling-for-work-crashed-in-north-salt-lake-covered-by-comp.json`](./faqs/traveling-for-work-crashed-in-north-salt-lake-covered-by-comp.json) — schema
+- [`faqs/uninsured-employer-after-my-fall-in-south-salt-lake-what-benefits-do-i-get.json`](./faqs/uninsured-employer-after-my-fall-in-south-salt-lake-what-benefits-do-i-get.json) — schema
+- [`faqs/uninsured-employer-after-my-injury-in-midvale-options.json`](./faqs/uninsured-employer-after-my-injury-in-midvale-options.json) — schema
+- [`faqs/uninsured-employer-after-my-injury-still-get-benefits.json`](./faqs/uninsured-employer-after-my-injury-still-get-benefits.json) — schema
+- [`faqs/uninsured-employer-chemical-exposure-still-get-paid-in-utah.json`](./faqs/uninsured-employer-chemical-exposure-still-get-paid-in-utah.json) — schema
+- [`faqs/uninsured-employer-hurt-me-in-north-salt-lake-what-now.json`](./faqs/uninsured-employer-hurt-me-in-north-salt-lake-what-now.json) — schema
+- [`faqs/utah-ladder-fall-at-work-can-i-sue-the-property-owner.json`](./faqs/utah-ladder-fall-at-work-can-i-sue-the-property-owner.json) — schema
+- [`faqs/what-if-i-had-asthma-before-starting-this-dusty-job.json`](./faqs/what-if-i-had-asthma-before-starting-this-dusty-job.json) — schema
+- [`faqs/what-if-ladder-was-defective-in-my-work-fall-in-utah.json`](./faqs/what-if-ladder-was-defective-in-my-work-fall-in-utah.json) — schema
+- [`faqs/what-if-no-witnesses-to-my-fall-at-work-in-farmington-utah.json`](./faqs/what-if-no-witnesses-to-my-fall-at-work-in-farmington-utah.json) — schema
+- [`faqs/what-if-no-witnesses-to-my-slip-at-work-in-midvale.json`](./faqs/what-if-no-witnesses-to-my-slip-at-work-in-midvale.json) — schema
+- [`faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json`](./faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json) — schema
+- [`faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json`](./faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json) — schema
 
 ### Public Pages (8)
 - [`about.html`](./about.html) — LLM-optimized public page

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I sue my employer if forklift crushed my leg on the job?",
+  "description": "Workers' comp's has an exclusive remedy. The employer or its workers comp carrier can only be sue for 5 things.",
+  "url": "https://justworkcomplaw.com/faq/can-i-sue-my-employer-if-forklift-crushed-my-leg-on-the-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I sue my employer if forklift crushed my leg on the job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp's has an exclusive remedy. The employer or its workers comp carrier can only be sue for 5 things."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

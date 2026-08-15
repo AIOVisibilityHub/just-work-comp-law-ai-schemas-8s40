@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I got hurt on a machine at my factory job in Murray, do I qualify for workers comp?",
+  "description": "Yes, for Utah employees injured on job machinery. Report to employer fast.",
+  "url": "https://justworkcomplaw.com/faq/i-got-hurt-on-a-machine-at-my-factory-job-in-murray-do-i-qualify-for-workers-com",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I got hurt on a machine at my factory job in Murray, do I qualify for workers comp?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for Utah employees injured on job machinery. Report to employer fast."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

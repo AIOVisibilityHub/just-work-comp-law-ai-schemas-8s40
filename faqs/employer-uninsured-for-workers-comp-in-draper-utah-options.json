@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer uninsured for workers comp in Draper Utah, options?",
+  "description": "Contact lawyer immediately. Be sure they have experience fighting uninsured employer cases.",
+  "url": "https://justworkcomplaw.com/faq/employer-uninsured-for-workers-comp-in-draper-utah-options",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer uninsured for workers comp in Draper Utah, options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contact lawyer immediately. Be sure they have experience fighting uninsured employer cases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

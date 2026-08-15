@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need lawyer for ladder fall workers comp in Sandy UT?",
+  "description": "Yes, for best results, especially disputes.",
+  "url": "https://justworkcomplaw.com/faq/do-i-need-lawyer-for-ladder-fall-workers-comp-in-sandy-ut",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need lawyer for ladder fall workers comp in Sandy UT?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for best results, especially disputes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

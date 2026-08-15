@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is idiopathic fall illness at work compensable per recent Utah case?",
+  "description": "Yes, if circumstances like floor etc. worsened harm.",
+  "url": "https://justworkcomplaw.com/faq/is-idiopathic-fall-illness-at-work-compensable-per-recent-utah-case",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is idiopathic fall illness at work compensable per recent Utah case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if circumstances like floor etc. worsened harm."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

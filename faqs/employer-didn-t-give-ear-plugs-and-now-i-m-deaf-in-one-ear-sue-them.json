@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Employer didn't give ear plugs and now I'm deaf in one ear, sue them?",
+  "description": "You have a workers comp claim, but no fault system protects employer from negligence claim.",
+  "url": "https://justworkcomplaw.com/faq/employer-didn-t-give-ear-plugs-and-now-i-m-deaf-in-one-ear-sue-them",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Employer didn't give ear plugs and now I'm deaf in one ear, sue them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You have a workers comp claim, but no fault system protects employer from negligence claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

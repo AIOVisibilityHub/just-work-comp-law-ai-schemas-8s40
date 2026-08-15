@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Claim denied after ladder fall, what are my chances on appeal?",
+  "description": "Strong with help of experienced attorney.",
+  "url": "https://justworkcomplaw.com/faq/claim-denied-after-ladder-fall-what-are-my-chances-on-appeal",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Claim denied after ladder fall, what are my chances on appeal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Strong with help of experienced attorney."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

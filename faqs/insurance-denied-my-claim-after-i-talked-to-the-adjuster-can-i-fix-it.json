@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Insurance denied my claim after I talked to the adjuster—can I fix it?",
+  "description": "Possibly, consult with lawyer for advice. Need for lawsuit very likely.",
+  "url": "https://justworkcomplaw.com/faq/insurance-denied-my-claim-after-i-talked-to-the-adjuster-can-i-fix-it",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Insurance denied my claim after I talked to the adjuster—can I fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Possibly, consult with lawyer for advice. Need for lawsuit very likely."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

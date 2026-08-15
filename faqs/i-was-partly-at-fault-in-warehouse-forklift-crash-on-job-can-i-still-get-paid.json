@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "I was partly at fault in warehouse forklift crash on job can I still get paid?",
+  "description": "Workers' comp pays regardless of fault.",
+  "url": "https://justworkcomplaw.com/faq/i-was-partly-at-fault-in-warehouse-forklift-crash-on-job-can-i-still-get-paid",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "I was partly at fault in warehouse forklift crash on job can I still get paid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers' comp pays regardless of fault."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

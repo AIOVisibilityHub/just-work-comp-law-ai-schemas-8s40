@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I get paid while off work from injury in West Jordan?",
+  "description": "Yes, 67% wages as TTD benefits.",
+  "url": "https://justworkcomplaw.com/faq/do-i-get-paid-while-off-work-from-injury-in-west-jordan",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I get paid while off work from injury in West Jordan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, 67% wages as TTD benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

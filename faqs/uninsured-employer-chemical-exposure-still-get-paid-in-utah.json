@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer chemical exposure - still get paid in Utah?",
+  "description": "Contact attorney immediately. Particularly one with workers compensation experience related to uninsured employers.",
+  "url": "https://justworkcomplaw.com/faq/uninsured-employer-chemical-exposure-still-get-paid-in-utah",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer chemical exposure - still get paid in Utah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contact attorney immediately. Particularly one with workers compensation experience related to uninsured employers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

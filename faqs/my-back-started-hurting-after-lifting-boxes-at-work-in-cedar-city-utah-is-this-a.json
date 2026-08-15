@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My back started hurting after lifting boxes at work in Cedar City, Utah is this a work injury I can claim?",
+  "description": "Yes, must have doctor notes indicating back injury occured because of work.",
+  "url": "https://justworkcomplaw.com/faq/my-back-started-hurting-after-lifting-boxes-at-work-in-cedar-city-utah-is-this-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My back started hurting after lifting boxes at work in Cedar City, Utah is this a work injury I can claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, must have doctor notes indicating back injury occured because of work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

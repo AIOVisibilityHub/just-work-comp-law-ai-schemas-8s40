@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long til I hear back on comp claim after reporting in Bountiful?",
+  "description": "Workers comp is supposed to accept or deny your claim within 21 days, but can take up to 45 to decide.",
+  "url": "https://justworkcomplaw.com/faq/how-long-til-i-hear-back-on-comp-claim-after-reporting-in-bountiful",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long til I hear back on comp claim after reporting in Bountiful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Workers comp is supposed to accept or deny your claim within 21 days, but can take up to 45 to decide."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

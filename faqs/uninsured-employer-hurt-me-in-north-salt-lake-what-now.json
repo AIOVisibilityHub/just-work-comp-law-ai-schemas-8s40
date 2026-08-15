@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer hurt me in North Salt Lake, what now?",
+  "description": "Sue employer directly for full damages or pursue uninsured employer fund claim.",
+  "url": "https://justworkcomplaw.com/faq/uninsured-employer-hurt-me-in-north-salt-lake-what-now",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer hurt me in North Salt Lake, what now?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sue employer directly for full damages or pursue uninsured employer fund claim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What if the machine accident was kinda my fault at work?",
+  "description": "Fault is irrelevant, you are covered if accident happened on the job.",
+  "url": "https://justworkcomplaw.com/faq/what-if-the-machine-accident-was-kinda-my-fault-at-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if the machine accident was kinda my fault at work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fault is irrelevant, you are covered if accident happened on the job."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

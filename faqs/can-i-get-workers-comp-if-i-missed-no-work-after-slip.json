@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I get workers comp if I missed no work after slip?",
+  "description": "Yes—medicals and impairment rating covered without lost wages.",
+  "url": "https://justworkcomplaw.com/faq/can-i-get-workers-comp-if-i-missed-no-work-after-slip",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get workers comp if I missed no work after slip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes—medicals and impairment rating covered without lost wages."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

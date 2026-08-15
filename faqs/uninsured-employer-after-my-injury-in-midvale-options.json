@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Uninsured employer after my injury in Midvale, options?",
+  "description": "Use state unisured employers fund (UEF) or sue employer.",
+  "url": "https://justworkcomplaw.com/faq/uninsured-employer-after-my-injury-in-midvale-options",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Uninsured employer after my injury in Midvale, options?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use state unisured employers fund (UEF) or sue employer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

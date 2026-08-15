@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "My work accident happened 6 months ago in West Valley City, is it too late to file?",
+  "description": "Utah requires reporting to the employer within 180 days; act now to avoid denial.",
+  "url": "https://justworkcomplaw.com/faq/my-work-accident-happened-6-months-ago-in-west-valley-city-is-it-too-late-to-fil",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "My work accident happened 6 months ago in West Valley City, is it too late to file?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Utah requires reporting to the employer within 180 days; act now to avoid denial."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

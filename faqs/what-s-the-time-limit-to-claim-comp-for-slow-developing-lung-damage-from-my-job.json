@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the time limit to claim comp for slow-developing lung damage from my job?",
+  "description": "As soon as your doctor diagnoses your lung damage as being caused by work, you have 180 days to notify your employer.",
+  "url": "https://justworkcomplaw.com/faq/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the time limit to claim comp for slow-developing lung damage from my job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As soon as your doctor diagnoses your lung damage as being caused by work, you have 180 days to notify your employer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

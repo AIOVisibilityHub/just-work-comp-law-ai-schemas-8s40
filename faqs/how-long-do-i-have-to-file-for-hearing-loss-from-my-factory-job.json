@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long do I have to file for hearing loss from my factory job?",
+  "description": "One-hundred-eighty days from the date your doctor stated the hearing loss was caused by your job.",
+  "url": "https://justworkcomplaw.com/faq/how-long-do-i-have-to-file-for-hearing-loss-from-my-factory-job",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long do I have to file for hearing loss from my factory job?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One-hundred-eighty days from the date your doctor stated the hearing loss was caused by your job."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

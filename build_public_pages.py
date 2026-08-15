@@ -155,8 +155,11 @@ def _prescan_pages():
     """Pre-scan to determine which pages have data before building any."""
     BUILT_PAGES.add('index.html')  # always built
     BUILT_PAGES.add('about.html')  # always built (has fallback content)
-    BUILT_PAGES.add('faqs.html')   # always built
-    BUILT_PAGES.add('articles.html')   # always built
+    if os.path.isdir('faqs') and glob.glob('faqs/**/*.json', recursive=True):
+        BUILT_PAGES.add('faqs.html')
+    if os.path.isdir('help') and (glob.glob('help/**/*.json', recursive=True) or glob.glob('help/**/*.md', recursive=True)):
+        BUILT_PAGES.add('articles.html')
+
     BUILT_PAGES.add('contact.html')  # always built (has fallback content)
     if os.path.isdir('services') and glob.glob('services/**/*.json', recursive=True):
         BUILT_PAGES.add('services.html')
@@ -460,10 +463,14 @@ def build_faqs():
     for q, a in items:
         content_parts.append(f'<div class="card"><h3 style="margin:0 0 0.5rem 0;">{esc(q)}</h3><p>{esc(a)}</p></div>')
 
-    content = ''.join(content_parts) if content_parts else '<p>No FAQs available yet.</p>'
+    if not content_parts:
+        print(f'  \u23ed faqs.html skipped (no FAQ data)')
+        return
+    content = ''.join(content_parts)
     write_page('faqs.html', 'Frequently Asked Questions', f'<p>{len(items)} questions about {esc(BIZ)}.</p>' + content, f'Frequently asked questions about {BIZ}.')
 
 def build_help():
+
     cards = []
     # Try markdown files first
     help_dir = 'help'
@@ -504,8 +511,14 @@ def build_help():
         if not title: continue
         cards.append(f'<div class="card"><h3>{esc(title)}</h3><p>{esc(desc)}</p></div>')
 
-    content = ''.join(cards) if cards else '<p>No help articles available yet.</p>'
+    if not cards:
+        print(f'  \u23ed articles.html skipped (no articles data)')
+        return
+    content = ''.join(cards)
     write_page('articles.html', 'Articles', f'<p>{len(cards)} articles available.</p>' + content, f'Articles and guides from {BIZ}.')
+
+
+
 
 def build_awards():
     cards = []

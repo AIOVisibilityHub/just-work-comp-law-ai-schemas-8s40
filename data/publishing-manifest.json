@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-15T23:22:54.804Z",
+  "generatedAt": "2026-08-15T23:31:39.897Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw.com",
@@ -160,24 +160,24 @@
     ]
   },
   "package": {
-    "totalFiles": 332,
-    "totalBytes": 931785,
+    "totalFiles": 331,
+    "totalBytes": 929039,
     "stats": {
+      "qna": 0,
       "faqs": 160,
-      "helpArticles": 0,
+      "press": 0,
+      "total": 310,
+      "awards": 0,
+      "reviews": 11,
+      "products": 0,
+      "research": 0,
       "services": 42,
       "webpages": 0,
-      "personnel": 83,
-      "products": 0,
       "locations": 4,
-      "awards": 0,
+      "personnel": 83,
       "caseStudies": 8,
-      "organization": 1,
-      "press": 0,
-      "reviews": 11,
-      "qna": 0,
-      "research": 0,
-      "total": 310
+      "helpArticles": 0,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -1758,42 +1758,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 2118,
+        "bytes": 2081,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 90219,
+        "bytes": 90182,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 108782,
+        "bytes": 108745,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 14087,
+        "bytes": 14050,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 4060,
+        "bytes": 4023,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 50116,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles.html",
-        "bytes": 1632,
+        "bytes": 50079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 32636,
+        "bytes": 32599,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -1830,17 +1825,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 155246,
+        "bytes": 154964,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 51664,
+        "bytes": 51548,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 51664,
+        "bytes": 51548,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -1850,17 +1845,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 48732,
+        "bytes": 48665,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 61028,
+        "bytes": 60891,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1615,
+        "bytes": 1478,
         "purpose": "Standard sitemap"
       }
     ]

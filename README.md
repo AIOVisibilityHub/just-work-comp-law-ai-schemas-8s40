@@ -10,12 +10,12 @@ Canonical AI Data Package for Just Work Comp Law.
 
 ## Stats
 - 160 faqs
+- 11 reviews
 - 42 services
-- 83 personnel
 - 4 locations
+- 83 personnel
 - 8 caseStudies
 - 1 organization
-- 11 reviews
 - **310** total
 
 ## Cross-Destination Index — Related AI Data Sources
@@ -339,9 +339,8 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json`](./faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json) — schema
 - [`faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json`](./faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json) — schema
 
-### Public Pages (8)
+### Public Pages (7)
 - [`about.html`](./about.html) — LLM-optimized public page
-- [`articles.html`](./articles.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page

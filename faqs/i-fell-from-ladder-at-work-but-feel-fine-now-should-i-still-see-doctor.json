@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I fell from ladder at work but feel fine now, should I still see doctor?",
-  "description": "Yes, see doctor now—hidden injuries common. Be sure to report the fall to your employer or supervisor.",
   "url": "https://justworkcomplaw.com/faq/i-fell-from-ladder-at-work-but-feel-fine-now-should-i-still-see-doctor",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I fell from ladder at work but feel fine now, should I still see doctor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, see doctor now—hidden injuries common. Be sure to report the fall to your employer or supervisor."
-      }
-    }
-  ],
+  "name": "I fell from ladder at work but feel fine now, should I still see doctor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I fell from ladder at work but feel fine now, should I still see doctor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, see doctor now—hidden injuries common. Be sure to report the fall to your employer or supervisor.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, see doctor now—hidden injuries common. Be sure to report the fall to your employer or supervisor."
 }

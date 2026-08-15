@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Carpal tunnel from repetitive work in St. George, Utah, covered?",
-  "description": "Yes, with doctor diagnosis as caused by work.",
   "url": "https://justworkcomplaw.com/faq/carpal-tunnel-from-repetitive-work-in-st-george-utah-covered",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Carpal tunnel from repetitive work in St. George, Utah, covered?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with doctor diagnosis as caused by work."
-      }
-    }
-  ],
+  "name": "Carpal tunnel from repetitive work in St. George, Utah, covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Carpal tunnel from repetitive work in St. George, Utah, covered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with doctor diagnosis as caused by work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with doctor diagnosis as caused by work."
 }

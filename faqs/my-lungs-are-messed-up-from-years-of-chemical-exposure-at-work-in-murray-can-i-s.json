@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My lungs are messed up from years of chemical exposure at work in Murray. Can I still file a workers comp claim for occupational illness?",
-  "description": "Yes, if with supportive medical evidence.",
   "url": "https://justworkcomplaw.com/faq/my-lungs-are-messed-up-from-years-of-chemical-exposure-at-work-in-murray-can-i-s",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My lungs are messed up from years of chemical exposure at work in Murray. Can I still file a workers comp claim for occupational illness?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if with supportive medical evidence."
-      }
-    }
-  ],
+  "name": "My lungs are messed up from years of chemical exposure at work in Murray. Can I still file a workers comp claim for occupational illness?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My lungs are messed up from years of chemical exposure at work in Murray. Can I still file a workers comp claim for occupational illness?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if with supportive medical evidence.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, if with supportive medical evidence."
 }

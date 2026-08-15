@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My cancer showed up years after work chemicals - can I still claim?",
-  "description": "Yes, file when diagnosed; prove work link.",
   "url": "https://justworkcomplaw.com/faq/my-cancer-showed-up-years-after-work-chemicals-can-i-still-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My cancer showed up years after work chemicals - can I still claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, file when diagnosed; prove work link."
-      }
-    }
-  ],
+  "name": "My cancer showed up years after work chemicals - can I still claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My cancer showed up years after work chemicals - can I still claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, file when diagnosed; prove work link.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, file when diagnosed; prove work link."
 }

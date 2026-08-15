@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No witnesses to my repetitive strain onset. Still claim in Bountiful?",
-  "description": "Yes, with medical causation evidence from a doctor. Claim may be apportioned between industrial and non-industrial causes.",
   "url": "https://justworkcomplaw.com/faq/no-witnesses-to-my-repetitive-strain-onset-still-claim-in-bountiful",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "No witnesses to my repetitive strain onset. Still claim in Bountiful?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with medical causation evidence from a doctor. Claim may be apportioned between industrial and non-industrial causes."
-      }
-    }
-  ],
+  "name": "No witnesses to my repetitive strain onset. Still claim in Bountiful?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "No witnesses to my repetitive strain onset. Still claim in Bountiful?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with medical causation evidence from a doctor. Claim may be apportioned between industrial and non-industrial causes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with medical causation evidence from a doctor. Claim may be apportioned between industrial and non-industrial causes."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I slipped at work in Murray but didn't tell anyone right away, can I still file workers comp?",
-  "description": "Yes, file soon in Utah despite delay, but report immediately to employer/Labor Commission and gather evidence to counter credibility issues.",
   "url": "https://justworkcomplaw.com/faq/i-slipped-at-work-in-murray-but-didn-t-tell-anyone-right-away-can-i-still-file-w",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I slipped at work in Murray but didn't tell anyone right away, can I still file workers comp?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, file soon in Utah despite delay, but report immediately to employer/Labor Commission and gather evidence to counter credibility issues."
-      }
-    }
-  ],
+  "name": "I slipped at work in Murray but didn't tell anyone right away, can I still file workers comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I slipped at work in Murray but didn't tell anyone right away, can I still file workers comp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, file soon in Utah despite delay, but report immediately to employer/Labor Commission and gather evidence to counter credibility issues.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, file soon in Utah despite delay, but report immediately to employer/Labor Commission and gather evidence to counter credibility issues."
 }

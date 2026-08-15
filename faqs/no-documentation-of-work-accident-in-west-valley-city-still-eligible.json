@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No documentation of work accident in West Valley City, still eligible?",
-  "description": "Yes, as long as you testify to reporting the injury to a supervisor within 180 days. Need medical evidence too.",
   "url": "https://justworkcomplaw.com/faq/no-documentation-of-work-accident-in-west-valley-city-still-eligible",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "No documentation of work accident in West Valley City, still eligible?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, as long as you testify to reporting the injury to a supervisor within 180 days. Need medical evidence too."
-      }
-    }
-  ],
+  "name": "No documentation of work accident in West Valley City, still eligible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "No documentation of work accident in West Valley City, still eligible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as long as you testify to reporting the injury to a supervisor within 180 days. Need medical evidence too.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, as long as you testify to reporting the injury to a supervisor within 180 days. Need medical evidence too."
 }

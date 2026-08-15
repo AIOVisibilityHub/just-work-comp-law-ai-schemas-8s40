@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have old hearing issues, can I claim new loss from current job?",
-  "description": "Yes, for work-aggravated portion.",
   "url": "https://justworkcomplaw.com/faq/i-have-old-hearing-issues-can-i-claim-new-loss-from-current-job",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I have old hearing issues, can I claim new loss from current job?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, for work-aggravated portion."
-      }
-    }
-  ],
+  "name": "I have old hearing issues, can I claim new loss from current job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I have old hearing issues, can I claim new loss from current job?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for work-aggravated portion.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, for work-aggravated portion."
 }

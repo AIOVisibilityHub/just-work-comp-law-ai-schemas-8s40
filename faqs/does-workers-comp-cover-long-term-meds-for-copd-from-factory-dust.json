@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does workers comp cover long-term meds for COPD from factory dust?",
-  "description": "Yes, lifetime medical for proven work-related COPD.",
   "url": "https://justworkcomplaw.com/faq/does-workers-comp-cover-long-term-meds-for-copd-from-factory-dust",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does workers comp cover long-term meds for COPD from factory dust?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, lifetime medical for proven work-related COPD."
-      }
-    }
-  ],
+  "name": "Does workers comp cover long-term meds for COPD from factory dust?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does workers comp cover long-term meds for COPD from factory dust?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, lifetime medical for proven work-related COPD.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, lifetime medical for proven work-related COPD."
 }

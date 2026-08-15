@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple injuries from one machine malfunction at work, all covered?",
-  "description": "Yes, full coverage for all. Must report to employer and seek medical care. Written evidence needed.",
   "url": "https://justworkcomplaw.com/faq/multiple-injuries-from-one-machine-malfunction-at-work-all-covered",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Multiple injuries from one machine malfunction at work, all covered?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, full coverage for all. Must report to employer and seek medical care. Written evidence needed."
-      }
-    }
-  ],
+  "name": "Multiple injuries from one machine malfunction at work, all covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Multiple injuries from one machine malfunction at work, all covered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, full coverage for all. Must report to employer and seek medical care. Written evidence needed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, full coverage for all. Must report to employer and seek medical care. Written evidence needed."
 }

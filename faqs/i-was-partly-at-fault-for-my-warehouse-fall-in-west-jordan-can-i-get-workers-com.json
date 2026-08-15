@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I was partly at fault for my warehouse fall in West Jordan, can I get workers comp?",
-  "description": "Yes, workers' comp is no-fault; get benefits even if fully your fault.",
   "url": "https://justworkcomplaw.com/faq/i-was-partly-at-fault-for-my-warehouse-fall-in-west-jordan-can-i-get-workers-com",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I was partly at fault for my warehouse fall in West Jordan, can I get workers comp?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, workers' comp is no-fault; get benefits even if fully your fault."
-      }
-    }
-  ],
+  "name": "I was partly at fault for my warehouse fall in West Jordan, can I get workers comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I was partly at fault for my warehouse fall in West Jordan, can I get workers comp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, workers' comp is no-fault; get benefits even if fully your fault.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, workers' comp is no-fault; get benefits even if fully your fault."
 }

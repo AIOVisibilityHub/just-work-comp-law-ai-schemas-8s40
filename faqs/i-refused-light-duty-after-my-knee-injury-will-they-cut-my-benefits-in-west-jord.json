@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I refused light duty after my knee injury, will they cut my benefits in West Jordan?",
-  "description": "Possibly, depending on the circumstances of refusing light duty.",
   "url": "https://justworkcomplaw.com/faq/i-refused-light-duty-after-my-knee-injury-will-they-cut-my-benefits-in-west-jord",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I refused light duty after my knee injury, will they cut my benefits in West Jordan?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Possibly, depending on the circumstances of refusing light duty."
-      }
-    }
-  ],
+  "name": "I refused light duty after my knee injury, will they cut my benefits in West Jordan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I refused light duty after my knee injury, will they cut my benefits in West Jordan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Possibly, depending on the circumstances of refusing light duty.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Possibly, depending on the circumstances of refusing light duty."
 }

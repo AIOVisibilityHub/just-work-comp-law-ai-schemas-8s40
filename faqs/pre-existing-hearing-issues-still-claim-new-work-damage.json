@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Pre-existing hearing issues, still claim new work damage?",
-  "description": "Yes, with medical reports from doctor connecting new damage to work exposure.",
   "url": "https://justworkcomplaw.com/faq/pre-existing-hearing-issues-still-claim-new-work-damage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Pre-existing hearing issues, still claim new work damage?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with medical reports from doctor connecting new damage to work exposure."
-      }
-    }
-  ],
+  "name": "Pre-existing hearing issues, still claim new work damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Pre-existing hearing issues, still claim new work damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with medical reports from doctor connecting new damage to work exposure.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with medical reports from doctor connecting new damage to work exposure."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "In Utah, is silicosis from construction work compensable?",
-  "description": "Yes, as occupational disease or cumulative trauma.",
   "url": "https://justworkcomplaw.com/faq/in-utah-is-silicosis-from-construction-work-compensable",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "In Utah, is silicosis from construction work compensable?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, as occupational disease or cumulative trauma."
-      }
-    }
-  ],
+  "name": "In Utah, is silicosis from construction work compensable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "In Utah, is silicosis from construction work compensable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as occupational disease or cumulative trauma.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, as occupational disease or cumulative trauma."
 }

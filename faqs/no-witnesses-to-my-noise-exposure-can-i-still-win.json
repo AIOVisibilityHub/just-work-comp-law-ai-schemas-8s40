@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No witnesses to my noise exposure, can I still win?",
-  "description": "Yes, with doctor notes and records indicating the cause was work related.",
   "url": "https://justworkcomplaw.com/faq/no-witnesses-to-my-noise-exposure-can-i-still-win",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "No witnesses to my noise exposure, can I still win?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with doctor notes and records indicating the cause was work related."
-      }
-    }
-  ],
+  "name": "No witnesses to my noise exposure, can I still win?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "No witnesses to my noise exposure, can I still win?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with doctor notes and records indicating the cause was work related.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with doctor notes and records indicating the cause was work related."
 }

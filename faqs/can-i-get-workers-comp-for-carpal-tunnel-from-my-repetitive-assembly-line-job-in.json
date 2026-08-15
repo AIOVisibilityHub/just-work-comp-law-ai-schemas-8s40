@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get workers comp for carpal tunnel from my repetitive assembly line job in West Valley City?",
-  "description": "Yes, if medical evidence supports cause as repetitive work duties in Utah.",
   "url": "https://justworkcomplaw.com/faq/can-i-get-workers-comp-for-carpal-tunnel-from-my-repetitive-assembly-line-job-in",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I get workers comp for carpal tunnel from my repetitive assembly line job in West Valley City?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if medical evidence supports cause as repetitive work duties in Utah."
-      }
-    }
-  ],
+  "name": "Can I get workers comp for carpal tunnel from my repetitive assembly line job in West Valley City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get workers comp for carpal tunnel from my repetitive assembly line job in West Valley City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if medical evidence supports cause as repetitive work duties in Utah.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, if medical evidence supports cause as repetitive work duties in Utah."
 }

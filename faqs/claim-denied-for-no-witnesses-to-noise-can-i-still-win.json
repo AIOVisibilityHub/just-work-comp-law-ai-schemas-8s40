@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Claim denied for no witnesses to noise—can I still win?",
-  "description": "Yes, with doctor evaluation and notes indicating the cause was work related.",
   "url": "https://justworkcomplaw.com/faq/claim-denied-for-no-witnesses-to-noise-can-i-still-win",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Claim denied for no witnesses to noise—can I still win?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with doctor evaluation and notes indicating the cause was work related."
-      }
-    }
-  ],
+  "name": "Claim denied for no witnesses to noise—can I still win?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Claim denied for no witnesses to noise—can I still win?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with doctor evaluation and notes indicating the cause was work related.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with doctor evaluation and notes indicating the cause was work related."
 }

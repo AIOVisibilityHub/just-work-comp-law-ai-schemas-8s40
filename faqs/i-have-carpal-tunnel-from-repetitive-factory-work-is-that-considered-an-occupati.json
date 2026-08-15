@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have carpal tunnel from repetitive factory work. Is that considered an occupational illness under Utah law?",
-  "description": "Yes, repetitive motion carpal tunnel is covered if job-related with medical proof.",
   "url": "https://justworkcomplaw.com/faq/i-have-carpal-tunnel-from-repetitive-factory-work-is-that-considered-an-occupati",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I have carpal tunnel from repetitive factory work. Is that considered an occupational illness under Utah law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, repetitive motion carpal tunnel is covered if job-related with medical proof."
-      }
-    }
-  ],
+  "name": "I have carpal tunnel from repetitive factory work. Is that considered an occupational illness under Utah law?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I have carpal tunnel from repetitive factory work. Is that considered an occupational illness under Utah law?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repetitive motion carpal tunnel is covered if job-related with medical proof.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, repetitive motion carpal tunnel is covered if job-related with medical proof."
 }

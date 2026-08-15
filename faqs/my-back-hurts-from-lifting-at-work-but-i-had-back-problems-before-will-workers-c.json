@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My back hurts from lifting at work but I had back problems before, will workers comp cover it in Orem?",
-  "description": "Yes, coverage possible for work-aggravated pre-existing back issues in UT with medical proof of worsening.",
   "url": "https://justworkcomplaw.com/faq/my-back-hurts-from-lifting-at-work-but-i-had-back-problems-before-will-workers-c",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My back hurts from lifting at work but I had back problems before, will workers comp cover it in Orem?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, coverage possible for work-aggravated pre-existing back issues in UT with medical proof of worsening."
-      }
-    }
-  ],
+  "name": "My back hurts from lifting at work but I had back problems before, will workers comp cover it in Orem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My back hurts from lifting at work but I had back problems before, will workers comp cover it in Orem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, coverage possible for work-aggravated pre-existing back issues in UT with medical proof of worsening.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, coverage possible for work-aggravated pre-existing back issues in UT with medical proof of worsening."
 }

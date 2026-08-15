@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Partially my fault for ignoring safety in Ogden, get comp?",
-  "description": "Yes, no-fault system covers even if partially at fault.",
   "url": "https://justworkcomplaw.com/faq/partially-my-fault-for-ignoring-safety-in-ogden-get-comp",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Partially my fault for ignoring safety in Ogden, get comp?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, no-fault system covers even if partially at fault."
-      }
-    }
-  ],
+  "name": "Partially my fault for ignoring safety in Ogden, get comp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Partially my fault for ignoring safety in Ogden, get comp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, no-fault system covers even if partially at fault.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, no-fault system covers even if partially at fault."
 }

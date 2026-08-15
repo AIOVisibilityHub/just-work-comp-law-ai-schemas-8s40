@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get workers comp if my hearing loss is from noisy construction work?",
-  "description": "Yes, if proven job-related via audiogram and exposure records.",
   "url": "https://justworkcomplaw.com/faq/can-i-get-workers-comp-if-my-hearing-loss-is-from-noisy-construction-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I get workers comp if my hearing loss is from noisy construction work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, if proven job-related via audiogram and exposure records."
-      }
-    }
-  ],
+  "name": "Can I get workers comp if my hearing loss is from noisy construction work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get workers comp if my hearing loss is from noisy construction work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if proven job-related via audiogram and exposure records.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, if proven job-related via audiogram and exposure records."
 }

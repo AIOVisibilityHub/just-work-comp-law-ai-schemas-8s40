@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What if I had asthma before starting this dusty job?",
-  "description": "Yes, with doctors written explanation as a permanent aggravation of your pre-existing condition.",
   "url": "https://justworkcomplaw.com/faq/what-if-i-had-asthma-before-starting-this-dusty-job",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What if I had asthma before starting this dusty job?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with doctors written explanation as a permanent aggravation of your pre-existing condition."
-      }
-    }
-  ],
+  "name": "What if I had asthma before starting this dusty job?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What if I had asthma before starting this dusty job?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with doctors written explanation as a permanent aggravation of your pre-existing condition.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with doctors written explanation as a permanent aggravation of your pre-existing condition."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I got hurt at work in Murray Utah but didn't go to the doctor right away, can I still file a workers comp claim?",
-  "description": "Yes, only if you reported the accident to your employer within 180 days. The longer you take to see a doctor the weaker the workers comp claim.",
   "url": "https://justworkcomplaw.com/faq/i-got-hurt-at-work-in-murray-utah-but-didn-t-go-to-the-doctor-right-away-can-i-s",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I got hurt at work in Murray Utah but didn't go to the doctor right away, can I still file a workers comp claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, only if you reported the accident to your employer within 180 days. The longer you take to see a doctor the weaker the workers comp claim."
-      }
-    }
-  ],
+  "name": "I got hurt at work in Murray Utah but didn't go to the doctor right away, can I still file a workers comp claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I got hurt at work in Murray Utah but didn't go to the doctor right away, can I still file a workers comp claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, only if you reported the accident to your employer within 180 days. The longer you take to see a doctor the weaker the workers comp claim.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, only if you reported the accident to your employer within 180 days. The longer you take to see a doctor the weaker the workers comp claim."
 }

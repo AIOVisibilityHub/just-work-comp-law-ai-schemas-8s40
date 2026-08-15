@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "No witnesses to my machine injury at work, can I still claim?",
-  "description": "Yes, use med records and machine evidence.",
   "url": "https://justworkcomplaw.com/faq/no-witnesses-to-my-machine-injury-at-work-can-i-still-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "No witnesses to my machine injury at work, can I still claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, use med records and machine evidence."
-      }
-    }
-  ],
+  "name": "No witnesses to my machine injury at work, can I still claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "No witnesses to my machine injury at work, can I still claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, use med records and machine evidence.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, use med records and machine evidence."
 }

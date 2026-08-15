@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get workers comp if exposure was just one day at work?",
-  "description": "Yes, medical evidence from doctor necessary.",
   "url": "https://justworkcomplaw.com/faq/can-i-get-workers-comp-if-exposure-was-just-one-day-at-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I get workers comp if exposure was just one day at work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, medical evidence from doctor necessary."
-      }
-    }
-  ],
+  "name": "Can I get workers comp if exposure was just one day at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get workers comp if exposure was just one day at work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, medical evidence from doctor necessary.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, medical evidence from doctor necessary."
 }

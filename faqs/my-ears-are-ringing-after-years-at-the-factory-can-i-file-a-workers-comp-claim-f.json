@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My ears are ringing after years at the factory, can I file a workers comp claim for hearing loss?",
-  "description": "Yes, ask your doctor if ringing caused by work, if yes, provide written doctor note to employer within 180 days.",
   "url": "https://justworkcomplaw.com/faq/my-ears-are-ringing-after-years-at-the-factory-can-i-file-a-workers-comp-claim-f",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My ears are ringing after years at the factory, can I file a workers comp claim for hearing loss?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, ask your doctor if ringing caused by work, if yes, provide written doctor note to employer within 180 days."
-      }
-    }
-  ],
+  "name": "My ears are ringing after years at the factory, can I file a workers comp claim for hearing loss?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My ears are ringing after years at the factory, can I file a workers comp claim for hearing loss?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, ask your doctor if ringing caused by work, if yes, provide written doctor note to employer within 180 days.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, ask your doctor if ringing caused by work, if yes, provide written doctor note to employer within 180 days."
 }

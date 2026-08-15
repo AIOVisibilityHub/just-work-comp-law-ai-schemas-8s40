@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Ladder broke during work fall, can I sue the maker?",
-  "description": "Yes, product liability suit, but must repay workers comp if benefits paid out by them.",
   "url": "https://justworkcomplaw.com/faq/ladder-broke-during-work-fall-can-i-sue-the-maker",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Ladder broke during work fall, can I sue the maker?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, product liability suit, but must repay workers comp if benefits paid out by them."
-      }
-    }
-  ],
+  "name": "Ladder broke during work fall, can I sue the maker?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Ladder broke during work fall, can I sue the maker?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, product liability suit, but must repay workers comp if benefits paid out by them.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, product liability suit, but must repay workers comp if benefits paid out by them."
 }

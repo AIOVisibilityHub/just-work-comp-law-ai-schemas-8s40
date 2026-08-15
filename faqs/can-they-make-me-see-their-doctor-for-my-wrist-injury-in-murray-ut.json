@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can they make me see their doctor for my wrist injury in Murray UT?",
-  "description": "Yes, must see their preferred doctor and attend IME or face denial; can request second opinion.",
   "url": "https://justworkcomplaw.com/faq/can-they-make-me-see-their-doctor-for-my-wrist-injury-in-murray-ut",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can they make me see their doctor for my wrist injury in Murray UT?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, must see their preferred doctor and attend IME or face denial; can request second opinion."
-      }
-    }
-  ],
+  "name": "Can they make me see their doctor for my wrist injury in Murray UT?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can they make me see their doctor for my wrist injury in Murray UT?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, must see their preferred doctor and attend IME or face denial; can request second opinion.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, must see their preferred doctor and attend IME or face denial; can request second opinion."
 }

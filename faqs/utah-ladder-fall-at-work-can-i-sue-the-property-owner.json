@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Utah ladder fall at work—can I sue the property owner?",
-  "description": "It depends on specific facts and circumstances. Talk with lawyer.",
   "url": "https://justworkcomplaw.com/faq/utah-ladder-fall-at-work-can-i-sue-the-property-owner",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Utah ladder fall at work—can I sue the property owner?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It depends on specific facts and circumstances. Talk with lawyer."
-      }
-    }
-  ],
+  "name": "Utah ladder fall at work—can I sue the property owner?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Utah ladder fall at work—can I sue the property owner?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It depends on specific facts and circumstances. Talk with lawyer.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "It depends on specific facts and circumstances. Talk with lawyer."
 }

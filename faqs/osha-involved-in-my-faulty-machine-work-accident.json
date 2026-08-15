@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "OSHA involved in my faulty machine work accident?",
-  "description": "Yes, report for safety of other employees.",
   "url": "https://justworkcomplaw.com/faq/osha-involved-in-my-faulty-machine-work-accident",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "OSHA involved in my faulty machine work accident?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, report for safety of other employees."
-      }
-    }
-  ],
+  "name": "OSHA involved in my faulty machine work accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "OSHA involved in my faulty machine work accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, report for safety of other employees.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, report for safety of other employees."
 }

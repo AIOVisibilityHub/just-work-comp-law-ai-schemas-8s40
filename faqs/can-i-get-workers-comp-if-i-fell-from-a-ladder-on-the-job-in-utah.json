@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get workers comp if I fell from a ladder on the job in Utah?",
-  "description": "Yes, Utah workers' comp covers ladder falls at work; report within 180 days.",
   "url": "https://justworkcomplaw.com/faq/can-i-get-workers-comp-if-i-fell-from-a-ladder-on-the-job-in-utah",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I get workers comp if I fell from a ladder on the job in Utah?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, Utah workers' comp covers ladder falls at work; report within 180 days."
-      }
-    }
-  ],
+  "name": "Can I get workers comp if I fell from a ladder on the job in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get workers comp if I fell from a ladder on the job in Utah?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Utah workers' comp covers ladder falls at work; report within 180 days.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, Utah workers' comp covers ladder falls at work; report within 180 days."
 }

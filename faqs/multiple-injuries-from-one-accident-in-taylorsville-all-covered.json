@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Multiple injuries from one accident in Taylorsville, all covered?",
-  "description": "Yes, with doctor diagnosis and notes indicating all injuries are work related.",
   "url": "https://justworkcomplaw.com/faq/multiple-injuries-from-one-accident-in-taylorsville-all-covered",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Multiple injuries from one accident in Taylorsville, all covered?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with doctor diagnosis and notes indicating all injuries are work related."
-      }
-    }
-  ],
+  "name": "Multiple injuries from one accident in Taylorsville, all covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Multiple injuries from one accident in Taylorsville, all covered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with doctor diagnosis and notes indicating all injuries are work related.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with doctor diagnosis and notes indicating all injuries are work related."
 }

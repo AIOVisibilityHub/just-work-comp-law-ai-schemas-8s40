@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Slipped on ice at my Salt Lake City job site, is this covered by workers comp or do I sue my boss?",
-  "description": "Yes, covered by Utah workers' comp only—no suing employer; report ASAP and file immediately.",
   "url": "https://justworkcomplaw.com/faq/slipped-on-ice-at-my-salt-lake-city-job-site-is-this-covered-by-workers-comp-or",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Slipped on ice at my Salt Lake City job site, is this covered by workers comp or do I sue my boss?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, covered by Utah workers' comp only—no suing employer; report ASAP and file immediately."
-      }
-    }
-  ],
+  "name": "Slipped on ice at my Salt Lake City job site, is this covered by workers comp or do I sue my boss?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Slipped on ice at my Salt Lake City job site, is this covered by workers comp or do I sue my boss?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, covered by Utah workers' comp only—no suing employer; report ASAP and file immediately.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, covered by Utah workers' comp only—no suing employer; report ASAP and file immediately."
 }

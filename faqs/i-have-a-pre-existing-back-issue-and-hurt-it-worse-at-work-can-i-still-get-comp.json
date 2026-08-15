@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have a pre-existing back issue and hurt it worse at work, can I still get comp in Sandy Utah?",
-  "description": "Yes, aggravations of pre-existing conditions qualify with medical proof and substantial injury event.",
   "url": "https://justworkcomplaw.com/faq/i-have-a-pre-existing-back-issue-and-hurt-it-worse-at-work-can-i-still-get-comp",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I have a pre-existing back issue and hurt it worse at work, can I still get comp in Sandy Utah?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, aggravations of pre-existing conditions qualify with medical proof and substantial injury event."
-      }
-    }
-  ],
+  "name": "I have a pre-existing back issue and hurt it worse at work, can I still get comp in Sandy Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I have a pre-existing back issue and hurt it worse at work, can I still get comp in Sandy Utah?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, aggravations of pre-existing conditions qualify with medical proof and substantial injury event.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, aggravations of pre-existing conditions qualify with medical proof and substantial injury event."
 }

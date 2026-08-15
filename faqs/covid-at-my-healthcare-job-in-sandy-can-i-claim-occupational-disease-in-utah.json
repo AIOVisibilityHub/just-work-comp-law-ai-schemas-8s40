@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "COVID at my healthcare job in Sandy—can I claim occupational disease in Utah?",
-  "description": "Yes, prove work contraction like other occupational diseases.",
   "url": "https://justworkcomplaw.com/faq/covid-at-my-healthcare-job-in-sandy-can-i-claim-occupational-disease-in-utah",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "COVID at my healthcare job in Sandy—can I claim occupational disease in Utah?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, prove work contraction like other occupational diseases."
-      }
-    }
-  ],
+  "name": "COVID at my healthcare job in Sandy—can I claim occupational disease in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "COVID at my healthcare job in Sandy—can I claim occupational disease in Utah?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, prove work contraction like other occupational diseases.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, prove work contraction like other occupational diseases."
 }

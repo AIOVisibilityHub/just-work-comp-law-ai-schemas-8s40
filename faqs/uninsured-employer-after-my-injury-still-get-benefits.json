@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Uninsured employer after my injury—still get benefits?",
-  "description": "Yes, state fund pays—employer penalized.",
   "url": "https://justworkcomplaw.com/faq/uninsured-employer-after-my-injury-still-get-benefits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Uninsured employer after my injury—still get benefits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, state fund pays—employer penalized."
-      }
-    }
-  ],
+  "name": "Uninsured employer after my injury—still get benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Uninsured employer after my injury—still get benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, state fund pays—employer penalized.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, state fund pays—employer penalized."
 }

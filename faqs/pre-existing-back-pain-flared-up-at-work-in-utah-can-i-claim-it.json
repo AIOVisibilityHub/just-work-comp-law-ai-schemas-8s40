@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Pre-existing back pain flared up at work in Utah, can I claim it?",
-  "description": "Yes, covers work aggravation of pre-existing issues. Must meet Allen.",
   "url": "https://justworkcomplaw.com/faq/pre-existing-back-pain-flared-up-at-work-in-utah-can-i-claim-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Pre-existing back pain flared up at work in Utah, can I claim it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, covers work aggravation of pre-existing issues. Must meet Allen."
-      }
-    }
-  ],
+  "name": "Pre-existing back pain flared up at work in Utah, can I claim it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Pre-existing back pain flared up at work in Utah, can I claim it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, covers work aggravation of pre-existing issues. Must meet Allen.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, covers work aggravation of pre-existing issues. Must meet Allen."
 }

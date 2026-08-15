@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Partially my fault chemical spill at work - still eligible?",
-  "description": "Yes, no-fault covers all.",
   "url": "https://justworkcomplaw.com/faq/partially-my-fault-chemical-spill-at-work-still-eligible",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Partially my fault chemical spill at work - still eligible?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, no-fault covers all."
-      }
-    }
-  ],
+  "name": "Partially my fault chemical spill at work - still eligible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Partially my fault chemical spill at work - still eligible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, no-fault covers all.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, no-fault covers all."
 }

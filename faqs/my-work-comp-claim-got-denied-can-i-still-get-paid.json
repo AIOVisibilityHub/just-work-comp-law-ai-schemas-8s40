@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My work comp claim got denied, can I still get paid?",
-  "description": "Yes, pursue lawsuit through labor commission and with attorney.",
   "url": "https://justworkcomplaw.com/faq/my-work-comp-claim-got-denied-can-i-still-get-paid",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My work comp claim got denied, can I still get paid?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, pursue lawsuit through labor commission and with attorney."
-      }
-    }
-  ],
+  "name": "My work comp claim got denied, can I still get paid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My work comp claim got denied, can I still get paid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pursue lawsuit through labor commission and with attorney.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, pursue lawsuit through labor commission and with attorney."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Does workers comp cover prosthetics for hand loss from work chemicals in Draper?",
-  "description": "Yes, plus medical, wages and impairment rating.",
   "url": "https://justworkcomplaw.com/faq/does-workers-comp-cover-prosthetics-for-hand-loss-from-work-chemicals-in-draper",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Does workers comp cover prosthetics for hand loss from work chemicals in Draper?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, plus medical, wages and impairment rating."
-      }
-    }
-  ],
+  "name": "Does workers comp cover prosthetics for hand loss from work chemicals in Draper?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Does workers comp cover prosthetics for hand loss from work chemicals in Draper?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, plus medical, wages and impairment rating.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, plus medical, wages and impairment rating."
 }

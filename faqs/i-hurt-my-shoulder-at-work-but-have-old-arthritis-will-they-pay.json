@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I hurt my shoulder at work but have old arthritis—will they pay?",
-  "description": "Yes, covers aggravation—doc links it to work.",
   "url": "https://justworkcomplaw.com/faq/i-hurt-my-shoulder-at-work-but-have-old-arthritis-will-they-pay",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I hurt my shoulder at work but have old arthritis—will they pay?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, covers aggravation—doc links it to work."
-      }
-    }
-  ],
+  "name": "I hurt my shoulder at work but have old arthritis—will they pay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I hurt my shoulder at work but have old arthritis—will they pay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, covers aggravation—doc links it to work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, covers aggravation—doc links it to work."
 }

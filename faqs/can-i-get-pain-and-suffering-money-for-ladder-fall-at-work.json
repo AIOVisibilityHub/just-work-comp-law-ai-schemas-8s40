@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I get pain and suffering money for ladder fall at work?",
-  "description": "No, unless the fall involved negligence of non-employer third party.",
   "url": "https://justworkcomplaw.com/faq/can-i-get-pain-and-suffering-money-for-ladder-fall-at-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I get pain and suffering money for ladder fall at work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No, unless the fall involved negligence of non-employer third party."
-      }
-    }
-  ],
+  "name": "Can I get pain and suffering money for ladder fall at work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get pain and suffering money for ladder fall at work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, unless the fall involved negligence of non-employer third party.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "No, unless the fall involved negligence of non-employer third party."
 }

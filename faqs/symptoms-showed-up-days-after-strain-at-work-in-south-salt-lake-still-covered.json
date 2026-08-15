@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Symptoms showed up days after strain at work in South Salt Lake, still covered?",
-  "description": "Yes, with medical proof linking the injury to work. Report to employer as soon as possible.",
   "url": "https://justworkcomplaw.com/faq/symptoms-showed-up-days-after-strain-at-work-in-south-salt-lake-still-covered",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Symptoms showed up days after strain at work in South Salt Lake, still covered?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with medical proof linking the injury to work. Report to employer as soon as possible."
-      }
-    }
-  ],
+  "name": "Symptoms showed up days after strain at work in South Salt Lake, still covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Symptoms showed up days after strain at work in South Salt Lake, still covered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with medical proof linking the injury to work. Report to employer as soon as possible.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with medical proof linking the injury to work. Report to employer as soon as possible."
 }

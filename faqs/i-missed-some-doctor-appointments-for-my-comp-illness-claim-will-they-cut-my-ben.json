@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I missed some doctor appointments for my comp illness claim, will they cut my benefits?",
-  "description": "Possibly, follow reasonable medical care and attend your appointments.",
   "url": "https://justworkcomplaw.com/faq/i-missed-some-doctor-appointments-for-my-comp-illness-claim-will-they-cut-my-ben",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I missed some doctor appointments for my comp illness claim, will they cut my benefits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Possibly, follow reasonable medical care and attend your appointments."
-      }
-    }
-  ],
+  "name": "I missed some doctor appointments for my comp illness claim, will they cut my benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I missed some doctor appointments for my comp illness claim, will they cut my benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Possibly, follow reasonable medical care and attend your appointments.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Possibly, follow reasonable medical care and attend your appointments."
 }

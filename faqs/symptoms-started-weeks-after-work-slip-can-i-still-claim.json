@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Symptoms started weeks after work slip, can I still claim?",
-  "description": "Yes, report to boss within 180 days; claim with workers compensation as soon as possible.",
   "url": "https://justworkcomplaw.com/faq/symptoms-started-weeks-after-work-slip-can-i-still-claim",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Symptoms started weeks after work slip, can I still claim?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, report to boss within 180 days; claim with workers compensation as soon as possible."
-      }
-    }
-  ],
+  "name": "Symptoms started weeks after work slip, can I still claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Symptoms started weeks after work slip, can I still claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, report to boss within 180 days; claim with workers compensation as soon as possible.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, report to boss within 180 days; claim with workers compensation as soon as possible."
 }

@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I had bad asthma before, but work chemicals made it worse. Can I get comp in Salt Lake area?",
-  "description": "Yes, with medical causation evidence from a doctor. Claim may be apportioned between industrial and non-industrial causes.",
   "url": "https://justworkcomplaw.com/faq/i-had-bad-asthma-before-but-work-chemicals-made-it-worse-can-i-get-comp-in-salt",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I had bad asthma before, but work chemicals made it worse. Can I get comp in Salt Lake area?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, with medical causation evidence from a doctor. Claim may be apportioned between industrial and non-industrial causes."
-      }
-    }
-  ],
+  "name": "I had bad asthma before, but work chemicals made it worse. Can I get comp in Salt Lake area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I had bad asthma before, but work chemicals made it worse. Can I get comp in Salt Lake area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, with medical causation evidence from a doctor. Claim may be apportioned between industrial and non-industrial causes.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, with medical causation evidence from a doctor. Claim may be apportioned between industrial and non-industrial causes."
 }

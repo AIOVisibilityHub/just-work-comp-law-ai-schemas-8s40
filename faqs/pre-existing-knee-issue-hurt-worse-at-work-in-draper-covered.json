@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Pre-existing knee issue hurt worse at work in Draper, covered?",
-  "description": "Yes, aggravations qualify.",
   "url": "https://justworkcomplaw.com/faq/pre-existing-knee-issue-hurt-worse-at-work-in-draper-covered",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Pre-existing knee issue hurt worse at work in Draper, covered?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, aggravations qualify."
-      }
-    }
-  ],
+  "name": "Pre-existing knee issue hurt worse at work in Draper, covered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Pre-existing knee issue hurt worse at work in Draper, covered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, aggravations qualify.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, aggravations qualify."
 }

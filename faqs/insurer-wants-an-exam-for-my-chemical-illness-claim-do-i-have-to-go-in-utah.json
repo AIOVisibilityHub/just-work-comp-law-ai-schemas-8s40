@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Insurer wants an exam for my chemical illness claim. Do I have to go in Utah?",
-  "description": "Yes, or risk denial; usually one exam.",
   "url": "https://justworkcomplaw.com/faq/insurer-wants-an-exam-for-my-chemical-illness-claim-do-i-have-to-go-in-utah",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Insurer wants an exam for my chemical illness claim. Do I have to go in Utah?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, or risk denial; usually one exam."
-      }
-    }
-  ],
+  "name": "Insurer wants an exam for my chemical illness claim. Do I have to go in Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Insurer wants an exam for my chemical illness claim. Do I have to go in Utah?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, or risk denial; usually one exam.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, or risk denial; usually one exam."
 }

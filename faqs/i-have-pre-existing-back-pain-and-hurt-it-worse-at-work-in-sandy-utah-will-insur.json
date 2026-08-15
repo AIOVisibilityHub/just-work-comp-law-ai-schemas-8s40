@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "I have pre-existing back pain and hurt it worse at work in Sandy Utah, will insurance pay?",
-  "description": "Yes, covers work-related aggravation; prove with medical records.",
   "url": "https://justworkcomplaw.com/faq/i-have-pre-existing-back-pain-and-hurt-it-worse-at-work-in-sandy-utah-will-insur",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "I have pre-existing back pain and hurt it worse at work in Sandy Utah, will insurance pay?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, covers work-related aggravation; prove with medical records."
-      }
-    }
-  ],
+  "name": "I have pre-existing back pain and hurt it worse at work in Sandy Utah, will insurance pay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "I have pre-existing back pain and hurt it worse at work in Sandy Utah, will insurance pay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, covers work-related aggravation; prove with medical records.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, covers work-related aggravation; prove with medical records."
 }

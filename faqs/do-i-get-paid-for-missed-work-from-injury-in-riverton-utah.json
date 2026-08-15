@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I get paid for missed work from injury in Riverton Utah?",
-  "description": "Yes, 2/3 wages while doctor has you off work.",
   "url": "https://justworkcomplaw.com/faq/do-i-get-paid-for-missed-work-from-injury-in-riverton-utah",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I get paid for missed work from injury in Riverton Utah?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, 2/3 wages while doctor has you off work."
-      }
-    }
-  ],
+  "name": "Do I get paid for missed work from injury in Riverton Utah?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I get paid for missed work from injury in Riverton Utah?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, 2/3 wages while doctor has you off work.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, 2/3 wages while doctor has you off work."
 }

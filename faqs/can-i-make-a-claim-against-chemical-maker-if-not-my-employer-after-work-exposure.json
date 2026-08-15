@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I make a claim against chemical maker if not my employer after work exposure?",
-  "description": "Yes, but you will have to reimburse workers comp for anything they paid out on your claim.",
   "url": "https://justworkcomplaw.com/faq/can-i-make-a-claim-against-chemical-maker-if-not-my-employer-after-work-exposure",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I make a claim against chemical maker if not my employer after work exposure?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, but you will have to reimburse workers comp for anything they paid out on your claim."
-      }
-    }
-  ],
+  "name": "Can I make a claim against chemical maker if not my employer after work exposure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make a claim against chemical maker if not my employer after work exposure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, but you will have to reimburse workers comp for anything they paid out on your claim.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, but you will have to reimburse workers comp for anything they paid out on your claim."
 }

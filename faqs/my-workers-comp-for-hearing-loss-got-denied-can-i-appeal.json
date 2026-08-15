@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "My workers comp for hearing loss got denied, can I appeal?",
-  "description": "Yes, appeal with better medical proof and lawyer.",
   "url": "https://justworkcomplaw.com/faq/my-workers-comp-for-hearing-loss-got-denied-can-i-appeal",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "My workers comp for hearing loss got denied, can I appeal?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, appeal with better medical proof and lawyer."
-      }
-    }
-  ],
+  "name": "My workers comp for hearing loss got denied, can I appeal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "My workers comp for hearing loss got denied, can I appeal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, appeal with better medical proof and lawyer.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, appeal with better medical proof and lawyer."
 }

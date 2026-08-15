@@ -1,19 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Deposition coming for comp in West Jordan, watch prior injuries?",
-  "description": "Yes, full honest disclosure of all priors prevents traps.",
   "url": "https://justworkcomplaw.com/faq/deposition-coming-for-comp-in-west-jordan-watch-prior-injuries",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Deposition coming for comp in West Jordan, watch prior injuries?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, full honest disclosure of all priors prevents traps."
-      }
-    }
-  ],
+  "name": "Deposition coming for comp in West Jordan, watch prior injuries?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -22,5 +11,16 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Deposition coming for comp in West Jordan, watch prior injuries?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, full honest disclosure of all priors prevents traps.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, full honest disclosure of all priors prevents traps."
 }

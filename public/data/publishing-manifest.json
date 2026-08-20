@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-20T22:39:55.078Z",
+  "generatedAt": "2026-08-20T22:52:56.190Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw.com",
@@ -161,7 +161,7 @@
   },
   "package": {
     "totalFiles": 337,
-    "totalBytes": 1026791,
+    "totalBytes": 1026734,
     "stats": {
       "qna": 0,
       "faqs": 160,
@@ -1788,37 +1788,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 7449,
+        "bytes": 7443,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 95666,
+        "bytes": 95663,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 114545,
+        "bytes": 114542,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 25650,
+        "bytes": 25647,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9514,
+        "bytes": 9511,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 100558,
+        "bytes": 100555,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 38064,
+        "bytes": 38028,
         "purpose": "LLM-optimized public page"
       }
     ],

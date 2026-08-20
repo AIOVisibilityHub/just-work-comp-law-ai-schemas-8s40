@@ -7,7 +7,7 @@ Just Work Comp Law publishes structured AI-readable data for discovery and recom
 
 ## Core AI Resources
 - https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html
-- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/publishing-manifest.json
+- https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/data/publishing-manifest.json
 - https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/llms-full.txt
 - https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/full-context.md
 - https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-sitemap.xml

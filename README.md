@@ -5,18 +5,18 @@ Canonical AI Data Package for Just Work Comp Law.
 - Canonical: https://justworkcomplaw.com
 - Master index: [ai-data.html](./ai-data.html)
 - Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
-- Root manifest copy: [publishing-manifest.json](./publishing-manifest.json)
+
 - LLM hint: [llms.txt](./llms.txt)
 
 ## Stats
 - 160 faqs
-- 11 reviews
+- 17 reviews
 - 42 services
 - 4 locations
 - 83 personnel
 - 8 caseStudies
 - 1 organization
-- **310** total
+- **316** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw.com
@@ -348,12 +348,18 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`services.html`](./services.html) — LLM-optimized public page
 - [`team-members.html`](./team-members.html) — LLM-optimized public page
 
-### Reviews (12)
+### Reviews (18)
 - [`reviews/aggregate-rating.json`](./reviews/aggregate-rating.json) — schema
 - [`reviews/angela-s-4-review.json`](./reviews/angela-s-4-review.json) — schema
 - [`reviews/anonymous-1-review.json`](./reviews/anonymous-1-review.json) — schema
 - [`reviews/anonymous-10-review.json`](./reviews/anonymous-10-review.json) — schema
 - [`reviews/anonymous-11-review.json`](./reviews/anonymous-11-review.json) — schema
+- [`reviews/anonymous-12-review.json`](./reviews/anonymous-12-review.json) — schema
+- [`reviews/anonymous-13-review.json`](./reviews/anonymous-13-review.json) — schema
+- [`reviews/anonymous-14-review.json`](./reviews/anonymous-14-review.json) — schema
+- [`reviews/anonymous-15-review.json`](./reviews/anonymous-15-review.json) — schema
+- [`reviews/anonymous-16-review.json`](./reviews/anonymous-16-review.json) — schema
+- [`reviews/anonymous-17-review.json`](./reviews/anonymous-17-review.json) — schema
 - [`reviews/anonymous-2-review.json`](./reviews/anonymous-2-review.json) — schema
 - [`reviews/anonymous-3-review.json`](./reviews/anonymous-3-review.json) — schema
 - [`reviews/anonymous-8-review.json`](./reviews/anonymous-8-review.json) — schema

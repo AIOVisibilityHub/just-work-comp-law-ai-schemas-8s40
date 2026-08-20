@@ -1,14 +1,14 @@
 # Just Work Comp Law — Full AI Context
 
 **Canonical URL:** https://justworkcomplaw.com
-**Generated:** 2026-08-15
+**Generated:** 2026-08-20
 
 ## Overview
 Just Work Comp Law publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
 - **160** faqs
-- **11** reviews
+- **17** reviews
 - **42** services
 - **4** locations
 - **83** personnel
@@ -146,4 +146,4 @@ Purpose: transparent source discovery, entity consistency, mirror verification, 
 - Lindon
 
 ## Machine-Readable Index
-See [publishing-manifest.json](./publishing-manifest.json) for the full file index with categories, byte counts, and purposes.
+See [data/publishing-manifest.json](./data/publishing-manifest.json) for the full file index with categories, byte counts, and purposes.

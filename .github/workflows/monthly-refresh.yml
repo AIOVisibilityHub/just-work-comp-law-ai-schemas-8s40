@@ -24,8 +24,8 @@ jobs:
           git diff --staged --quiet || (git commit -m '📅 Monthly refresh - Just Work Comp Law' && git push)
       - name: Ping IndexNow (Bing, Copilot, Yandex, AI crawlers)
         run: |
-          SITE="https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40"
-          KEY="30e874249cfa3956116b39af6afc274f"
+          SITE="https://justworkcomplaw-data.aiovisibility.net"
+          KEY="3c41f680a96ceb81de3681b4d4ce760c"
           HOST=$(echo "$SITE" | sed -E 's#https?://##; s#/.*##')
           if [ -f ai-sitemap.xml ]; then
             URLS=$(grep -o '<loc>[^<]*</loc>' ai-sitemap.xml | sed 's#</\?loc>##g' | grep "^$SITE" | head -9000 | jq -R . | jq -sc .)

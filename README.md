@@ -20,9 +20,9 @@ Canonical AI Data Package for Just Work Comp Law.
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw-data.aiovisibility.net
-- [ai-data-hub] Just Work Comp Law — AI Data Hub — https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html
+- [ai-data-hub] Just Work Comp Law — AI Data Hub — https://justworkcomplaw-data.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://justworkcomplaw-data.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

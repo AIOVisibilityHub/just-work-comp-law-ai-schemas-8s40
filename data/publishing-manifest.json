@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T21:57:51.168Z",
+  "generatedAt": "2026-08-21T23:14:21.413Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
-    "pagesUrl": "https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40",
+    "pagesUrl": "https://justworkcomplaw-data.aiovisibility.net",
     "phone": "801-746-0290",
     "email": "info@davis-sanchez.com",
     "locations": [
@@ -161,7 +161,7 @@
   },
   "package": {
     "totalFiles": 337,
-    "totalBytes": 1028902,
+    "totalBytes": 1026586,
     "stats": {
       "qna": 0,
       "faqs": 160,
@@ -1788,49 +1788,49 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 7595,
+        "bytes": 13118,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 95834,
+        "bytes": 101363,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 114713,
+        "bytes": 120566,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 26142,
+        "bytes": 31605,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9720,
+        "bytes": 15258,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 100726,
+        "bytes": 106258,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 38199,
+        "bytes": 43707,
         "purpose": "LLM-optimized public page"
       }
     ],
     "root": [
       {
         "path": "robots.txt",
-        "bytes": 379,
+        "bytes": 333,
         "purpose": "Robots policy"
       },
       {
         "path": "llms.txt",
-        "bytes": 4260,
+        "bytes": 4099,
         "purpose": "LLM hint"
       },
       {
@@ -1840,7 +1840,7 @@
       },
       {
         "path": "index.html",
-        "bytes": 388,
+        "bytes": 365,
         "purpose": "Landing page (redirects to ai-data.html)"
       },
       {
@@ -1850,42 +1850,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1702,
+        "bytes": 1610,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 156928,
+        "bytes": 149246,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 52282,
+        "bytes": 44669,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 52282,
+        "bytes": 44669,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4113,
+        "bytes": 4067,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 49143,
+        "bytes": 49097,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 61827,
+        "bytes": 44407,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1478,
+        "bytes": 958,
         "purpose": "Standard sitemap"
       }
     ]
@@ -1893,7 +1893,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40",
-      "pagesUrl": "https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/",
+      "pagesUrl": "https://justworkcomplaw-data.aiovisibility.net/",
       "repo": "AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40"
     }
   }

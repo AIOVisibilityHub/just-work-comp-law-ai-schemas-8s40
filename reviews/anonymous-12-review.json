@@ -15,7 +15,7 @@
   "itemReviewed": {
     "@type": "Organization",
     "name": "Just Work Comp Law",
-    "url": "https://justworkcomplaw.com/",
+    "url": "https://justworkcomplaw-data.aiovisibility.net",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {

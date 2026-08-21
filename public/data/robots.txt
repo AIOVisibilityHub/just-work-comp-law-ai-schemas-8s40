@@ -16,5 +16,5 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/sitemap.xml
-Sitemap: https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-sitemap.xml
+Sitemap: https://justworkcomplaw-data.aiovisibility.net/sitemap.xml
+Sitemap: https://justworkcomplaw-data.aiovisibility.net/ai-sitemap.xml

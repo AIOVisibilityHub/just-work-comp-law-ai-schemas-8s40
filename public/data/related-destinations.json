@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-21T21:57:51.160Z",
+  "generatedAt": "2026-08-21T23:14:21.407Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -12,7 +12,7 @@
   "entity": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
-    "aiDataHub": "https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html"
+    "aiDataHub": "https://justworkcomplaw-data.aiovisibility.net/ai-data.html"
   },
   "related": [
     {
@@ -23,7 +23,7 @@
     {
       "role": "ai-data-hub",
       "label": "Just Work Comp Law — AI Data Hub",
-      "url": "https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html"
+      "url": "https://justworkcomplaw-data.aiovisibility.net/ai-data.html"
     },
     {
       "role": "mirror-repo",
@@ -35,13 +35,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html"
+      "url": "https://justworkcomplaw-data.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40",
-      "pagesUrl": "https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/",
+      "pagesUrl": "https://justworkcomplaw-data.aiovisibility.net/",
       "repo": "AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40"
     }
   }

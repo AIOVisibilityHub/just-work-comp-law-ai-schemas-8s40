@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-20T22:52:56.190Z",
+  "generatedAt": "2026-08-21T21:57:51.168Z",
   "client": {
     "name": "Just Work Comp Law",
-    "canonicalUrl": "https://justworkcomplaw.com",
+    "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
     "pagesUrl": "https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40",
     "phone": "801-746-0290",
     "email": "info@davis-sanchez.com",
@@ -161,7 +161,7 @@
   },
   "package": {
     "totalFiles": 337,
-    "totalBytes": 1026734,
+    "totalBytes": 1028902,
     "stats": {
       "qna": 0,
       "faqs": 160,
@@ -1696,129 +1696,129 @@
     "reviews": [
       {
         "path": "reviews/anonymous-1-review.json",
-        "bytes": 549,
+        "bytes": 567,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-2-review.json",
-        "bytes": 671,
+        "bytes": 689,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-3-review.json",
-        "bytes": 669,
+        "bytes": 687,
         "purpose": "schema"
       },
       {
         "path": "reviews/angela-s-4-review.json",
-        "bytes": 556,
+        "bytes": 574,
         "purpose": "schema"
       },
       {
         "path": "reviews/laura-b-5-review.json",
-        "bytes": 636,
+        "bytes": 654,
         "purpose": "schema"
       },
       {
         "path": "reviews/ruben-l-6-review.json",
-        "bytes": 710,
+        "bytes": 728,
         "purpose": "schema"
       },
       {
         "path": "reviews/gary-t-7-review.json",
-        "bytes": 519,
+        "bytes": 537,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-8-review.json",
-        "bytes": 592,
+        "bytes": 610,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-9-review.json",
-        "bytes": 456,
+        "bytes": 474,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-10-review.json",
-        "bytes": 547,
+        "bytes": 565,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-11-review.json",
-        "bytes": 672,
+        "bytes": 690,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-12-review.json",
-        "bytes": 471,
+        "bytes": 489,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-13-review.json",
-        "bytes": 520,
+        "bytes": 538,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-14-review.json",
-        "bytes": 515,
+        "bytes": 533,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-15-review.json",
-        "bytes": 719,
+        "bytes": 737,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-16-review.json",
-        "bytes": 579,
+        "bytes": 597,
         "purpose": "schema"
       },
       {
         "path": "reviews/anonymous-17-review.json",
-        "bytes": 590,
+        "bytes": 608,
         "purpose": "schema"
       },
       {
         "path": "reviews/aggregate-rating.json",
-        "bytes": 215,
+        "bytes": 233,
         "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 7443,
+        "bytes": 7595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 95663,
+        "bytes": 95834,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 114542,
+        "bytes": 114713,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 25647,
+        "bytes": 26142,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9511,
+        "bytes": 9720,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 100555,
+        "bytes": 100726,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 38028,
+        "bytes": 38199,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -1830,7 +1830,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4222,
+        "bytes": 4260,
         "purpose": "LLM hint"
       },
       {
@@ -1850,32 +1850,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1664,
+        "bytes": 1702,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 156852,
+        "bytes": 156928,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 52244,
+        "bytes": 52282,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 52244,
+        "bytes": 52282,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4075,
+        "bytes": 4113,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 49105,
+        "bytes": 49143,
         "purpose": "Repository README"
       },
       {

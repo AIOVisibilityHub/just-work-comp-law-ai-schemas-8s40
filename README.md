@@ -2,7 +2,7 @@
 
 Canonical AI Data Package for Just Work Comp Law.
 
-- Canonical: https://justworkcomplaw.com
+- Canonical: https://justworkcomplaw-data.aiovisibility.net
 - Master index: [ai-data.html](./ai-data.html)
 - Source-of-truth manifest: [data/publishing-manifest.json](./data/publishing-manifest.json)
 
@@ -19,7 +19,7 @@ Canonical AI Data Package for Just Work Comp Law.
 - **316** total
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw.com
+- [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw-data.aiovisibility.net
 - [ai-data-hub] Just Work Comp Law — AI Data Hub — https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/just-work-comp-law-ai-schemas-8s40/ai-data.html

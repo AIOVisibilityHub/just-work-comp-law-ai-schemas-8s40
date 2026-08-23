@@ -348,7 +348,7 @@ def build_index():
     ]
     sections = [(name, url) for name, url in all_sections if url in BUILT_PAGES]
     quick_links = ''.join(
-        f'<li style="margin:0.5rem 0;"><a href="{url}" style="font-size:1.1em;font-weight:500;">{esc(name)}</a></li>'
+        f'<li><a href="{page_url(url)}">{esc(name)}</a></li>'
         for name, url in sections
     )
 
@@ -371,15 +371,15 @@ def build_index():
         if links:
             grouped.append(f'<details class="card"><summary><strong>{esc(directory)}/</strong> ({len(links)} files)</summary><ul>{"".join(links)}</ul></details>')
 
+    official = f'<p class="official"><strong>Official website:</strong> <a href="{esc(PRIMARY_WEBSITE)}">{esc(PRIMARY_WEBSITE)}</a></p>' if PRIMARY_WEBSITE else ''
     content = f"""
-<p>Welcome to this public resource center for {esc(BIZ)}. These pages are designed to be readable for people and easy for AI systems and search engines to crawl.</p>
-<h2>&#x1F680; Quick Navigation</h2>
-<ul style="list-style:none;padding:0;">{quick_links}</ul>
-<h2 id="files">&#x1F4C1; Browse All Schema Files</h2>
-<p>Each section below links directly to the generated repository files.</p>
-{''.join(grouped) if grouped else '<p>No schema files were found.</p>'}
+<p class="speakable">This public resource center organizes machine-readable information about {esc(BIZ)} for people, search engines, and AI systems.</p>
+{official}
+<section class="card"><h2>Purpose of this resource center</h2><p>The official business website remains the primary public website. Use the links below to access readable pages and the underlying structured resources without broken directory routes.</p></section>
+<section class="card"><h2>Resource categories</h2><ul>{quick_links}</ul></section>
+<section class="card"><h2>Browse all schema files</h2><p>Each section below links directly to the generated repository files.</p>{''.join(grouped) if grouped else '<p>No schema files were found.</p>'}</section>
 """
-    write_page('index.html', f'Welcome to {BIZ}', content, f'{BIZ}: public resource center with crawlable schema files and readable HTML pages.', [org_ld()])
+    write_page('index.html', f'{BIZ} AI Resource Center', content, f'A machine-readable resource index for {BIZ} with services, FAQs, articles, team information, locations, reviews, and other published resources.', [org_ld()])
 
 def build_about():
     parts = []

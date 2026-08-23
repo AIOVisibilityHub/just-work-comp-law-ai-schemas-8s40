@@ -320,9 +320,20 @@ def item_list_ld(name, names):
         ],
     }
 
+PUBLISHER_MARKER = 'ae-publisher-page'
+
 def write_page(filename, title, content, desc='', extra_ld=None):
     global current_page
     current_page = filename
+    # Never clobber a page authored by the app publisher.
+    try:
+        if os.path.exists(filename):
+            with open(filename, encoding='utf-8') as existing:
+                if PUBLISHER_MARKER in existing.read(4000):
+                    print(f'  \u23ed  {filename} (publisher-authored, kept)')
+                    return
+    except Exception:
+        pass
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(sanitize_vertical(page_shell(title, content, desc, extra_ld, filename)))
     print(f'  \u2705 {filename}')

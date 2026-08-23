@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T18:01:58.464Z",
+  "generatedAt": "2026-08-23T18:03:15.526Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -12,6 +12,7 @@
   "entity": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
+    "primaryWebsiteUrl": "https://justworkcomplaw.com",
     "aiDataHub": "https://justworkcomplaw-data.aiovisibility.net/ai-data.html"
   },
   "related": [

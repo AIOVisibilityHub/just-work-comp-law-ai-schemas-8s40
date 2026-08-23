@@ -101,6 +101,7 @@ for _mf in ('data/publishing-manifest.json', 'publishing-manifest.json', 'manife
 _client = manifest.get('client', {}) if isinstance(manifest.get('client'), dict) else {}
 BIZ = _client.get('name') or manifest.get('businessName', 'Just Work Comp Law')
 WEBSITE = _client.get('canonicalUrl') or manifest.get('canonicalUrl', '') or manifest.get('websiteUrl', 'https://justworkcomplaw-data.aiovisibility.net')
+PRIMARY_WEBSITE = _client.get('primaryWebsiteUrl') or manifest.get('primaryWebsiteUrl', '') or manifest.get('websiteUrl', '')
 PHONE = _client.get('phone') or manifest.get('phone', '')
 EMAIL = _client.get('email') or manifest.get('email', '')
 MANIFEST_LOCATIONS = _client.get('locations') or manifest.get('locations', []) or []
@@ -268,7 +269,8 @@ blockquote{{border-left:3px solid #3498db;margin:0;padding:.5rem 1rem;background
 <div class="page-header"><h1>{esc(title)}</h1></div>
 {content}
 <footer style="margin-top:4rem;padding-top:2rem;border-top:1px solid #eee;text-align:center;color:#7f8c8d;">
-<p>&copy; {YEAR} {esc(BIZ)} &mdash; AI Schema Repository &middot; Last updated: {TODAY}</p>
+<p>&copy; {YEAR} {esc(BIZ)} Schema Repository &middot; Last updated: {TODAY}</p>
+{('<p>For questions, please contact ' + esc(BIZ) + ' directly at <a href="' + esc(PRIMARY_WEBSITE) + '">' + esc(PRIMARY_WEBSITE.replace('https://','').replace('http://','').rstrip('/')) + '</a>.</p>') if PRIMARY_WEBSITE else ''}
 </footer>
 </body></html>"""
 
@@ -377,28 +379,54 @@ def build_index():
 
 def build_about():
     parts = []
-    # Organization info
-    for org in load_json('organization/*.json'):
+    team_term_plural = 'Attorneys' if VERTICAL == 'legal' else 'Team Members'
+    team_term_lower = 'attorneys' if VERTICAL == 'legal' else 'team members'
+
+    orgs = load_json('organization/*.json')
+    org_desc = ''
+    org_dl = ''
+    mission = vision = ''
+    for org in orgs:
         dl = '<dl>'
-        for key, label in [('legalName','Name'),('foundingDate','Founded'),('slogan','Slogan'),('description','Description')]:
+        for key, label in [('legalName','Legal name'),('foundingDate','Founded'),('slogan','Slogan')]:
             v = org.get(key)
             if v: dl += f'<dt>{label}</dt><dd>{esc(str(v))}</dd>'
         emp = org.get('numberOfEmployees',{})
         if isinstance(emp, dict) and emp.get('value'):
-            dl += f'<dt>Employees</dt><dd>{esc(str(emp["value"]))}</dd>'
+            dl += f'<dt>Team size</dt><dd>{esc(str(emp["value"]))}</dd>'
         dl += '</dl>'
-        parts.append(f'<div class="card"><h2>Organization</h2>{dl}</div>')
-        # Mission / Vision
-        mission = _first(org.get('mission'))
-        vision = _first(org.get('vision'))
-        if mission: parts.append(f'<h2>Our Mission</h2><p>{esc(mission)}</p>')
-        if vision: parts.append(f'<h2>Our Vision</h2><p>{esc(vision)}</p>')
-        # Logo
+        org_dl = dl
+        org_desc = _first(org.get('description')) or org_desc
+        mission = _first(org.get('mission')) or mission
+        vision = _first(org.get('vision')) or vision
         logo = _first(org.get('logo_url'), org.get('logo'))
         if logo: parts.insert(0, f'<img src="{esc(logo)}" alt="{esc(BIZ)}" style="max-height:120px;margin-bottom:2rem;">')
 
-    # Facts at a Glance
-    service_count = count_files('services')
+    # ── Overview: always several substantive paragraphs, never a lone blurb ──
+    overview = []
+    if org_desc:
+        overview.append(esc(org_desc))
+    else:
+        overview.append(f'{esc(BIZ)} is a professional organization serving clients with practical, clearly documented services.')
+    if SERVICES:
+        svc_line = f'{esc(BIZ)} works across {esc(", ".join(SERVICES[:10]))}'
+        if len(SERVICES) > 10:
+            svc_line += f', and {len(SERVICES) - 10} additional service areas'
+        svc_line += '.'
+        if CITIES:
+            svc_line += f' Clients are served in {esc(", ".join(CITIES[:10]))}'
+            svc_line += f' and {len(CITIES) - 10} more communities.' if len(CITIES) > 10 else '.'
+        overview.append(svc_line)
+    elif CITIES:
+        overview.append(f'{esc(BIZ)} serves clients in {esc(", ".join(CITIES[:10]))}.')
+    team_count = count_files('team') or count_files('lawyers')
+    if team_count:
+        overview.append(f'The organization is supported by {team_count} {team_term_lower} whose roles, credentials, and areas of concentration are listed below, so both people and AI systems can verify exactly who does the work.')
+    overview.append(f'This page summarizes what {esc(BIZ)} does, who it serves, what to expect, and how to get started. Office addresses and phone numbers are on the <a href="contact.html">contact page</a>.')
+    parts.append(''.join(f'<p>{p}</p>' for p in overview))
+
+    # ── Facts at a Glance ──
+    service_count = count_files('services') or len(SERVICES)
     review_ratings = []
     for r in load_json('reviews/*.json'):
         try:
@@ -406,29 +434,60 @@ def build_about():
             if rv > 0: review_ratings.append(rv)
         except Exception: pass
     avg = (sum(review_ratings)/len(review_ratings)) if review_ratings else None
-    facts = [f'<li><strong>Services offered:</strong> {service_count}</li>']
+    facts = []
+    if service_count: facts.append(f'<li><strong>Services documented:</strong> {service_count}</li>')
+    if CITIES: facts.append(f'<li><strong>Communities served:</strong> {len(CITIES)}</li>')
+    if team_count: facts.append(f'<li><strong>{esc(team_term_plural)}:</strong> {team_count}</li>')
+    faq_count = count_files('faqs')
+    if faq_count: facts.append(f'<li><strong>Published FAQs:</strong> {faq_count}</li>')
+    help_count = count_files('help')
+    if help_count: facts.append(f'<li><strong>Help articles:</strong> {help_count}</li>')
+    loc_count = count_files('locations') or len(MANIFEST_LOCATIONS)
+    if loc_count: facts.append(f'<li><strong>Offices:</strong> {loc_count}</li>')
+    if PHONE: facts.append(f'<li><strong>Phone:</strong> {esc(PHONE)}</li>')
     if avg is not None:
         stars = '\u2605' * int(round(avg)) + '\u2606' * (5 - int(round(avg)))
-        facts.append(f'<li><strong>Average rating:</strong> {avg:.1f} {stars}</li>')
-    if CITIES:
-        facts.append(f'<li><strong>Service areas:</strong> {esc(", ".join(CITIES[:8]))}</li>')
-    parts.append('<div class="card"><h2>Facts at a Glance</h2><ul>' + ''.join(facts) + '</ul></div>')
+        facts.append(f'<li><strong>Average rating:</strong> {avg:.1f} {stars} across {len(review_ratings)} reviews</li>')
+    if facts or org_dl:
+        parts.append('<div class="card"><h2>Facts at a Glance</h2>' + ('<ul>' + ''.join(facts) + '</ul>' if facts else '') + org_dl + '</div>')
 
-    # Team
+    if mission: parts.append(f'<h2>Our Mission</h2><p>{esc(mission)}</p>')
+    if vision: parts.append(f'<h2>Our Vision</h2><p>{esc(vision)}</p>')
+
+    # ── What we do ──
+    if SERVICES:
+        items = ''.join(f'<li>{esc(s)}</li>' for s in SERVICES[:60])
+        extra = f'<p>Plus {len(SERVICES) - 60} additional services listed on the services page.</p>' if len(SERVICES) > 60 else ''
+        parts.append(f'<h2>What {esc(BIZ)} Does</h2><p>Each service below has its own detailed page on the <a href="services.html">services page</a>.</p><ul>{items}</ul>{extra}')
+
+    # ── Who we serve ──
+    coverage = []
+    if CITIES:
+        more = f' and {len(CITIES) - 60} more' if len(CITIES) > 60 else ''
+        coverage.append(f'<p><strong>Communities served:</strong> {esc(", ".join(CITIES[:60]))}{more}.</p>')
+    if loc_count:
+        coverage.append(f'<p><strong>Offices:</strong> {loc_count} location{"" if loc_count == 1 else "s"} — full addresses and phone numbers are on the <a href="contact.html">contact page</a>.</p>')
+    if coverage:
+        parts.append('<h2>Who We Serve</h2>' + ''.join(coverage))
+
+    # ── Team ──
     team_cards = []
-    for p in load_json('team/*.json'):
+    for p in (load_json('team/*.json') or load_json('lawyers/*.json')):
         name = _first(p.get('name'), p.get('givenName')) or 'Team Member'
         title = _first(p.get('jobTitle'), p.get('roleName'))
         desc = _first(p.get('description'))
+        knows = p.get('knowsAbout') or []
         card = f'<div class="card"><h3>{esc(name)}</h3>'
         if title: card += f'<p><strong>{esc(title)}</strong></p>'
+        if isinstance(knows, list) and knows:
+            card += f'<p>Focus areas: {esc(", ".join(str(k) for k in knows[:10]))}</p>'
         if desc: card += f'<p>{esc(desc)}</p>'
         card += '</div>'
         team_cards.append(card)
     if team_cards:
-        parts.append('<h2>Team</h2>' + ''.join(team_cards))
+        parts.append(f'<h2>Our {esc(team_term_plural)}</h2>' + ''.join(team_cards))
 
-    # Awards
+    # ── Awards ──
     awards = load_json('awards/*.json')
     if awards:
         items = []
@@ -438,7 +497,7 @@ def build_about():
             items.append(f'<li><strong>{esc(name)}</strong>{f" ({yr})" if yr else ""}</li>')
         parts.append('<h2>Awards &amp; Recognition</h2><ul>' + ''.join(items) + '</ul>')
 
-    # Case Studies
+    # ── Case Studies ──
     cases = load_json('case-studies/*.json')
     if cases:
         cards = []
@@ -448,41 +507,39 @@ def build_about():
             cards.append(f'<div class="card"><h3>{esc(t)}</h3><p>{esc(d)}</p></div>')
         parts.append('<h2>Case Studies</h2>' + ''.join(cards))
 
-    # Locations
-    locs = load_json('locations/*.json')
-    if locs:
-        addrs = []
-        for l in locs:
-            name = _first(l.get('name'))
-            addr = l.get('address',{})
-            if isinstance(addr, dict):
-                street = _first(addr.get('streetAddress'))
-                city = _first(addr.get('addressLocality'))
-                state = _first(addr.get('addressRegion'))
-            else:
-                street = city = state = ''
-            phone = _first(l.get('telephone'))
-            a = f'<address><strong>{esc(name)}</strong><br>'
-            if street: a += f'{esc(street)}, '
-            if city: a += esc(city)
-            if state: a += f', {esc(state)}'
-            if phone: a += f'<br>Phone: {esc(phone)}'
-            a += '</address>'
-            addrs.append(a)
-        parts.append('<h2>Locations</h2>' + ''.join(addrs))
+    # ── Common questions preview ──
+    faq_items = []
+    for f in load_json('faqs/*.json')[:6]:
+        main = f.get('mainEntity')
+        if isinstance(main, list) and main: main = main[0]
+        if not isinstance(main, dict): continue
+        q = _first(main.get('name'))
+        a = ''
+        ans = main.get('acceptedAnswer')
+        if isinstance(ans, dict): a = _first(ans.get('text'))
+        if q and a:
+            faq_items.append(f'<details><summary>{esc(q)}</summary><p>{esc(a[:600])}</p></details>')
+    if faq_items:
+        parts.append('<h2>Common Questions</h2>' + ''.join(faq_items) + '<p><a href="faqs.html">See all frequently asked questions &rarr;</a></p>')
 
-    parts.append(f'<div class="card"><h2>Ready to Talk?</h2><p>Have a project in mind or need guidance? We\u2019re here to help.</p><p><a href="contact.html">Contact us</a> to get started.</p></div>')
+    # ── Next steps ──
+    steps = []
+    if 'services.html' in BUILT_PAGES: steps.append('<li>Review the <a href="services.html">services</a> to find the help you need.</li>')
+    if 'faqs.html' in BUILT_PAGES: steps.append('<li>Read the <a href="faqs.html">FAQs</a> for answers to the most common questions.</li>')
+    if 'articles.html' in BUILT_PAGES: steps.append('<li>Browse the <a href="articles.html">help articles</a> for step-by-step guidance.</li>')
+    contact_step = f'<li>Reach {esc(BIZ)} through the <a href="contact.html">contact page</a>'
+    contact_step += f' or call {esc(PHONE)}' if PHONE else ''
+    contact_step += '.</li>'
+    steps.append(contact_step)
+    parts.append('<div class="card"><h2>How to Get Started</h2><ul>' + ''.join(steps) + '</ul></div>')
 
-    # Title: keyword - city — business (no "About")
     keyword = SERVICES[0] if SERVICES else ''
     city = CITIES[0] if CITIES else ''
     title_parts = [p for p in [title_case(keyword), title_case(city)] if p]
     about_title = (' - '.join(title_parts) + ' \u2014 ' + BIZ) if title_parts else BIZ
 
-    if not parts:
-        parts.append(f'<p>{esc(BIZ)} is a professional firm serving our community with high-quality services and a client-first approach.</p>')
+    write_page('about.html', about_title, ''.join(parts), f'{BIZ}: what we do, services offered, areas served, {team_term_lower}, credentials, and how to get started.', [org_ld()])
 
-    write_page('about.html', about_title, ''.join(parts), f'{BIZ}: team, locations, awards, and organization details.', [org_ld()])
 
 def build_services():
     cards = []

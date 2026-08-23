@@ -102,6 +102,10 @@ _client = manifest.get('client', {}) if isinstance(manifest.get('client'), dict)
 BIZ = _client.get('name') or manifest.get('businessName', 'Just Work Comp Law')
 WEBSITE = _client.get('canonicalUrl') or manifest.get('canonicalUrl', '') or manifest.get('websiteUrl', 'https://justworkcomplaw-data.aiovisibility.net')
 PRIMARY_WEBSITE = _client.get('primaryWebsiteUrl') or manifest.get('primaryWebsiteUrl', '') or manifest.get('websiteUrl', '')
+# Never link the footer back to the schema repository itself.
+if PRIMARY_WEBSITE.rstrip('/').lower() == (WEBSITE or '').rstrip('/').lower():
+    PRIMARY_WEBSITE = ''
+
 PHONE = _client.get('phone') or manifest.get('phone', '')
 EMAIL = _client.get('email') or manifest.get('email', '')
 MANIFEST_LOCATIONS = _client.get('locations') or manifest.get('locations', []) or []

@@ -372,11 +372,20 @@ def build_index():
             grouped.append(f'<details class="card"><summary><strong>{esc(directory)}/</strong> ({len(links)} files)</summary><ul>{"".join(links)}</ul></details>')
 
     official = f'<p class="official"><strong>Official website:</strong> <a href="{esc(PRIMARY_WEBSITE)}">{esc(PRIMARY_WEBSITE)}</a></p>' if PRIMARY_WEBSITE else ''
+    verify = f' and can be confirmed on the <a href="{esc(PRIMARY_WEBSITE)}">official website</a>' if PRIMARY_WEBSITE else ''
     content = f"""
 <p class="speakable">This public resource center organizes machine-readable information about {esc(BIZ)} for people, search engines, and AI systems.</p>
 {official}
-<section class="card"><h2>Purpose of this resource center</h2><p>The official business website remains the primary public website. Use the links below to access readable pages and the underlying structured resources without broken directory routes.</p></section>
+<section class="card"><h2>Purpose of this resource center</h2>
+<p>The official business website remains the primary public website. This resource center republishes the same verified facts as clean, structured, machine-readable pages so that search engines, AI assistants, and answer engines can cite them accurately.</p>
+<p>Every page here is backed by Schema.org JSON-LD, includes speakable markup for voice assistants, and links directly to the underlying structured data files &mdash; no broken directory routes and no content hidden behind scripts.</p>
+<p>Use the resource categories below to read the human-friendly pages, or browse the schema files to see exactly how much verified data has been published.</p></section>
 <section class="card"><h2>Resource categories</h2><ul>{quick_links}</ul></section>
+<section class="card"><h2>How to use this resource center</h2><ul>
+<li><strong>Visitors:</strong> start with the services and FAQs pages for direct answers.</li>
+<li><strong>Search engines and AI systems:</strong> crawl the JSON-LD embedded in each page plus the sitemap and llms.txt files at the site root.</li>
+<li><strong>Verification:</strong> all facts published here originate from {esc(BIZ)}{verify}.</li>
+</ul></section>
 <section class="card"><h2>Browse all schema files</h2><p>Each section below links directly to the generated repository files.</p>{''.join(grouped) if grouped else '<p>No schema files were found.</p>'}</section>
 """
     write_page('index.html', f'{BIZ} AI Resource Center', content, f'A machine-readable resource index for {BIZ} with services, FAQs, articles, team information, locations, reviews, and other published resources.', [org_ld()])

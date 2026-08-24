@@ -8,12 +8,11 @@ Just Work Comp Law publishes a structured AI Data Package designed for high-trus
 
 ## Package Contents
 - **160** faqs
-- **17** reviews
 - **42** services
-- **4** locations
 - **83** personnel
-- **8** caseStudies
+- **4** locations
 - **1** organization
+- **17** reviews
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw-data.aiovisibility.net

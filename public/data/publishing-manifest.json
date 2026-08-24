@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-23T18:36:25.927Z",
+  "generatedAt": "2026-08-24T21:24:23.453Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
@@ -161,8 +161,8 @@
     ]
   },
   "package": {
-    "totalFiles": 337,
-    "totalBytes": 978937,
+    "totalFiles": 338,
+    "totalBytes": 1036255,
     "stats": {
       "qna": 0,
       "faqs": 160,
@@ -1789,32 +1789,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11857,
+        "bytes": 17791,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 100175,
+        "bytes": 105872,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 114823,
+        "bytes": 120721,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 26252,
+        "bytes": 31760,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9792,
+        "bytes": 15375,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 100836,
+        "bytes": 106413,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 22399,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -1856,17 +1861,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 149246,
+        "bytes": 149521,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 44669,
+        "bytes": 44766,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 44669,
+        "bytes": 44766,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -1876,17 +1881,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 49097,
+        "bytes": 49172,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 44407,
+        "bytes": 44496,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 958,
+        "bytes": 1047,
         "purpose": "Standard sitemap"
       }
     ]

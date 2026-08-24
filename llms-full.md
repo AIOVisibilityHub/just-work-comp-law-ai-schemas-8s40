@@ -7,12 +7,11 @@ Just Work Comp Law maintains a canonical AI Data Package designed so AI systems 
 
 Package contents:
 - 160 faqs
-- 17 reviews
 - 42 services
-- 4 locations
 - 83 personnel
-- 8 caseStudies
+- 4 locations
 - 1 organization
+- 17 reviews
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw-data.aiovisibility.net
@@ -456,9 +455,8 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://justworkcomplaw-data.aiovisibility.net/faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json — schema
 - https://justworkcomplaw-data.aiovisibility.net/faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json — schema
 
-### Public Pages (8)
+### Public Pages (7)
 - https://justworkcomplaw-data.aiovisibility.net/about.html — LLM-optimized public page
-- https://justworkcomplaw-data.aiovisibility.net/case-studies.html — LLM-optimized public page
 - https://justworkcomplaw-data.aiovisibility.net/contact.html — LLM-optimized public page
 - https://justworkcomplaw-data.aiovisibility.net/faqs.html — LLM-optimized public page
 - https://justworkcomplaw-data.aiovisibility.net/index.html — LLM-optimized public page
@@ -485,14 +483,4 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://justworkcomplaw-data.aiovisibility.net/reviews/gary-t-7-review.json — schema
 - https://justworkcomplaw-data.aiovisibility.net/reviews/laura-b-5-review.json — schema
 - https://justworkcomplaw-data.aiovisibility.net/reviews/ruben-l-6-review.json — schema
-
-### Case Studies (8)
-- https://justworkcomplaw-data.aiovisibility.net/case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json — schema
-- https://justworkcomplaw-data.aiovisibility.net/case-studies/delivery-accident.json — schema
-- https://justworkcomplaw-data.aiovisibility.net/case-studies/employee-fall.json — schema
-- https://justworkcomplaw-data.aiovisibility.net/case-studies/industrial-accident.json — schema
-- https://justworkcomplaw-data.aiovisibility.net/case-studies/james-dodges-bankruptcy-with-million-dollar-payout-year-of-lost-wages-and-more.json — schema
-- https://justworkcomplaw-data.aiovisibility.net/case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json — schema
-- https://justworkcomplaw-data.aiovisibility.net/case-studies/lifting-injury.json — schema
-- https://justworkcomplaw-data.aiovisibility.net/case-studies/machine-accident.json — schema
 

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-24T21:52:57.710Z",
+  "generatedAt": "2026-08-24T22:00:29.028Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
@@ -161,24 +161,24 @@
     ]
   },
   "package": {
-    "totalFiles": 338,
-    "totalBytes": 996560,
+    "totalFiles": 329,
+    "totalBytes": 995929,
     "stats": {
-      "qna": 0,
       "faqs": 160,
-      "press": 0,
-      "total": 316,
-      "awards": 0,
-      "reviews": 17,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 0,
       "services": 42,
       "webpages": 0,
-      "locations": 4,
       "personnel": 83,
-      "caseStudies": 8,
-      "helpArticles": 0,
-      "organization": 1
+      "products": 0,
+      "locations": 4,
+      "awards": 0,
+      "caseStudies": 0,
+      "organization": 1,
+      "press": 0,
+      "reviews": 17,
+      "qna": 0,
+      "research": 0,
+      "total": 308
     }
   },
   "entrypoints": {
@@ -840,48 +840,6 @@
       {
         "path": "locations/st-george.json",
         "bytes": 314,
-        "purpose": "schema"
-      }
-    ],
-    "case-studies": [
-      {
-        "path": "case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json",
-        "bytes": 615,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json",
-        "bytes": 549,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/james-dodges-bankruptcy-with-million-dollar-payout-year-of-lost-wages-and-more.json",
-        "bytes": 558,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/employee-fall.json",
-        "bytes": 451,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/industrial-accident.json",
-        "bytes": 450,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/machine-accident.json",
-        "bytes": 456,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/lifting-injury.json",
-        "bytes": 454,
-        "purpose": "schema"
-      },
-      {
-        "path": "case-studies/delivery-accident.json",
-        "bytes": 451,
         "purpose": "schema"
       }
     ],
@@ -1789,37 +1747,32 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 12010,
+        "bytes": 17542,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 100220,
+        "bytes": 100899,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 114868,
+        "bytes": 120676,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 26297,
+        "bytes": 31715,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9837,
+        "bytes": 15330,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 100881,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "case-studies.html",
-        "bytes": 16523,
+        "bytes": 106368,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -1861,37 +1814,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 149521,
+        "bytes": 145574,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 44766,
+        "bytes": 43686,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 44766,
+        "bytes": 43686,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4067,
+        "bytes": 4047,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 49172,
+        "bytes": 47969,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 44496,
+        "bytes": 43374,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1047,
+        "bytes": 958,
         "purpose": "Standard sitemap"
       }
     ]

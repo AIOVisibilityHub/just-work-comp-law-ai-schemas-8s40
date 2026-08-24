@@ -10,13 +10,12 @@ Canonical AI Data Package for Just Work Comp Law.
 
 ## Stats
 - 160 faqs
-- 17 reviews
 - 42 services
-- 4 locations
 - 83 personnel
-- 8 caseStudies
+- 4 locations
 - 1 organization
-- **316** total
+- 17 reviews
+- **308** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw-data.aiovisibility.net
@@ -339,9 +338,8 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json`](./faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json) — schema
 - [`faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json`](./faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json) — schema
 
-### Public Pages (8)
+### Public Pages (7)
 - [`about.html`](./about.html) — LLM-optimized public page
-- [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
@@ -368,15 +366,5 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`reviews/gary-t-7-review.json`](./reviews/gary-t-7-review.json) — schema
 - [`reviews/laura-b-5-review.json`](./reviews/laura-b-5-review.json) — schema
 - [`reviews/ruben-l-6-review.json`](./reviews/ruben-l-6-review.json) — schema
-
-### Case Studies (8)
-- [`case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json`](./case-studies/blinded-by-workplace-horseplay-juan-gets-lost-wages-medical-expenses-and-more.json) — schema
-- [`case-studies/delivery-accident.json`](./case-studies/delivery-accident.json) — schema
-- [`case-studies/employee-fall.json`](./case-studies/employee-fall.json) — schema
-- [`case-studies/industrial-accident.json`](./case-studies/industrial-accident.json) — schema
-- [`case-studies/james-dodges-bankruptcy-with-million-dollar-payout-year-of-lost-wages-and-more.json`](./case-studies/james-dodges-bankruptcy-with-million-dollar-payout-year-of-lost-wages-and-more.json) — schema
-- [`case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json`](./case-studies/jane-lands-full-treatment-coverage-and-lost-wages-after-workplace-soccer-injury.json) — schema
-- [`case-studies/lifting-injury.json`](./case-studies/lifting-injury.json) — schema
-- [`case-studies/machine-accident.json`](./case-studies/machine-accident.json) — schema
 
 

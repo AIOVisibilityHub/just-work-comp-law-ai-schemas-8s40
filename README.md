@@ -339,8 +339,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json`](./faqs/what-if-the-machine-accident-was-kinda-my-fault-at-work.json) — schema
 - [`faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json`](./faqs/what-s-the-time-limit-to-claim-comp-for-slow-developing-lung-damage-from-my-job.json) — schema
 
-### Public Pages (7)
+### Public Pages (8)
 - [`about.html`](./about.html) — LLM-optimized public page
+- [`case-studies.html`](./case-studies.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page

@@ -10,11 +10,11 @@ Canonical AI Data Package for Just Work Comp Law.
 
 ## Stats
 - 160 faqs
-- 42 services
-- 83 personnel
-- 4 locations
-- 1 organization
 - 17 reviews
+- 42 services
+- 4 locations
+- 83 personnel
+- 1 organization
 - **308** total
 
 ## Cross-Destination Index — Related AI Data Sources

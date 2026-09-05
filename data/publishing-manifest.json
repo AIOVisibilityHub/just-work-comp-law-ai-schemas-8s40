@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-24T22:00:36.517Z",
+  "generatedAt": "2026-09-05T21:52:22.420Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
@@ -162,23 +162,23 @@
   },
   "package": {
     "totalFiles": 329,
-    "totalBytes": 962110,
+    "totalBytes": 995929,
     "stats": {
+      "qna": 0,
       "faqs": 160,
-      "helpArticles": 0,
+      "press": 0,
+      "total": 308,
+      "awards": 0,
+      "reviews": 17,
+      "products": 0,
+      "research": 0,
       "services": 42,
       "webpages": 0,
-      "personnel": 83,
-      "products": 0,
       "locations": 4,
-      "awards": 0,
+      "personnel": 83,
       "caseStudies": 0,
-      "organization": 1,
-      "press": 0,
-      "reviews": 17,
-      "qna": 0,
-      "research": 0,
-      "total": 308
+      "helpArticles": 0,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -1747,32 +1747,32 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11761,
+        "bytes": 17542,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 95247,
+        "bytes": 100899,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 114823,
+        "bytes": 120676,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 26252,
+        "bytes": 31715,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 9792,
+        "bytes": 15330,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 100836,
+        "bytes": 106368,
         "purpose": "LLM-optimized public page"
       },
       {

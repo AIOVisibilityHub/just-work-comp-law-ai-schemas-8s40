@@ -1,18 +1,18 @@
 # Just Work Comp Law — Full AI Context
 
 **Canonical URL:** https://justworkcomplaw-data.aiovisibility.net
-**Generated:** 2026-08-24
+**Generated:** 2026-09-05
 
 ## Overview
 Just Work Comp Law publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
 
 ## Package Contents
 - **160** faqs
-- **42** services
-- **83** personnel
-- **4** locations
-- **1** organization
 - **17** reviews
+- **42** services
+- **4** locations
+- **83** personnel
+- **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Just Work Comp Law — canonical website — https://justworkcomplaw-data.aiovisibility.net

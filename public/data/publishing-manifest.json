@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-24T22:13:09.318Z",
+  "generatedAt": "2026-09-24T22:18:08.834Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
@@ -162,7 +162,7 @@
   },
   "package": {
     "totalFiles": 329,
-    "totalBytes": 913163,
+    "totalBytes": 921574,
     "stats": {
       "qna": 0,
       "faqs": 160,
@@ -1789,7 +1789,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4099,
+        "bytes": 4944,
         "purpose": "LLM hint"
       },
       {
@@ -1809,32 +1809,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1666,
+        "bytes": 3963,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 145574,
+        "bytes": 147463,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 43686,
+        "bytes": 44531,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 43686,
+        "bytes": 44531,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4047,
+        "bytes": 4892,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 47969,
+        "bytes": 48814,
         "purpose": "Repository README"
       },
       {
@@ -1854,6 +1854,25 @@
       "url": "https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40",
       "pagesUrl": "https://justworkcomplaw-data.aiovisibility.net/",
       "repo": "AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/just-work-comp-law-ai-schemas-ffkk",
+      "pagesUrl": "https://just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io/"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/just-work-comp-law-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/just-work-comp-law-ai-schemas/",
+      "repo": "aiovisibilityhub/just-work-comp-law-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/just-work-comp-law-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/22947648"
     }
   }
 }

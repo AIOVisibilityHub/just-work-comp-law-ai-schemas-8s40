@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-24T22:18:08.834Z",
+  "generatedAt": "2026-10-25T00:21:23.867Z",
   "client": {
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
@@ -161,24 +161,24 @@
     ]
   },
   "package": {
-    "totalFiles": 329,
-    "totalBytes": 921574,
+    "totalFiles": 252,
+    "totalBytes": 828142,
     "stats": {
-      "qna": 0,
       "faqs": 160,
-      "press": 0,
-      "total": 308,
-      "awards": 0,
-      "reviews": 17,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 0,
       "services": 42,
       "webpages": 0,
+      "personnel": 6,
+      "products": 0,
       "locations": 4,
-      "personnel": 83,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 0,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 17,
+      "qna": 0,
+      "research": 0,
+      "total": 231
     }
   },
   "entrypoints": {
@@ -407,417 +407,32 @@
     "lawyers": [
       {
         "path": "lawyers/halston-t-davis-esq-profile.json",
-        "bytes": 933,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-salt-lake-city.json",
-        "bytes": 665,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-ogden.json",
-        "bytes": 656,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-st-george.json",
-        "bytes": 661,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-utah-county.json",
-        "bytes": 676,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-west-valley-city.json",
-        "bytes": 667,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-west-jordan.json",
-        "bytes": 662,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-sandy.json",
-        "bytes": 656,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-workers-compensation-law-salt-lake-city-faq.json",
-        "bytes": 916,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-workers-compensation-law-ogden-faq.json",
-        "bytes": 880,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-workers-compensation-law-st-george-faq.json",
-        "bytes": 900,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-workers-compensation-law-utah-county-faq.json",
-        "bytes": 904,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/halston-t-davis-esq-workers-compensation-law-west-valley-city-faq.json",
-        "bytes": 924,
+        "bytes": 2159,
         "purpose": "schema"
       },
       {
         "path": "lawyers/jared-l-mortenson-esq-profile.json",
-        "bytes": 888,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-salt-lake-city.json",
-        "bytes": 620,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-ogden.json",
-        "bytes": 611,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-st-george.json",
-        "bytes": 616,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-utah-county.json",
-        "bytes": 631,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-west-valley-city.json",
-        "bytes": 622,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-west-jordan.json",
-        "bytes": 617,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-sandy.json",
-        "bytes": 611,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-salt-lake-city-faq.json",
-        "bytes": 875,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-ogden-faq.json",
-        "bytes": 839,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-st-george-faq.json",
-        "bytes": 859,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-utah-county-faq.json",
-        "bytes": 863,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jared-l-mortenson-esq-workers-compensation-law-west-valley-city-faq.json",
-        "bytes": 883,
+        "bytes": 2113,
         "purpose": "schema"
       },
       {
         "path": "lawyers/mark-j-sanchez-esq-profile.json",
-        "bytes": 928,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-salt-lake-city.json",
-        "bytes": 660,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-ogden.json",
-        "bytes": 651,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-st-george.json",
-        "bytes": 656,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-utah-county.json",
-        "bytes": 671,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-west-valley-city.json",
-        "bytes": 662,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-west-jordan.json",
-        "bytes": 657,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-sandy.json",
-        "bytes": 651,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-salt-lake-city-faq.json",
-        "bytes": 882,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-ogden-faq.json",
-        "bytes": 846,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-st-george-faq.json",
-        "bytes": 866,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-utah-county-faq.json",
-        "bytes": 870,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-workers-compensation-law-west-valley-city-faq.json",
-        "bytes": 890,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-salt-lake-city-faq.json",
-        "bytes": 878,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-ogden-faq.json",
-        "bytes": 842,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-st-george-faq.json",
-        "bytes": 862,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-utah-county-faq.json",
-        "bytes": 866,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-j-sanchez-esq-spanish-speaking-clients-west-valley-city-faq.json",
-        "bytes": 886,
+        "bytes": 2126,
         "purpose": "schema"
       },
       {
         "path": "lawyers/blair-t-jones-esq-profile.json",
-        "bytes": 898,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-salt-lake-city.json",
-        "bytes": 630,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-ogden.json",
-        "bytes": 621,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-st-george.json",
-        "bytes": 626,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-utah-county.json",
-        "bytes": 641,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-west-valley-city.json",
-        "bytes": 632,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-west-jordan.json",
-        "bytes": 627,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-sandy.json",
-        "bytes": 621,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-workers-compensation-law-salt-lake-city-faq.json",
-        "bytes": 877,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-workers-compensation-law-ogden-faq.json",
-        "bytes": 841,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-workers-compensation-law-st-george-faq.json",
-        "bytes": 861,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-workers-compensation-law-utah-county-faq.json",
-        "bytes": 865,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/blair-t-jones-esq-workers-compensation-law-west-valley-city-faq.json",
-        "bytes": 885,
+        "bytes": 2123,
         "purpose": "schema"
       },
       {
         "path": "lawyers/mark-talley-esq-profile.json",
-        "bytes": 882,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-salt-lake-city.json",
-        "bytes": 614,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-ogden.json",
-        "bytes": 605,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-st-george.json",
-        "bytes": 610,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-utah-county.json",
-        "bytes": 625,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-west-valley-city.json",
-        "bytes": 616,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-west-jordan.json",
-        "bytes": 611,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-sandy.json",
-        "bytes": 605,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-workers-compensation-law-salt-lake-city-faq.json",
-        "bytes": 855,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-workers-compensation-law-ogden-faq.json",
-        "bytes": 819,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-workers-compensation-law-st-george-faq.json",
-        "bytes": 839,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-workers-compensation-law-utah-county-faq.json",
-        "bytes": 843,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/mark-talley-esq-workers-compensation-law-west-valley-city-faq.json",
-        "bytes": 863,
+        "bytes": 2107,
         "purpose": "schema"
       },
       {
         "path": "lawyers/jon-m-bonneson-esq-profile.json",
-        "bytes": 933,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-salt-lake-city.json",
-        "bytes": 665,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-ogden.json",
-        "bytes": 656,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-st-george.json",
-        "bytes": 661,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-utah-county.json",
-        "bytes": 676,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-west-valley-city.json",
-        "bytes": 667,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-west-jordan.json",
-        "bytes": 662,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-sandy.json",
-        "bytes": 656,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-salt-lake-city-faq.json",
-        "bytes": 914,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-ogden-faq.json",
-        "bytes": 878,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-st-george-faq.json",
-        "bytes": 898,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-utah-county-faq.json",
-        "bytes": 902,
-        "purpose": "schema"
-      },
-      {
-        "path": "lawyers/jon-m-bonneson-esq-workers-compensation-law-west-valley-city-faq.json",
-        "bytes": 922,
+        "bytes": 2158,
         "purpose": "schema"
       }
     ],
@@ -846,7 +461,7 @@
     "organization": [
       {
         "path": "organization/just-work-comp-law-organization.json",
-        "bytes": 1817,
+        "bytes": 10970,
         "purpose": "schema"
       }
     ],
@@ -1747,32 +1362,32 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 11763,
+        "bytes": 17541,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 96546,
+        "bytes": 59448,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 60672,
+        "bytes": 69501,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 27555,
+        "bytes": 33566,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11095,
+        "bytes": 17181,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 102133,
+        "bytes": 108219,
         "purpose": "LLM-optimized public page"
       },
       {
@@ -1789,7 +1404,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4944,
+        "bytes": 7326,
         "purpose": "LLM hint"
       },
       {
@@ -1809,37 +1424,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 3963,
+        "bytes": 8396,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 147463,
+        "bytes": 121107,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 44531,
+        "bytes": 37924,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 44531,
+        "bytes": 37924,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4892,
+        "bytes": 7273,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 48814,
+        "bytes": 40920,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 43374,
+        "bytes": 33540,
         "purpose": "AI sitemap"
       },
       {
@@ -1854,25 +1469,6 @@
       "url": "https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40",
       "pagesUrl": "https://justworkcomplaw-data.aiovisibility.net/",
       "repo": "AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/just-work-comp-law-ai-schemas-ffkk",
-      "pagesUrl": "https://just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io/"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/just-work-comp-law-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/just-work-comp-law-ai-schemas/",
-      "repo": "aiovisibilityhub/just-work-comp-law-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/just-work-comp-law-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/22947648"
     }
   }
 }

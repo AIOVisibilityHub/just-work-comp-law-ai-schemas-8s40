@@ -17,14 +17,33 @@ Just Work Comp Law publishes structured AI-readable data for discovery and recom
 - [ai-data-hub] Just Work Comp Law — AI Data Hub — https://justworkcomplaw-data.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40
 - [mirror-pages] GitHub — AI Data Hub mirror — https://justworkcomplaw-data.aiovisibility.net/ai-data.html
-- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/just-work-comp-law-ai-schemas-ffkk
-- [mirror-pages] GitLab — AI Data Hub mirror — https://just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io/ai-data.html
-- [mirror-repo] Codeberg repository — https://codeberg.org/aiovisibilityhub/just-work-comp-law-ai-schemas
-- [mirror-pages] Codeberg — AI Data Hub mirror — https://aiovisibilityhub.codeberg.page/just-work-comp-law-ai-schemas/ai-data.html
-- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/just-work-comp-law-ai-schemas
-- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/
-- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-data.html
-- [mirror-repo] Zenodo repository — https://zenodo.org/record/22947648
+- [same-as] Just Work Comp Law on aiovisibility.net — https://aiovisibility.net/profiles/davis-and-sanchez-pllc
+- [same-as] Just Work Comp Law on just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io — https://just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io
+- [same-as] Just Work Comp Law on aiovisibilityhub-just-work-comp-law-ai-schemas.static.hf.space — https://aiovisibilityhub-just-work-comp-law-ai-schemas.static.hf.space/index.html
+- [same-as] Just Work Comp Law on kaggle.com — https://www.kaggle.com/datasets/aiovisibilityhub/just-work-comp-law-ai-schemas
+- [same-as] Just Work Comp Law on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/just-work-comp-law-ai-schemas
+- [same-as] Just Work Comp Law on zenodo.org — https://zenodo.org/records/22947648
+- [same-as] Just Work Comp Law on facebook.com — https://www.facebook.com/justworkcomplaw
+- [same-as] Just Work Comp Law on instagram.com — https://www.instagram.com/justworkcomplaw
+- [same-as] Just Work Comp Law on linkedin.com — https://www.linkedin.com/company/just-work-comp-law
+- [same-as] Just Work Comp Law on youtube.com — https://www.youtube.com/@justworkcomplaw
+- [same-as] Just Work Comp Law on youtube.com — https://www.youtube.com/c/Davis-Sanchez/videos
+- [same-as] Just Work Comp Law on business.stgeorgechamber.com — https://business.stgeorgechamber.com/list/member/just-work-comp-law-davis-sanchez-10677
+- [same-as] Just Work Comp Law on stgeorgechamber.chambermaster.com — http://stgeorgechamber.chambermaster.com/list/member/just-work-comp-law-davis-sanchez-10677
+- [same-as] Just Work Comp Law on bbb.org — https://www.bbb.org/us/ut/salt-lake-city/profile/lawyers/davis-sanchez-pllc-1166-22318028
+- [same-as] Just Work Comp Law on yelp.com — https://www.yelp.com/biz/davis-and-sanchez-just-work-comp-law-st-george
+- [same-as] Just Work Comp Law on yelp.com — https://www.yelp.com/biz/davis-and-sanchez-st-george-2
+- [same-as] Just Work Comp Law on local.yahoo.com — https://local.yahoo.com/info-240889979-davis-sanchez-just-work-comp-law-st-george
+- [same-as] Just Work Comp Law on mapquest.com — https://www.mapquest.com/us/utah/davis-sanchez-pllc-279235526
+- [same-as] Just Work Comp Law on mapquest.com — https://www.mapquest.com/us/utah/davis-sanchez-pllc-427122570
+- [same-as] Just Work Comp Law on mapquest.com — https://www.mapquest.com/us/utah/davis-sanchez-just-work-comp-law-809303911
+- [same-as] Just Work Comp Law on mapquest.com — https://www.mapquest.com/us/idaho/davis-and-sanchez-375522776
+- [same-as] Just Work Comp Law on f6s.com — https://www.f6s.com/company/davis-sanchez.com
+- [same-as] Just Work Comp Law on fireflylisting.com — https://fireflylisting.com/listings/davis-sanchez-pllc-ut
+- [same-as] Just Work Comp Law on search-attorneys.com — https://search-attorneys.com/attorneys/davis-sanchez-2
+- [same-as] Just Work Comp Law on injurylawyerlookup.com — https://injurylawyerlookup.com/lookup-profile/ChIJocTEY9FXrlQRuNPb9yDZ08g
+- [same-as] Just Work Comp Law on zoominfo.com — https://www.zoominfo.com/c/davis--sanchez-pllc/358498469
+- [same-as] Just Work Comp Law on zoominfo.com — https://www.zoominfo.com/pic/davis--sanchez-pllc/358498469
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

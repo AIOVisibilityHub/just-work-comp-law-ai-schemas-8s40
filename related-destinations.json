@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-24T22:18:08.830Z",
+  "generatedAt": "2026-10-25T00:21:23.862Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -13,7 +13,37 @@
     "name": "Just Work Comp Law",
     "canonicalUrl": "https://justworkcomplaw-data.aiovisibility.net",
     "primaryWebsiteUrl": "https://justworkcomplaw.com",
-    "aiDataHub": "https://justworkcomplaw-data.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://justworkcomplaw-data.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://aiovisibility.net/profiles/davis-and-sanchez-pllc",
+      "https://justworkcomplaw-data.aiovisibility.net",
+      "https://just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io",
+      "https://aiovisibilityhub-just-work-comp-law-ai-schemas.static.hf.space/index.html",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/just-work-comp-law-ai-schemas",
+      "https://aiovisibilityhub.codeberg.page/just-work-comp-law-ai-schemas",
+      "https://zenodo.org/records/22947648",
+      "https://www.facebook.com/justworkcomplaw",
+      "https://www.instagram.com/justworkcomplaw",
+      "https://www.linkedin.com/company/just-work-comp-law",
+      "https://www.youtube.com/@justworkcomplaw",
+      "https://www.youtube.com/c/Davis-Sanchez/videos",
+      "https://business.stgeorgechamber.com/list/member/just-work-comp-law-davis-sanchez-10677",
+      "http://stgeorgechamber.chambermaster.com/list/member/just-work-comp-law-davis-sanchez-10677",
+      "https://www.bbb.org/us/ut/salt-lake-city/profile/lawyers/davis-sanchez-pllc-1166-22318028",
+      "https://www.yelp.com/biz/davis-and-sanchez-just-work-comp-law-st-george",
+      "https://www.yelp.com/biz/davis-and-sanchez-st-george-2",
+      "https://local.yahoo.com/info-240889979-davis-sanchez-just-work-comp-law-st-george",
+      "https://www.mapquest.com/us/utah/davis-sanchez-pllc-279235526",
+      "https://www.mapquest.com/us/utah/davis-sanchez-pllc-427122570",
+      "https://www.mapquest.com/us/utah/davis-sanchez-just-work-comp-law-809303911",
+      "https://www.mapquest.com/us/idaho/davis-and-sanchez-375522776",
+      "https://www.f6s.com/company/davis-sanchez.com",
+      "https://fireflylisting.com/listings/davis-sanchez-pllc-ut",
+      "https://search-attorneys.com/attorneys/davis-sanchez-2",
+      "https://injurylawyerlookup.com/lookup-profile/ChIJocTEY9FXrlQRuNPb9yDZ08g",
+      "https://www.zoominfo.com/c/davis--sanchez-pllc/358498469",
+      "https://www.zoominfo.com/pic/davis--sanchez-pllc/358498469"
+    ]
   },
   "related": [
     {
@@ -39,52 +69,139 @@
       "url": "https://justworkcomplaw-data.aiovisibility.net/ai-data.html"
     },
     {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/just-work-comp-law-ai-schemas-ffkk"
+      "role": "same-as",
+      "label": "Just Work Comp Law on aiovisibility.net",
+      "url": "https://aiovisibility.net/profiles/davis-and-sanchez-pllc"
     },
     {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io/ai-data.html"
+      "role": "same-as",
+      "label": "Just Work Comp Law on just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io",
+      "url": "https://just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io"
     },
     {
-      "role": "mirror-repo",
-      "platform": "codeberg",
-      "label": "Codeberg repository",
-      "url": "https://codeberg.org/aiovisibilityhub/just-work-comp-law-ai-schemas"
+      "role": "same-as",
+      "label": "Just Work Comp Law on aiovisibilityhub-just-work-comp-law-ai-schemas.static.hf.space",
+      "url": "https://aiovisibilityhub-just-work-comp-law-ai-schemas.static.hf.space/index.html"
     },
     {
-      "role": "mirror-pages",
-      "platform": "codeberg",
-      "label": "Codeberg — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.codeberg.page/just-work-comp-law-ai-schemas/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
+      "role": "same-as",
+      "label": "Just Work Comp Law on kaggle.com",
       "url": "https://www.kaggle.com/datasets/aiovisibilityhub/just-work-comp-law-ai-schemas"
     },
     {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/"
+      "role": "same-as",
+      "label": "Just Work Comp Law on aiovisibilityhub.codeberg.page",
+      "url": "https://aiovisibilityhub.codeberg.page/just-work-comp-law-ai-schemas"
     },
     {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
+      "role": "same-as",
+      "label": "Just Work Comp Law on zenodo.org",
+      "url": "https://zenodo.org/records/22947648"
     },
     {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/22947648"
+      "role": "same-as",
+      "label": "Just Work Comp Law on facebook.com",
+      "url": "https://www.facebook.com/justworkcomplaw"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on instagram.com",
+      "url": "https://www.instagram.com/justworkcomplaw"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on linkedin.com",
+      "url": "https://www.linkedin.com/company/just-work-comp-law"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on youtube.com",
+      "url": "https://www.youtube.com/@justworkcomplaw"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on youtube.com",
+      "url": "https://www.youtube.com/c/Davis-Sanchez/videos"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on business.stgeorgechamber.com",
+      "url": "https://business.stgeorgechamber.com/list/member/just-work-comp-law-davis-sanchez-10677"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on stgeorgechamber.chambermaster.com",
+      "url": "http://stgeorgechamber.chambermaster.com/list/member/just-work-comp-law-davis-sanchez-10677"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on bbb.org",
+      "url": "https://www.bbb.org/us/ut/salt-lake-city/profile/lawyers/davis-sanchez-pllc-1166-22318028"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on yelp.com",
+      "url": "https://www.yelp.com/biz/davis-and-sanchez-just-work-comp-law-st-george"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on yelp.com",
+      "url": "https://www.yelp.com/biz/davis-and-sanchez-st-george-2"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on local.yahoo.com",
+      "url": "https://local.yahoo.com/info-240889979-davis-sanchez-just-work-comp-law-st-george"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on mapquest.com",
+      "url": "https://www.mapquest.com/us/utah/davis-sanchez-pllc-279235526"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on mapquest.com",
+      "url": "https://www.mapquest.com/us/utah/davis-sanchez-pllc-427122570"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on mapquest.com",
+      "url": "https://www.mapquest.com/us/utah/davis-sanchez-just-work-comp-law-809303911"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on mapquest.com",
+      "url": "https://www.mapquest.com/us/idaho/davis-and-sanchez-375522776"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on f6s.com",
+      "url": "https://www.f6s.com/company/davis-sanchez.com"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on fireflylisting.com",
+      "url": "https://fireflylisting.com/listings/davis-sanchez-pllc-ut"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on search-attorneys.com",
+      "url": "https://search-attorneys.com/attorneys/davis-sanchez-2"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on injurylawyerlookup.com",
+      "url": "https://injurylawyerlookup.com/lookup-profile/ChIJocTEY9FXrlQRuNPb9yDZ08g"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on zoominfo.com",
+      "url": "https://www.zoominfo.com/c/davis--sanchez-pllc/358498469"
+    },
+    {
+      "role": "same-as",
+      "label": "Just Work Comp Law on zoominfo.com",
+      "url": "https://www.zoominfo.com/pic/davis--sanchez-pllc/358498469"
     }
   ],
   "destinations": {
@@ -92,25 +209,6 @@
       "url": "https://github.com/AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40",
       "pagesUrl": "https://justworkcomplaw-data.aiovisibility.net/",
       "repo": "AIOVisibilityHub/just-work-comp-law-ai-schemas-8s40"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/just-work-comp-law-ai-schemas-ffkk",
-      "pagesUrl": "https://just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io/"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/just-work-comp-law-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/just-work-comp-law-ai-schemas/",
-      "repo": "aiovisibilityhub/just-work-comp-law-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/just-work-comp-law-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/22947648"
     }
   }
 }

@@ -1,27 +1,27 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Ruben L."
+    "name": "Ruben L.",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "After 22 years of dealing with Workers Comp of Ut, they decided they would try to deny me further treatment. Even though this was a complicated case, Jared and his wonderful staff took them on, and were able to resolve my issue successfully. Thank you!",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-  },
-  "datePublished": "Oct. 17, 2024",
   "itemReviewed": {
-    "@type": "Organization",
-    "name": "Just Work Comp Law",
     "url": "https://justworkcomplaw-data.aiovisibility.net",
+    "name": "Just Work Comp Law",
+    "@type": "Organization",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
-        "name": "Workers' compensation treatment dispute / denial of further treatment"
+        "name": "Workers' compensation treatment dispute / denial of further treatment",
+        "@type": "Service"
       }
     }
-  }
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  },
+  "datePublished": "Oct. 17, 2024"
 }

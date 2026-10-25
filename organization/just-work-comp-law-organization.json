@@ -2,37 +2,66 @@
   "url": "https://justworkcomplaw.com",
   "name": "Just Work Comp Law",
   "@type": "Organization",
-  "email": "info@davis-sanchez.com",
+  "sameAs": [
+    "https://aiovisibility.net/profiles/davis-and-sanchez-pllc",
+    "https://justworkcomplaw-data.aiovisibility.net",
+    "https://just-work-comp-law-ai-schemas-ffkk-fe3ee7.gitlab.io",
+    "https://aiovisibilityhub-just-work-comp-law-ai-schemas.static.hf.space/index.html",
+    "https://www.kaggle.com/datasets/aiovisibilityhub/just-work-comp-law-ai-schemas",
+    "https://aiovisibilityhub.codeberg.page/just-work-comp-law-ai-schemas",
+    "https://zenodo.org/records/22947648",
+    "https://www.facebook.com/justworkcomplaw",
+    "https://www.instagram.com/justworkcomplaw",
+    "https://www.linkedin.com/company/just-work-comp-law",
+    "https://www.youtube.com/@justworkcomplaw",
+    "https://www.youtube.com/c/Davis-Sanchez/videos",
+    "https://business.stgeorgechamber.com/list/member/just-work-comp-law-davis-sanchez-10677",
+    "http://stgeorgechamber.chambermaster.com/list/member/just-work-comp-law-davis-sanchez-10677",
+    "https://www.bbb.org/us/ut/salt-lake-city/profile/lawyers/davis-sanchez-pllc-1166-22318028",
+    "https://www.yelp.com/biz/davis-and-sanchez-just-work-comp-law-st-george",
+    "https://www.yelp.com/biz/davis-and-sanchez-st-george-2",
+    "https://local.yahoo.com/info-240889979-davis-sanchez-just-work-comp-law-st-george",
+    "https://www.mapquest.com/us/utah/davis-sanchez-pllc-279235526",
+    "https://www.mapquest.com/us/utah/davis-sanchez-pllc-427122570",
+    "https://www.mapquest.com/us/utah/davis-sanchez-just-work-comp-law-809303911",
+    "https://www.mapquest.com/us/idaho/davis-and-sanchez-375522776",
+    "https://www.f6s.com/company/davis-sanchez.com",
+    "https://fireflylisting.com/listings/davis-sanchez-pllc-ut",
+    "https://search-attorneys.com/attorneys/davis-sanchez-2",
+    "https://injurylawyerlookup.com/lookup-profile/ChIJocTEY9FXrlQRuNPb9yDZ08g",
+    "https://www.zoominfo.com/c/davis--sanchez-pllc/358498469",
+    "https://www.zoominfo.com/pic/davis--sanchez-pllc/358498469"
+  ],
   "@context": "https://schema.org",
   "employee": [
     {
       "name": "Halston T. Davis, Esq.",
-      "@type": "Attorney",
+      "@type": "Person",
       "jobTitle": "Team Member"
     },
     {
       "name": "Jared L. Mortenson, Esq.",
-      "@type": "Attorney",
+      "@type": "Person",
       "jobTitle": "Team Member"
     },
     {
       "name": "Mark J. Sanchez, Esq.",
-      "@type": "Attorney",
+      "@type": "Person",
       "jobTitle": "Team Member"
     },
     {
       "name": "Blair T. Jones, Esq.",
-      "@type": "Attorney",
+      "@type": "Person",
       "jobTitle": "Team Member"
     },
     {
       "name": "Mark Talley, Esq.",
-      "@type": "Attorney",
+      "@type": "Person",
       "jobTitle": "Team Member"
     },
     {
       "name": "Jon M. Bonneson, Esq.",
-      "@type": "Attorney",
+      "@type": "Person",
       "jobTitle": "Team Member"
     }
   ],
@@ -63,7 +92,163 @@
       "@type": "City"
     },
     {
-      "name": "Sandy",
+      "name": "Sandy ",
+      "@type": "City"
+    },
+    {
+      "name": "Murray",
+      "@type": "City"
+    },
+    {
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "South Salt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "North Salt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    },
+    {
+      "name": "Midvale",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Holladay",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "Farmington",
+      "@type": "City"
+    },
+    {
+      "name": "Centerville",
+      "@type": "City"
+    },
+    {
+      "name": "Cedar City",
+      "@type": "City"
+    },
+    {
+      "name": "Magna",
+      "@type": "City"
+    },
+    {
+      "name": "Woods Cross",
+      "@type": "City"
+    },
+    {
+      "name": "Kearns",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Kaysville",
+      "@type": "City"
+    },
+    {
+      "name": "Clearfield",
+      "@type": "City"
+    },
+    {
+      "name": "Syracuse",
+      "@type": "City"
+    },
+    {
+      "name": "Roy",
+      "@type": "City"
+    },
+    {
+      "name": "Tooele",
+      "@type": "City"
+    },
+    {
+      "name": "Layton",
+      "@type": "City"
+    },
+    {
+      "name": "West Bountiful",
+      "@type": "City"
+    },
+    {
+      "name": "Emigration Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "White City",
+      "@type": "City"
+    },
+    {
+      "name": "Park City",
+      "@type": "City"
+    },
+    {
+      "name": "Lehi",
+      "@type": "City"
+    },
+    {
+      "name": "Highland",
+      "@type": "City"
+    },
+    {
+      "name": "American Fork",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Provo",
+      "@type": "City"
+    },
+    {
+      "name": "Granite",
+      "@type": "City"
+    },
+    {
+      "name": "Herriman",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Eagle Mountain",
+      "@type": "City"
+    },
+    {
+      "name": "Saratoga Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Lindon",
       "@type": "City"
     }
   ],
@@ -110,7 +295,469 @@
       {
         "@type": "Offer",
         "itemOffered": {
-          "name": "Work injury claim",
+          "name": "Work injury claim ",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Denied workers comp claim",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workers comp appeal",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Fall from ladder on job",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Machine accident work injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Equipment malfunction work injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Exposure to chemicals at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Toxic exposure on job",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workplace respiratory exposure",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Occupational illness",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Hearing loss from workplace noise",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Forklift accident on job",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Construction site accident",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Warehouse accident injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Construction site injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Machinery accident injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Equipment injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Forklift accident",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Warehouse injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Repetitive stress injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Back injury at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Neck injury at work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Toxic workplace exposure injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Respiratory illness from work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Work-related illness",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Long-term workplace exposure injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Occupational disease",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Medical bills after workplace injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Who pays for treatment after work injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workers comp medical coverage",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Denied medical treatment workers comp",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Doctor dispute workers comp",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Lost wages after workplace injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Temporary disability benefits",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Permanent disability benefits",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Unable to return to work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Reduced work capacity",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Light duty disputes",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workplace Fall Injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Fall from Height at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Slip and Fall at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Overexertion Injury at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Lifting Injury at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Repetitive Stress Injury at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Construction Site Accident Injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Industrial Workplace Accident Injury",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Machinery Accident at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Equipment Malfunction Injury at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Forklift Accident on job",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Warehouse Accident at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Work-Related Vehicle Accident",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Delivery Driver Accident on the Job",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Struck by Object at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Chemical Exposure at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Toxic Exposure at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Respiratory Exposure at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Workplace Respiratory Illness",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Occupational Disease from Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Work-Related Illness",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Hearing Loss from Workplace Noise",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Back Injury at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Neck Injury at Work",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Temporary Disability Workers’ Compensation Benefits",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Permanent Disability Workers’ Compensation Claim",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Light Duty Work Restriction Workers’ Compensation Dispute",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Denied Medical Treatment Workers’ Compensation Claim",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Unable to Return to Work Workers’ Compensation Claim",
           "@type": "Service"
         }
       }

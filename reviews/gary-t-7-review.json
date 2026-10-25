@@ -1,27 +1,27 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Gary T."
+    "name": "Gary T.",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "El abogado Mark Sanchez hizo un excelente trabajo en mi caso, logramos obtener un gran acuerdo.",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-  },
-  "datePublished": "May. 15, 2023",
   "itemReviewed": {
-    "@type": "Organization",
-    "name": "Just Work Comp Law",
     "url": "https://justworkcomplaw-data.aiovisibility.net",
+    "name": "Just Work Comp Law",
+    "@type": "Organization",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
-        "name": "Workers' compensation legal services"
+        "name": "Workers' compensation legal services",
+        "@type": "Service"
       }
     }
-  }
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  },
+  "datePublished": "May. 15, 2023"
 }

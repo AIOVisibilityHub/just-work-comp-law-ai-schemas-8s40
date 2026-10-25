@@ -1,12 +1,12 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Just Work Comp Law",
   "url": "https://justworkcomplaw-data.aiovisibility.net",
+  "name": "Just Work Comp Law",
+  "@type": "Organization",
+  "@context": "https://schema.org",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 5,
     "bestRating": 5,
+    "ratingValue": 5,
     "reviewCount": 17
   }
 }

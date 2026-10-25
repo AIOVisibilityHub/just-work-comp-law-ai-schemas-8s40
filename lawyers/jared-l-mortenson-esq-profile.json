@@ -35,23 +35,165 @@
       "@type": "City"
     },
     {
-      "name": "Sandy",
+      "name": "Sandy ",
       "@type": "City"
     },
     {
-      "name": "Utah",
-      "@type": "State"
-    }
-  ],
-  "knowsAbout": [
-    "Workers' compensation law",
-    "Workers’ Compensation"
-  ],
-  "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits.",
-  "hasCredential": [
+      "name": "Murray",
+      "@type": "City"
+    },
     {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "License #12173"
+      "name": "Millcreek",
+      "@type": "City"
+    },
+    {
+      "name": "South Salt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "North Salt Lake",
+      "@type": "City"
+    },
+    {
+      "name": "Bountiful",
+      "@type": "City"
+    },
+    {
+      "name": "Midvale",
+      "@type": "City"
+    },
+    {
+      "name": "Taylorsville",
+      "@type": "City"
+    },
+    {
+      "name": "Cottonwood Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Holladay",
+      "@type": "City"
+    },
+    {
+      "name": "Draper",
+      "@type": "City"
+    },
+    {
+      "name": "Riverton",
+      "@type": "City"
+    },
+    {
+      "name": "Farmington",
+      "@type": "City"
+    },
+    {
+      "name": "Centerville",
+      "@type": "City"
+    },
+    {
+      "name": "Cedar City",
+      "@type": "City"
+    },
+    {
+      "name": "Magna",
+      "@type": "City"
+    },
+    {
+      "name": "Woods Cross",
+      "@type": "City"
+    },
+    {
+      "name": "Kearns",
+      "@type": "City"
+    },
+    {
+      "name": "Bluffdale",
+      "@type": "City"
+    },
+    {
+      "name": "Kaysville",
+      "@type": "City"
+    },
+    {
+      "name": "Clearfield",
+      "@type": "City"
+    },
+    {
+      "name": "Syracuse",
+      "@type": "City"
+    },
+    {
+      "name": "Roy",
+      "@type": "City"
+    },
+    {
+      "name": "Tooele",
+      "@type": "City"
+    },
+    {
+      "name": "Layton",
+      "@type": "City"
+    },
+    {
+      "name": "West Bountiful",
+      "@type": "City"
+    },
+    {
+      "name": "Emigration Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "White City",
+      "@type": "City"
+    },
+    {
+      "name": "Park City",
+      "@type": "City"
+    },
+    {
+      "name": "Lehi",
+      "@type": "City"
+    },
+    {
+      "name": "Highland",
+      "@type": "City"
+    },
+    {
+      "name": "American Fork",
+      "@type": "City"
+    },
+    {
+      "name": "Pleasant Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Provo",
+      "@type": "City"
+    },
+    {
+      "name": "Granite",
+      "@type": "City"
+    },
+    {
+      "name": "Herriman",
+      "@type": "City"
+    },
+    {
+      "name": "South Jordan",
+      "@type": "City"
+    },
+    {
+      "name": "Eagle Mountain",
+      "@type": "City"
+    },
+    {
+      "name": "Saratoga Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Lindon",
+      "@type": "City"
     }
-  ]
+  ],
+  "description": "Jared has practiced law since 2008 and now focuses exclusively on workers' compensation. He helps injured workers challenge denied benefits."
 }

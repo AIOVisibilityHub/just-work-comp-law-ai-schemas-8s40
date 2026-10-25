@@ -21,9 +21,17 @@ ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
 .svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
 .svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
-.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
-.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
-.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
 .svc-index .n{font-weight:400;color:#666}
 .cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
 .cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
@@ -1054,7 +1062,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Services — Just Work Comp Law",
   "description": "Just Work Comp Law services: Back injury at work, Chemical Exposure at Work, Construction site accident, Construction Site Accident Injury, Construction site injury.",
   "inLanguage": "en-US",
-  "dateModified": "2026-09-24",
+  "dateModified": "2026-10-25",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Just Work Comp Law",
@@ -1276,7 +1284,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Services — Just Work Comp Law" />
 <meta name="twitter:description" content="Just Work Comp Law services: Back injury at work, Chemical Exposure at Work, Construction site accident, Construction Site Accident Injury, Construction site injury." />
-<meta name="dcterms.modified" content="2026-09-24" />
+<meta name="dcterms.modified" content="2026-10-25" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1286,8 +1294,8 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Services — Just Work Comp Law",
   "description": "Just Work Comp Law services: Back injury at work, Chemical Exposure at Work, Construction site accident, Construction Site Accident Injury, Construction site injury.",
   "inLanguage": "en-US",
-  "datePublished": "2026-09-24",
-  "dateModified": "2026-09-24",
+  "datePublished": "2026-10-25",
+  "dateModified": "2026-10-25",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Just Work Comp Law",
@@ -1506,81 +1514,81 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <a href="contact.html">Contact</a>
 <a href="faqs.html">FAQs</a>
 <a href="team-members.html">Attorneys</a></nav>
-<nav class="svc-index" id="top" aria-label="Service categories">
-<h2>Browse by category</h2>
-<ul>
-<li><a href="#cat-services">Services <span class="n">66</span></a></li>
+<nav class="svc-index" id="top" aria-label="Services index">
+<h2>Service categories</h2>
+<ul class="svc-bubbles">
+<li><a href="#cat-services">Services <span class="n">(66)</span></a></li>
 </ul>
 </nav>
 <section class="cat" id="cat-services">
 <h2>Services<span class="count">66 services</span></h2>
 <ul class="svc-list">
-<li><strong>Back injury at work</strong> <span class="scope">&mdash; Planning and construction support for back injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Chemical Exposure at Work</strong> <span class="scope">&mdash; Planning and construction support for chemical exposure at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Construction site accident</strong> <span class="scope">&mdash; Planning and construction support for construction site accident projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Construction Site Accident Injury</strong> <span class="scope">&mdash; Planning and construction support for construction site accident injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Construction site injury</strong> <span class="scope">&mdash; Planning and construction support for construction site injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Delivery Driver Accident on the Job</strong> <span class="scope">&mdash; Planning and construction support for delivery driver accident on the job projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Denied medical treatment workers comp</strong> <span class="scope">&mdash; Planning and construction support for denied medical treatment workers comp projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Denied Medical Treatment Workers’ Compensation Claim</strong> <span class="scope">&mdash; Planning and construction support for denied medical treatment workers’ compensation claim projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Denied workers comp claim</strong> <span class="scope">&mdash; Planning and construction support for denied workers comp claim projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Doctor dispute workers comp</strong> <span class="scope">&mdash; Planning and construction support for doctor dispute workers comp projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Equipment injury</strong> <span class="scope">&mdash; Planning and construction support for equipment injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Equipment Malfunction Injury at Work</strong> <span class="scope">&mdash; Planning and construction support for equipment malfunction injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Equipment malfunction work injury</strong> <span class="scope">&mdash; Planning and construction support for equipment malfunction work injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Exposure to chemicals at work</strong> <span class="scope">&mdash; Planning and construction support for exposure to chemicals at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Fall from Height at Work</strong> <span class="scope">&mdash; Planning and construction support for fall from height at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Fall from ladder on job</strong> <span class="scope">&mdash; Planning and construction support for fall from ladder on job projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Forklift accident</strong> <span class="scope">&mdash; Planning and construction support for forklift accident projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Forklift accident on job</strong> <span class="scope">&mdash; Planning and construction support for forklift accident on job projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Hearing loss from workplace noise</strong> <span class="scope">&mdash; Planning and construction support for hearing loss from workplace noise projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Industrial Workplace Accident Injury</strong> <span class="scope">&mdash; Planning and construction support for industrial workplace accident injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Injured at work</strong> <span class="scope">&mdash; Planning and construction support for injured at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Lifting Injury at Work</strong> <span class="scope">&mdash; Planning and construction support for lifting injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Lifting on job injury</strong> <span class="scope">&mdash; Planning and construction support for lifting on job injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Light duty disputes</strong> <span class="scope">&mdash; Planning and construction support for light duty disputes projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Light Duty Work Restriction Workers’ Compensation Dispute</strong> <span class="scope">&mdash; Planning and construction support for light duty work restriction workers’ compensation dispute projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Long-term workplace exposure injury</strong> <span class="scope">&mdash; Planning and construction support for long-term workplace exposure injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Lost wages after workplace injury</strong> <span class="scope">&mdash; Planning and construction support for lost wages after workplace injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Machine accident work injury</strong> <span class="scope">&mdash; Planning and construction support for machine accident work injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Machinery Accident at Work</strong> <span class="scope">&mdash; Planning and construction support for machinery accident at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Machinery accident injury</strong> <span class="scope">&mdash; Planning and construction support for machinery accident injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Medical bills after workplace injury</strong> <span class="scope">&mdash; Planning and construction support for medical bills after workplace injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Neck injury at work</strong> <span class="scope">&mdash; Planning and construction support for neck injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Occupational disease</strong> <span class="scope">&mdash; Planning and construction support for occupational disease projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Occupational Disease from Work</strong> <span class="scope">&mdash; Planning and construction support for occupational disease from work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Occupational illness</strong> <span class="scope">&mdash; Planning and construction support for occupational illness projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>On-the-job accident</strong> <span class="scope">&mdash; Planning and construction support for on-the-job accident projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Overexertion Injury at Work</strong> <span class="scope">&mdash; Planning and construction support for overexertion injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Permanent disability benefits</strong> <span class="scope">&mdash; Planning and construction support for permanent disability benefits projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Permanent Disability Workers’ Compensation Claim</strong> <span class="scope">&mdash; Planning and construction support for permanent disability workers’ compensation claim projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Reduced work capacity</strong> <span class="scope">&mdash; Planning and construction support for reduced work capacity projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Repetitive stress injury</strong> <span class="scope">&mdash; Planning and construction support for repetitive stress injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Repetitive Stress Injury at Work</strong> <span class="scope">&mdash; Planning and construction support for repetitive stress injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Respiratory Exposure at Work</strong> <span class="scope">&mdash; Planning and construction support for respiratory exposure at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Respiratory illness from work</strong> <span class="scope">&mdash; Planning and construction support for respiratory illness from work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Slip and fall at work</strong> <span class="scope">&mdash; Planning and construction support for slip and fall at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Struck by Object at Work</strong> <span class="scope">&mdash; Planning and construction support for struck by object at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Temporary disability benefits</strong> <span class="scope">&mdash; Planning and construction support for temporary disability benefits projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Temporary Disability Workers’ Compensation Benefits</strong> <span class="scope">&mdash; Planning and construction support for temporary disability workers’ compensation benefits projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Toxic Exposure at Work</strong> <span class="scope">&mdash; Planning and construction support for toxic exposure at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Toxic exposure on job</strong> <span class="scope">&mdash; Planning and construction support for toxic exposure on job projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Toxic workplace exposure injury</strong> <span class="scope">&mdash; Planning and construction support for toxic workplace exposure injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Unable to return to work</strong> <span class="scope">&mdash; Planning and construction support for unable to return to work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Unable to Return to Work Workers’ Compensation Claim</strong> <span class="scope">&mdash; Planning and construction support for unable to return to work workers’ compensation claim projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Warehouse Accident at Work</strong> <span class="scope">&mdash; Planning and construction support for warehouse accident at work projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Warehouse accident injury</strong> <span class="scope">&mdash; Planning and construction support for warehouse accident injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Warehouse injury</strong> <span class="scope">&mdash; Planning and construction support for warehouse injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Who pays for treatment after work injury</strong> <span class="scope">&mdash; Planning and construction support for who pays for treatment after work injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Work injury claim</strong> <span class="scope">&mdash; Planning and construction support for work injury claim projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Work-related illness</strong> <span class="scope">&mdash; Planning and construction support for work-related illness projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Work-Related Vehicle Accident</strong> <span class="scope">&mdash; Planning and construction support for work-related vehicle accident projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Workers comp appeal</strong> <span class="scope">&mdash; Planning and construction support for workers comp appeal projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Workers comp medical coverage</strong> <span class="scope">&mdash; Planning and construction support for workers comp medical coverage projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Workplace Fall Injury</strong> <span class="scope">&mdash; Planning and construction support for workplace fall injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Workplace injury</strong> <span class="scope">&mdash; Planning and construction support for workplace injury projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Workplace respiratory exposure</strong> <span class="scope">&mdash; Planning and construction support for workplace respiratory exposure projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Workplace Respiratory Illness</strong> <span class="scope">&mdash; Planning and construction support for workplace respiratory illness projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-back-injury-at-work"><strong>Back injury at work</strong> <span class="scope">&mdash; Planning and construction support for back injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-chemical-exposure-at-work"><strong>Chemical Exposure at Work</strong> <span class="scope">&mdash; Planning and construction support for chemical exposure at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-construction-site-accident"><strong>Construction site accident</strong> <span class="scope">&mdash; Planning and construction support for construction site accident projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-construction-site-accident-injury"><strong>Construction Site Accident Injury</strong> <span class="scope">&mdash; Planning and construction support for construction site accident injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-construction-site-injury"><strong>Construction site injury</strong> <span class="scope">&mdash; Planning and construction support for construction site injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-delivery-driver-accident-on-the-job"><strong>Delivery Driver Accident on the Job</strong> <span class="scope">&mdash; Planning and construction support for delivery driver accident on the job projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-denied-medical-treatment-workers-comp"><strong>Denied medical treatment workers comp</strong> <span class="scope">&mdash; Planning and construction support for denied medical treatment workers comp projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-denied-medical-treatment-workers-compensation-claim"><strong>Denied Medical Treatment Workers’ Compensation Claim</strong> <span class="scope">&mdash; Planning and construction support for denied medical treatment workers’ compensation claim projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-denied-workers-comp-claim"><strong>Denied workers comp claim</strong> <span class="scope">&mdash; Planning and construction support for denied workers comp claim projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-doctor-dispute-workers-comp"><strong>Doctor dispute workers comp</strong> <span class="scope">&mdash; Planning and construction support for doctor dispute workers comp projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-equipment-injury"><strong>Equipment injury</strong> <span class="scope">&mdash; Planning and construction support for equipment injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-equipment-malfunction-injury-at-work"><strong>Equipment Malfunction Injury at Work</strong> <span class="scope">&mdash; Planning and construction support for equipment malfunction injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-equipment-malfunction-work-injury"><strong>Equipment malfunction work injury</strong> <span class="scope">&mdash; Planning and construction support for equipment malfunction work injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exposure-to-chemicals-at-work"><strong>Exposure to chemicals at work</strong> <span class="scope">&mdash; Planning and construction support for exposure to chemicals at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-fall-from-height-at-work"><strong>Fall from Height at Work</strong> <span class="scope">&mdash; Planning and construction support for fall from height at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-fall-from-ladder-on-job"><strong>Fall from ladder on job</strong> <span class="scope">&mdash; Planning and construction support for fall from ladder on job projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-forklift-accident"><strong>Forklift accident</strong> <span class="scope">&mdash; Planning and construction support for forklift accident projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-forklift-accident-on-job"><strong>Forklift accident on job</strong> <span class="scope">&mdash; Planning and construction support for forklift accident on job projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-hearing-loss-from-workplace-noise"><strong>Hearing loss from workplace noise</strong> <span class="scope">&mdash; Planning and construction support for hearing loss from workplace noise projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-industrial-workplace-accident-injury"><strong>Industrial Workplace Accident Injury</strong> <span class="scope">&mdash; Planning and construction support for industrial workplace accident injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-injured-at-work"><strong>Injured at work</strong> <span class="scope">&mdash; Planning and construction support for injured at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-lifting-injury-at-work"><strong>Lifting Injury at Work</strong> <span class="scope">&mdash; Planning and construction support for lifting injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-lifting-on-job-injury"><strong>Lifting on job injury</strong> <span class="scope">&mdash; Planning and construction support for lifting on job injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-light-duty-disputes"><strong>Light duty disputes</strong> <span class="scope">&mdash; Planning and construction support for light duty disputes projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-light-duty-work-restriction-workers-compensation-dispute"><strong>Light Duty Work Restriction Workers’ Compensation Dispute</strong> <span class="scope">&mdash; Planning and construction support for light duty work restriction workers’ compensation dispute projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-long-term-workplace-exposure-injury"><strong>Long-term workplace exposure injury</strong> <span class="scope">&mdash; Planning and construction support for long-term workplace exposure injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-lost-wages-after-workplace-injury"><strong>Lost wages after workplace injury</strong> <span class="scope">&mdash; Planning and construction support for lost wages after workplace injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-machine-accident-work-injury"><strong>Machine accident work injury</strong> <span class="scope">&mdash; Planning and construction support for machine accident work injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-machinery-accident-at-work"><strong>Machinery Accident at Work</strong> <span class="scope">&mdash; Planning and construction support for machinery accident at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-machinery-accident-injury"><strong>Machinery accident injury</strong> <span class="scope">&mdash; Planning and construction support for machinery accident injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-medical-bills-after-workplace-injury"><strong>Medical bills after workplace injury</strong> <span class="scope">&mdash; Planning and construction support for medical bills after workplace injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-neck-injury-at-work"><strong>Neck injury at work</strong> <span class="scope">&mdash; Planning and construction support for neck injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-occupational-disease"><strong>Occupational disease</strong> <span class="scope">&mdash; Planning and construction support for occupational disease projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-occupational-disease-from-work"><strong>Occupational Disease from Work</strong> <span class="scope">&mdash; Planning and construction support for occupational disease from work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-occupational-illness"><strong>Occupational illness</strong> <span class="scope">&mdash; Planning and construction support for occupational illness projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-on-the-job-accident"><strong>On-the-job accident</strong> <span class="scope">&mdash; Planning and construction support for on-the-job accident projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-overexertion-injury-at-work"><strong>Overexertion Injury at Work</strong> <span class="scope">&mdash; Planning and construction support for overexertion injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-permanent-disability-benefits"><strong>Permanent disability benefits</strong> <span class="scope">&mdash; Planning and construction support for permanent disability benefits projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-permanent-disability-workers-compensation-claim"><strong>Permanent Disability Workers’ Compensation Claim</strong> <span class="scope">&mdash; Planning and construction support for permanent disability workers’ compensation claim projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-reduced-work-capacity"><strong>Reduced work capacity</strong> <span class="scope">&mdash; Planning and construction support for reduced work capacity projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-repetitive-stress-injury"><strong>Repetitive stress injury</strong> <span class="scope">&mdash; Planning and construction support for repetitive stress injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-repetitive-stress-injury-at-work"><strong>Repetitive Stress Injury at Work</strong> <span class="scope">&mdash; Planning and construction support for repetitive stress injury at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-respiratory-exposure-at-work"><strong>Respiratory Exposure at Work</strong> <span class="scope">&mdash; Planning and construction support for respiratory exposure at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-respiratory-illness-from-work"><strong>Respiratory illness from work</strong> <span class="scope">&mdash; Planning and construction support for respiratory illness from work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-slip-and-fall-at-work"><strong>Slip and fall at work</strong> <span class="scope">&mdash; Planning and construction support for slip and fall at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-struck-by-object-at-work"><strong>Struck by Object at Work</strong> <span class="scope">&mdash; Planning and construction support for struck by object at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-temporary-disability-benefits"><strong>Temporary disability benefits</strong> <span class="scope">&mdash; Planning and construction support for temporary disability benefits projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-temporary-disability-workers-compensation-benefits"><strong>Temporary Disability Workers’ Compensation Benefits</strong> <span class="scope">&mdash; Planning and construction support for temporary disability workers’ compensation benefits projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-toxic-exposure-at-work"><strong>Toxic Exposure at Work</strong> <span class="scope">&mdash; Planning and construction support for toxic exposure at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-toxic-exposure-on-job"><strong>Toxic exposure on job</strong> <span class="scope">&mdash; Planning and construction support for toxic exposure on job projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-toxic-workplace-exposure-injury"><strong>Toxic workplace exposure injury</strong> <span class="scope">&mdash; Planning and construction support for toxic workplace exposure injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-unable-to-return-to-work"><strong>Unable to return to work</strong> <span class="scope">&mdash; Planning and construction support for unable to return to work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-unable-to-return-to-work-workers-compensation-claim"><strong>Unable to Return to Work Workers’ Compensation Claim</strong> <span class="scope">&mdash; Planning and construction support for unable to return to work workers’ compensation claim projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-warehouse-accident-at-work"><strong>Warehouse Accident at Work</strong> <span class="scope">&mdash; Planning and construction support for warehouse accident at work projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-warehouse-accident-injury"><strong>Warehouse accident injury</strong> <span class="scope">&mdash; Planning and construction support for warehouse accident injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-warehouse-injury"><strong>Warehouse injury</strong> <span class="scope">&mdash; Planning and construction support for warehouse injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-who-pays-for-treatment-after-work-injury"><strong>Who pays for treatment after work injury</strong> <span class="scope">&mdash; Planning and construction support for who pays for treatment after work injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-work-injury-claim"><strong>Work injury claim</strong> <span class="scope">&mdash; Planning and construction support for work injury claim projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-work-related-illness"><strong>Work-related illness</strong> <span class="scope">&mdash; Planning and construction support for work-related illness projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-work-related-vehicle-accident"><strong>Work-Related Vehicle Accident</strong> <span class="scope">&mdash; Planning and construction support for work-related vehicle accident projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-workers-comp-appeal"><strong>Workers comp appeal</strong> <span class="scope">&mdash; Planning and construction support for workers comp appeal projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-workers-comp-medical-coverage"><strong>Workers comp medical coverage</strong> <span class="scope">&mdash; Planning and construction support for workers comp medical coverage projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-workplace-fall-injury"><strong>Workplace Fall Injury</strong> <span class="scope">&mdash; Planning and construction support for workplace fall injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-workplace-injury"><strong>Workplace injury</strong> <span class="scope">&mdash; Planning and construction support for workplace injury projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-workplace-respiratory-exposure"><strong>Workplace respiratory exposure</strong> <span class="scope">&mdash; Planning and construction support for workplace respiratory exposure projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-workplace-respiratory-illness"><strong>Workplace Respiratory Illness</strong> <span class="scope">&mdash; Planning and construction support for workplace respiratory illness projects, subject to project scope, availability, and the approved service area.</span></li>
 </ul>
 <p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>
